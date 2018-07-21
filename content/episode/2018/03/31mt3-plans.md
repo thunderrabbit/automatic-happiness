@@ -2,6 +2,7 @@
 title: "mt3 plans"
 tags: [ "mt3" ]
 author: Rob Nugen
+draft: true
 date: 2018-03-31T09:17:59+09:00
 ---
 

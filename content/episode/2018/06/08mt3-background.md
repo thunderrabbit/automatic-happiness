@@ -2,6 +2,7 @@
 title: "mt3 history"
 tags: [ "mt3", "history" ]
 author: Rob Nugen
+draft: true
 date: 2018-06-08T21:52:59+09:00
 ---
 
