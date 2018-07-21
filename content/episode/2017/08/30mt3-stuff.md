@@ -2,6 +2,7 @@
 title: setup
 tags: [ "mt3" ]
 author: Rob Nugen
+episode_image: "https://b.robnugen.com/art/marble_track_3/shelter/2017_may_30_finished_shelter/shelter_prep_2017_May_02_10_52_34.jpg"
 date: 2017-08-30T20:04:10+09:00
 ---
 

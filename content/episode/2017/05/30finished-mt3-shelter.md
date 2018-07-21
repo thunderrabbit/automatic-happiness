@@ -2,6 +2,7 @@
 title: finished mt3 shelter
 tags: [ "mt3" ]
 author: Rob Nugen
+episode_image: https://b.robnugen.com/art/marble_track_3/shelter/2017_may_30_finished_shelter/shelter_prep_2017_Jan_24_00_01_19.jpg
 date: 2017-05-30T20:46:10+09:00
 ---
 

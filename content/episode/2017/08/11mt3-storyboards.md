@@ -2,6 +2,7 @@
 title: storyboards
 tags: [ "mt3", "storyboards" ]
 author: Rob Nugen
+episode_image: "https://b.robnugen.com/art/marble_track_3/storyboard/mt3_storyboard_010.jpg"
 date: 2017-08-11T20:34:25+09:00
 ---
 
