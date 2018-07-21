@@ -1,6 +1,6 @@
 ---
 title: "mt3 history in Japanese"
-tags: [ "日本語", "mt3" ]
+tags: [ "japanese", "mt3" ]
 author: Rob Nugen
 date: 2018-06-09T08:20:48+09:00
 ---
