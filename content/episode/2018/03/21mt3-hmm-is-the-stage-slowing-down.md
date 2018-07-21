@@ -6,8 +6,6 @@ youtube: kNjhJQKKWkw
 date: 2018-03-20T15:22:32+09:00
 ---
 
-## 15:22 Tuesday 20 March 2018 JST
-
 (written 09:25 Wednesday 21 March 2018 JST)
 
 In a single day, I can take maybe 20 or 30 frames, which adds a couple

@@ -6,8 +6,6 @@ youtube: C42QgmkaZTk
 date: 2018-03-18T16:40:52+09:00
 ---
 
-## 16:40 Sunday 18 March 2018 JST
-
 An interesting thing is happening with the stage rotation.  Last week I noticed
 a chopstick was sticking out too far for the stage to turn all the way
 around, and this time it has hit the wall and begun to hamper the

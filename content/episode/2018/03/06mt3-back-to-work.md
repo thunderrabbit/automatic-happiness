@@ -6,8 +6,6 @@ youtube: rCc7DaTpdFU
 date: 2018-03-06T16:36:21+09:00
 ---
 
-## 16:36 Tuesday 06 March 2018 JST
-
 Now that the little brother has been found to be alive and kicking,
 it's time to get back to work.
 

@@ -6,8 +6,6 @@ youtube: N7XiggF-FuQ
 date: 2018-03-29T15:41:11+09:00
 ---
 
-## 15:41 Thursday 29 March 2018 JST
-
 I worked for 90 minutes today and nearly 60 minutes the other day (but
 did not put up a new video then).  The latest:
 

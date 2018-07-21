@@ -6,8 +6,6 @@ youtube: Jeud8Y5bu54
 date: 2018-03-17T15:33:38+09:00
 ---
 
-## 15:33 Saturday 17 March 2018 JST
-
 I think I added four seconds of video today in about an hour and a
 half. Pretty speedy because at some points only two characters were
 moving.
