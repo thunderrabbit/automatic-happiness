@@ -5,8 +5,6 @@ author: Rob Nugen
 date: 2017-08-04T13:53:48+09:00
 ---
 
-## 13:53 Friday 04 August 2017 JST
-
 I tried getting Cyberduck to talk to Amazon S3, but could not do it as
 easily as I was able to get it to talk to Dream Objects S3.
 
@@ -25,7 +23,7 @@ duplicity to backup MT3</a>
     pip install boto-rsync
 
     cd ~/mt3
-    boto-rsync   --endpoint objects-us-west-1.dream.io . s3://mt3/mt3
+    boto-rsync   --endpoint objects-us-east-1.dream.io . s3://mt3/mt3
 
 ## 08:58 Wednesday 09 August 2017 JST
 
@@ -35,7 +33,7 @@ I assume this will download the files:
 
     mkdir ~/mt3testrestore
     cd ~/mt3testrestore
-    boto-rsync   --endpoint objects-us-west-1.dream.io s3://mt3/mt3 .
+    boto-rsync   --endpoint objects-us-east-1.dream.io s3://mt3/mt3 .
 
 Let's try!
 

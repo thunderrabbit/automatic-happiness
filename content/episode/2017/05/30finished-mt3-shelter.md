@@ -5,8 +5,6 @@ author: Rob Nugen
 date: 2017-05-30T20:46:10+09:00
 ---
 
-## 20:46 Tuesday 30 May 2017 JST
-
 [![shelter prep 2017 Jan 24 00 01 19](//b.robnugen.com/art/marble_track_3/shelter/2017_may_30_finished_shelter/thumbs/shelter_prep_2017_Jan_24_00_01_19.jpg)](//b.robnugen.com/art/marble_track_3/shelter/2017_may_30_finished_shelter/shelter_prep_2017_Jan_24_00_01_19.jpg)
 [![shelter prep 2017 Jan 24 16 33 36](//b.robnugen.com/art/marble_track_3/shelter/2017_may_30_finished_shelter/thumbs/shelter_prep_2017_Jan_24_16_33_36.jpg)](//b.robnugen.com/art/marble_track_3/shelter/2017_may_30_finished_shelter/shelter_prep_2017_Jan_24_16_33_36.jpg)
 [![shelter prep 2017 Jan 25 09 56 52](//b.robnugen.com/art/marble_track_3/shelter/2017_may_30_finished_shelter/thumbs/shelter_prep_2017_Jan_25_09_56_52.jpg)](//b.robnugen.com/art/marble_track_3/shelter/2017_may_30_finished_shelter/shelter_prep_2017_Jan_25_09_56_52.jpg)

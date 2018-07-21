@@ -5,8 +5,6 @@ author: Rob Nugen
 date: 2017-01-22T15:59:38+09:00
 ---
 
-## 15:59 Sunday 22 January 2017 JST
-
 I wonder if I'll finish it this time.
 
 I wonder if I'll do my crazy time-consuming version or just make a

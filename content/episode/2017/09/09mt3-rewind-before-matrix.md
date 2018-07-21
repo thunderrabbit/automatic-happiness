@@ -2,10 +2,9 @@
 title: mt3 rewind before Matrix
 tags: [ "mt3", "video", "matrix", "rewind", "dragonframe" ]
 author: Rob Nugen
+youtube: N_9ocOflC9I
 date: 2017-09-09T20:25:13+09:00
 ---
-
-## 20:25 Saturday 09 September 2017 JST
 
 {{< youtube eo1GQrjEkWM >}}
 
@@ -13,8 +12,6 @@ Two livestreams from today, the second one being of me trying to
 figure out how to copy / reverse some frames in Dragonframe, plus
 messing with OBS a bit.  I need to add 20 minutes to the total count
 because I forgot to start the second live stream on time..
-
-https://youtu.be/N_9ocOflC9I
 
 https://youtu.be/6YlM3UT467E
 

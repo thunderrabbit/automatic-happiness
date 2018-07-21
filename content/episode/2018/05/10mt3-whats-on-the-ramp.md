@@ -2,6 +2,7 @@
 title: "mt3 whats on the ramp"
 tags: [ "mt3", "video", "snakes", "new", "first" ]
 author: Rob Nugen
+youtube: QUclLu9leYI
 date: 2018-05-10T09:34:25+09:00
 ---
 
@@ -9,5 +10,3 @@ date: 2018-05-10T09:34:25+09:00
 
 Neat neat neat I just discovered some new characters who should prove
 to be pretty useful as well as squirmy and maybe giving heebee jeebees!
-
-{{< youtube QUclLu9leYI >}}

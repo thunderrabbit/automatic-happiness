@@ -2,6 +2,7 @@
 title: "oops characters reacted too quickly"
 tags: [ "mt3", "blooper", "video" ]
 author: Rob Nugen
+youtube: DjTRKG_AtOg
 date: 2017-12-07T20:56:11+09:00
 ---
 
@@ -18,5 +19,3 @@ those characters all moving toward the sound were all pretty easy to
 take, so I feel good about re-shooting them.  <del>I estimate it's
 about 15</del> I need to delete only 7 frames in all, so just the last
 half second at the very end of the video below:
-
-{{< youtube DjTRKG_AtOg >}}

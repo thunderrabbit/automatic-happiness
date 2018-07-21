@@ -2,12 +2,9 @@
 title: finished drawing circle
 tags: [ "mt3", "video" ]
 author: Rob Nugen
+youtube:: a_PY2XuLnm4
 date: 2017-08-26T11:13:16+09:00
 ---
-
-## 11:13 Saturday 26 August 2017 JST
-
-{{< youtube a_PY2XuLnm4 >}}
 
 Last night in the middle of drawing the circle which will help me
 center the bearing on the stage, I had to reglue the guide which I

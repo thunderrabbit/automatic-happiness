@@ -2,12 +2,9 @@
 title: while ma watched
 tags: [ "mt3", "video", "ma", "short" ]
 author: Rob Nugen
+youtube: LUaAX0XEwZY
 date: 2017-08-22T08:14:13+09:00
 ---
-
-## 08:14 Tuesday 22 August 2017 JST
-
-{{< youtube LUaAX0XEwZY >}}
 
 Ma watched while I added about 100 frames to the video.
 

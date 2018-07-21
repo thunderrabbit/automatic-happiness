@@ -2,6 +2,7 @@
 title: "mt3: curving ribs 4 and 5"
 tags: [ "mt3", "video" ]
 author: Rob Nugen
+youtube: Qg9Z7JmYQE8
 date: 2018-01-19T15:55:02+09:00
 ---
 
@@ -24,8 +25,6 @@ Sorry future me, but current me is going to take a bit of a break.
 
 I just streamed for 1.25 hours and uploaded a new video clip that
 features 8 more seconds of video than in the previously uploaded clip.
-
-{{< youtube Qg9Z7JmYQE8 >}}
 
 Since June 2017, I have spent
 [5.4+ days](

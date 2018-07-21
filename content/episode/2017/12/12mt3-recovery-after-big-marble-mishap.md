@@ -2,6 +2,7 @@
 title: "mt3: recovery after big marble mishap"
 tags: [ "mt3", "video", "recover" ]
 author: Rob Nugen
+youtube: PLWWsdLyqV8
 date: 2017-12-12T09:51:29+09:00
 ---
 
@@ -34,8 +35,6 @@ of the track.
 
 [![2017 dec 12 inspecting problem area 0](//b.robnugen.com/art/marble_track_3/construction/2017/thumbs/2017_dec_12_inspecting_problem_area_0.jpg)](//b.robnugen.com/art/marble_track_3/construction/2017/2017_dec_12_inspecting_problem_area_0.jpg)
 [![2017 dec 12 inspecting problem area 1](//b.robnugen.com/art/marble_track_3/construction/2017/thumbs/2017_dec_12_inspecting_problem_area_1.jpg)](//b.robnugen.com/art/marble_track_3/construction/2017/2017_dec_12_inspecting_problem_area_1.jpg)
-
-{{< youtube PLWWsdLyqV8 >}}
 
 Since June 2017, I have spent
 [5.0+ days](

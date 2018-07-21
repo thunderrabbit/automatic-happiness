@@ -2,6 +2,7 @@
 title: Wondering how to add a blur effect
 tags: [ "mt3" ]
 author: Rob Nugen
+youtube: 5xEf3djRLg8
 date: 2017-08-11T05:12:48+09:00
 ---
 
@@ -22,6 +23,4 @@ thing).
 It seems Dragonframe cannot do this, but the effect can be simulated
 by merging some images in post processing.  At 4:38 in this video is a
 suggestion for how to handle the images in Dragonframe
-
-{{< youtube 5xEf3djRLg8 >}}
 

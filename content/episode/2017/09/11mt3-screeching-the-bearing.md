@@ -2,12 +2,9 @@
 title: mt3 screeching the bearing
 tags: [ "mt3", "video" ]
 author: Rob Nugen
+youtube: pqOFv2LlSQg
 date: 2017-09-11T18:35:25+09:00
 ---
-
-## 18:35 Monday 11 September 2017 JST
-
-{{< youtube pqOFv2LlSQg >}}
 
 Because I needed to get the bearing aligned, I did a little trope of
 the scratching fingernails variety as one of the characters simply

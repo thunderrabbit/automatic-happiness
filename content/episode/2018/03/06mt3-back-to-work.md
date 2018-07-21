@@ -2,6 +2,7 @@
 title: "mt3: back to work"
 tags: [ "mt3", "video" ]
 author: Rob Nugen
+youtube: rCc7DaTpdFU
 date: 2018-03-06T16:36:21+09:00
 ---
 
@@ -9,8 +10,6 @@ date: 2018-03-06T16:36:21+09:00
 
 Now that the little brother has been found to be alive and kicking,
 it's time to get back to work.
-
-{{< youtube rCc7DaTpdFU >}}
 
 I will be out of town during the weekend, so not able to work on this
 until next week, probably Thursday or Friday.

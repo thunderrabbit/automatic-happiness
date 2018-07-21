@@ -2,6 +2,7 @@
 title: "mt3: lil brother hitches a ride"
 tags: [ "mt3", "video" ]
 author: Rob Nugen
+youtube: N7XiggF-FuQ
 date: 2018-03-29T15:41:11+09:00
 ---
 
@@ -9,8 +10,6 @@ date: 2018-03-29T15:41:11+09:00
 
 I worked for 90 minutes today and nearly 60 minutes the other day (but
 did not put up a new video then).  The latest:
-
-{{< youtube N7XiggF-FuQ >}}
 
 While the Reversable Guy went to see what happened, the little brother
 grabbed onto the chopstick which had kept the stage from rotating

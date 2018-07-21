@@ -2,10 +2,9 @@
 title: mt3 glued some small track
 tags: [ "mt3", "video", "small" ]
 author: Rob Nugen
+youtube: 9V9_JSesKSo
 date: 2017-10-17T12:38:59+09:00
 ---
-
-## 12:38 Tuesday 17 October 2017 JST
 
 {{< youtube iETMJ_SQvaY >}}
 
@@ -15,4 +14,3 @@ http://www.grun1.com/utils/timeCalc.html?t1=4:14:42&c1=June%202017&t2=10:16:10&c
 
 Special thanks to Jimmy for watching the
 Live stream nearly 3 hours today
-https://www.youtube.com/watch?v=9V9_JSesKSo

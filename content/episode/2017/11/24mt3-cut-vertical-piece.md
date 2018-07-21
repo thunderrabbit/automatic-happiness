@@ -2,10 +2,9 @@
 title: "mt3: cut vertical piece"
 tags: [ "mt3", "video", "vertical" ]
 author: Rob Nugen
+youtube: KlasJfqhNgE
 date: 2017-11-24T08:37:43+09:00
 ---
-
-## 08:37 Friday 24 November 2017 JST
 
 I just uploaded the video that I took yesterday.  At this moment, the
 vertical bar is cut, but I have not taken the photo for that cut.  The
@@ -14,8 +13,6 @@ say they are not poised for the shot.
 
 [![2017 nov 23 between takes after vertical bar cut](//b.robnugen.com/art/marble_track_3/construction/thumbs/2017_nov_23_between_takes_after_vertical_bar_cut.jpg)](//b.robnugen.com/art/marble_track_3/construction/2017_nov_23_between_takes_after_vertical_bar_cut.jpg)
 [![2017 nov 23 (above) between takes after vertical bar cut](//b.robnugen.com/art/marble_track_3/construction/thumbs/2017_nov_23_above_between_takes_after_vertical_bar_cut.jpg)](//b.robnugen.com/art/marble_track_3/construction/2017_nov_23_above_between_takes_after_vertical_bar_cut.jpg)
-
-{{< youtube KlasJfqhNgE >}}
 
 Since June 2017, I have
 spent

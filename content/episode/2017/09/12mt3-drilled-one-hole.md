@@ -2,10 +2,9 @@
 title: mt3 drilled one hole
 tags: [ "mt3", "video" ]
 author: Rob Nugen
+youtube: _arPJhJoIFM
 date: 2017-09-12T11:58:07+09:00
 ---
-
-## 11:58 Tuesday 12 September 2017 JST
 
 It was a bit challenging to use the screwdriver and drillbit which are
 pretty heavy compared to the pipe cleaners, but I was able to get the
@@ -18,8 +17,6 @@ hole simply by rotating the bearing.
 The orange and yellow character will get to drive the rotation, and
 the he might turn the thing on full speed, just for a laugh (but I am
 not sure if I'll have him do that).
-
-{{< youtube _arPJhJoIFM >}}
 
 Livestream is still streaming as I type this, but
 

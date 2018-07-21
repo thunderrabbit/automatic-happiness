@@ -2,6 +2,7 @@
 title: "mt3: just before gluing 7th rib"
 tags: [ "mt3", "video" ]
 author: Rob Nugen
+youtube: Doo9FwNpsPQ
 date: 2018-01-30T10:54:48+09:00
 ---
 
@@ -14,8 +15,6 @@ but he won't find him...  I have decided to have the little brother
 crawl out from between the stages in about 6 movie-seconds from now,
 which may be in 2 months from now?  .. maybe just one month, but it
 should be great.
-
-{{< youtube Doo9FwNpsPQ >}}
 
 Since June 2017, I have spent
 [5.8+ days](

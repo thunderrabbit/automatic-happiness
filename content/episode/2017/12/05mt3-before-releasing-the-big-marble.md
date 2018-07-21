@@ -2,10 +2,9 @@
 title: "mt3: before releasing the big marble"
 tags: [ "mt3", "video", "before" ]
 author: Rob Nugen
+youtube: Gz0WYJAiIc4
 date: 2017-12-05T13:46:08+09:00
 ---
-
-## 13:46 Tuesday 05 December 2017 JST
 
 I worked on MT3 in two parts today.  Right around 2 hours total, I
 think, not including letting glue dry (during which I ate lunch and
@@ -27,8 +26,7 @@ marble is.
 
 {{< youtube shsPhHuw--k >}}
 
-Two live streams from today
-https://www.youtube.com/watch?v=Gz0WYJAiIc4 and
+Second of two live streams from today:
 https://www.youtube.com/watch?v=3uneHQljsOc
 
 Since June 2017, I have spent

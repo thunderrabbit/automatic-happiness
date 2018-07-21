@@ -2,6 +2,7 @@
 title: "mt3: spinning again while adding 6th rib"
 tags: [ "mt3", "video" ]
 author: Rob Nugen
+youtube: afXbZsPdljI
 date: 2018-01-28T21:53:25+09:00
 ---
 
@@ -12,8 +13,6 @@ was trying to figure out how to make Blackmagic Fusion import multiple
 sequences of images to put them into one movie.
 
 I was not able to figure it out.
-
-{{< youtube afXbZsPdljI >}}
 
 I have a sneaking suspicion that BM Fusion is not designed to do
 this.  Most of its output options were images, so.. apparently it is

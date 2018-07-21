@@ -2,12 +2,9 @@
 title: Cropped blue background
 tags: [ "fusion", "mt3" ]
 author: Rob Nugen
+youtube: EVaJG5R56b0
 date: 2017-08-14T23:17:05+09:00
 ---
-
-## 23:17 Monday 14 August 2017 JST
-
-{{< youtube EVaJG5R56b0 >}}
 
 This took about an hour to do.  Well an hour+ to research before I
 found Fusion, and then an hour to do it.  I'll just call it 2 hours.

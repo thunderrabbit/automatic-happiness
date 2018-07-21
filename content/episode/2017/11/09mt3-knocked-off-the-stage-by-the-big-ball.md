@@ -2,12 +2,9 @@
 title: "mt3: knocked off the stage by the big ball"
 tags: [ "mt3", "video", "hilarious", "if i do say so myself" ]
 author: Rob Nugen
+youtube: KInRqcbDY3s
 date: 2017-11-09T15:43:34+09:00
 ---
-
-## 15:43 Thursday 09 November 2017 JST
-
-{{< youtube KInRqcbDY3s >}}
 
 I added 4 seconds of video during three.75 hours of livestreaming
 today; thanks to Jimmy for watching the last two!

@@ -2,6 +2,7 @@
 title: "mt3: progressing nicely"
 tags: [ "mt3", "video" ]
 author: Rob Nugen
+youtube: C42QgmkaZTk
 date: 2018-03-18T16:40:52+09:00
 ---
 
@@ -11,8 +12,6 @@ An interesting thing is happening with the stage rotation.  Last week I noticed
 a chopstick was sticking out too far for the stage to turn all the way
 around, and this time it has hit the wall and begun to hamper the
 rotation of the stage.
-
-{{< youtube C42QgmkaZTk >}}
 
 I think the cutter guy might cut the offending chopstick and have the
 stage spring forward, which I may do in slow motion again, like when

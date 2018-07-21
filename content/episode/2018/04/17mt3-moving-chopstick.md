@@ -2,6 +2,7 @@
 title: "mt3: moving chopstick"
 tags: [ "mt3", "video", "japanese" ]
 author: Rob Nugen
+youtube: -rtNIse3mqo
 date: 2018-04-17T13:53:29+09:00
 ---
 
@@ -19,8 +20,6 @@ ball splitter.
 二人が大きいビー玉をステージに上げました。Two characters lifted the big marble onto the stage.
 
 弟はまたステージの上に登って、兄と喧嘩を始めた。 <ruby><rb>健康</rb><rt>けんこう</rt></ruby>します。The little brother is back on the stage to fight the big brother.
-
-{{< youtube -rtNIse3mqo >}}
 
 Since June 2017, I have spent
 [7.0+ days](

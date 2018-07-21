@@ -2,6 +2,7 @@
 title: "tail flip mystery"
 tags: [ "mt3", "video", "livestream" ]
 author: Rob Nugen
+youtube: 4ww87BpCWdk
 date: 2018-07-20T23:11:51+09:00
 ---
 
@@ -14,5 +15,3 @@ around the wrong way.
 In the foreground, the snake began climbing up the ramp to the triple
 ball splitter while the manager tries to work out how to get the small
 ball to fall at the right place.
-
-{{< youtube 4ww87BpCWdk >}}

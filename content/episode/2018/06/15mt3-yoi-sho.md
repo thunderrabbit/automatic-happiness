@@ -2,6 +2,7 @@
 title: "mt3: yoi sho"
 tags: [ "mt3", "video" ]
 author: Rob Nugen
+youtube:: 56Sa5xPjD5Y
 date: 2018-06-15T12:55:05+09:00
 ---
 
@@ -13,8 +14,6 @@ In this case, it is the equivalent of "3. 2. 1. lift!"
 Spoonhead is adept at getting the marbles onto the stage because he's
 the right height for that.  I gave him long arms as well to help lift
 marbles (and knock the switch around accidentally).
-
-{{< youtube 56Sa5xPjD5Y >}}
 
 Speaking of accidents, while trying to film the frame after they
 lifted the marble, it fell and knocked everything askew.

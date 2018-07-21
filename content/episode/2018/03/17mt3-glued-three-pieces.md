@@ -2,6 +2,7 @@
 title: "mt3 glued three pieces"
 tags: [ "mt3", "video", "progress" ]
 author: Rob Nugen
+youtube: Jeud8Y5bu54
 date: 2018-03-17T15:33:38+09:00
 ---
 
@@ -10,8 +11,6 @@ date: 2018-03-17T15:33:38+09:00
 I think I added four seconds of video today in about an hour and a
 half. Pretty speedy because at some points only two characters were
 moving.
-
-{{< youtube Jeud8Y5bu54 >}}
 
 Since June 2017, I have spent
 [6.3+ days](

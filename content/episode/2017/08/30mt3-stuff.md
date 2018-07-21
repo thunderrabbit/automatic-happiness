@@ -5,8 +5,6 @@ author: Rob Nugen
 date: 2017-08-30T20:04:10+09:00
 ---
 
-## 20:04 Wednesday 30 August 2017 JST
-
 First step was to make a shelter to protect the project from my cat
 https://new.robnugen.com/journal/2017/05/30/finished-mt3-shelter/
 

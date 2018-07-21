@@ -2,6 +2,7 @@
 title: "mt3: Fully glued half of M splitter"
 tags: [ "mt3", "video" ]
 author: Rob Nugen
+youtube: jmGdVsuxa7M
 date: 2017-11-25T12:07:59+09:00
 ---
 
@@ -32,10 +33,8 @@ where I need to clip the first half, so I just bought some clippers
 
 The new clippers are pretty great!
 
-Now three of four points are glued on the M dropper.
-
-{{< youtube jmGdVsuxa7M >}}
+As of the video above, three of four points are glued on the M dropper.
 
 This video has Jennie in 6 or so frames near the end.
 
-https://youtu.be/Yn5x7M6uZ_A
+{{< youtube Yn5x7M6uZ_A >}}

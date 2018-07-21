@@ -2,6 +2,7 @@
 title: it all started here
 tags: [ "mt3", "video", "first" ]
 author: Rob Nugen
+youtube: mlUqu6QE7bw
 date: 2007-06-27T10:07:34+09:00
 ---
 
@@ -11,8 +12,6 @@ date: 2007-06-27T10:07:34+09:00
 
 Okay so it all started ten years ago.  I made Marble Track 2 during my
 free time at work and then made this video.
-
-{{< youtube mlUqu6QE7bw >}}
 
 People asked how I made the marble track.  It's a simple question
 without a simple answer.  "I glued sticks together.."

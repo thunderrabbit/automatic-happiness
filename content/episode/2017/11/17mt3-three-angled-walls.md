@@ -2,12 +2,9 @@
 title: "mt3: three angled walls"
 tags: [ "mt3", "video", "subtle" ]
 author: Rob Nugen
+youtube: DxJ9mQ11G00
 date: 2017-11-17T10:46:29+09:00
 ---
-
-## 10:46 Friday 17 November 2017 JST
-
-{{< youtube DxJ9mQ11G00 >}}
 
 Today I glued the third of three angled walls along the small marble
 track which will eventually catch marbles which will have rolled over

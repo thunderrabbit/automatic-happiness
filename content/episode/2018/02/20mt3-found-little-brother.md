@@ -2,6 +2,7 @@
 title: "mt3: found little brother"
 tags: [ "mt3", "video", "haha" ]
 author: Rob Nugen
+youtube: 6iRB_iBUU3c
 date: 2018-02-20T11:27:37+09:00
 ---
 
@@ -17,8 +18,6 @@ around one by one.  Candycane mom will put her hands on her hips after
 she fully turns around.  This will be the last frames I add to this
 Take in Dragonframe.  After this, we'll have six (6) snippets in the
 playlist.
-
-{{< youtube 6iRB_iBUU3c >}}
 
 Speaking of the playlist, it is available here
 http://mt3s.robnugen.com (*)

@@ -2,6 +2,7 @@
 title: "mt3: retested large marble"
 tags: [ "mt3", "video", "redo", "oops" ]
 author: Rob Nugen
+youtube: Szk18zHKZm4
 date: 2018-05-02T10:12:52+09:00
 ---
 
@@ -47,8 +48,6 @@ scheduled to leave at 10.
 Anyway, I am really happy that I decided to reglue the piece.  It
 allowed me to take photos of the large marble racing off the second
 curve.
-
-{{< youtube Szk18zHKZm4 >}}
 
 Since June 2017, I have spent
 [7.3+ days](

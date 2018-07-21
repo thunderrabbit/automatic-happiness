@@ -2,6 +2,7 @@
 title: "gotcha"
 tags: [ "mt3", "video", "text" ]
 author: Rob Nugen
+youtube: sV9zeRSxWqs
 date: 2018-07-14T12:58:18+09:00
 ---
 
@@ -11,8 +12,6 @@ Working on MT3 today I had a funny idea. There were two marbles ready
 to roll off the track and I realized it would be great for the
 spoonhead guy to catch them.  So I had to erase eight frames, but they
 were not too hard to recreate, and the end result is great.
-
-{{< youtube sV9zeRSxWqs >}}
 
 The frames are shown in the last second of the video above.
 

@@ -2,6 +2,7 @@
 title: "mt3: pics and toothpicks"
 tags: [ "pics", "video", "mt3" ]
 author: Rob Nugen
+youtube: 9dMBGxH8aCQ
 date: 2018-01-09T15:59:39+09:00
 ---
 
@@ -34,8 +35,6 @@ fragile triple tripod with upside down tripod).
 [![2018 jan 09 mt3 overview](//b.robnugen.com/art/marble_track_3/construction/2018/thumbs/2018_jan_09_mt3_overview.jpg)](//b.robnugen.com/art/marble_track_3/construction/2018/2018_jan_09_mt3_overview.jpg)
 
 The last 5 seconds are new, added in the last couple of days:
-
-{{< youtube 9dMBGxH8aCQ >}}
 
 Since June 2017, I have spent
 [5.2+ days](

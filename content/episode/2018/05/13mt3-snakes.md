@@ -2,6 +2,7 @@
 title: "mt3 snakes"
 tags: [ "mt3", "snakes", "video" ]
 author: Rob Nugen
+youtube: a5Dbv1iIqsg
 date: 2018-05-13T19:15:18+09:00
 ---
 
@@ -10,8 +11,6 @@ date: 2018-05-13T19:15:18+09:00
 Hahaha I am really entertained by this next portion of the video.
 Didn't even really see it coming until just the other day when I
 needed a way to hold up a rail while it gets glued into place.
-
-{{< youtube a5Dbv1iIqsg >}}
 
 Since June 2017, I have spent
 [7.5+ days](

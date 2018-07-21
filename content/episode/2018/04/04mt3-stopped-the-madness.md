@@ -2,6 +2,7 @@
 title: "mt3: stopped the madness"
 tags: [ "mt3", "video", "lots" ]
 author: Rob Nugen
+youtube: D9OlkmueKJg
 date: 2018-04-04T09:58:02+09:00
 ---
 
@@ -24,8 +25,6 @@ Once the stage was stopped, they fell on their faces, and the large
 marble rolled off the stage from where it had been held by the
 relatively newly placed ribs, which hopefully indicates (1) the ribs
 work, (2) there is at least some sense of internal logic to the movie.
-
-{{< youtube D9OlkmueKJg >}}
 
 Since June 2017, I have spent
 [6.9+ days](

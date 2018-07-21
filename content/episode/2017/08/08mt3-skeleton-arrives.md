@@ -2,10 +2,9 @@
 title: skeleton arrives
 tags: [ "mt3", "video", "livestream", "skeleton", "first" ]
 author: Rob Nugen
+youtube: 9mEeIYsISLk
 date: 2017-08-08T11:33:46+09:00
 ---
-
-## 11:33 Tuesday 08 August 2017 JST
 
 {{< youtube -KjsYc4Mb5g >}}
 
@@ -14,10 +13,7 @@ Track 3.
 
 The livestream was 3 hours; it got split in the middle
 
-https://youtu.be/9mEeIYsISLk
-
 https://youtu.be/AALQGwA44Gc
-
 
 video time: 68 seconds so far
 

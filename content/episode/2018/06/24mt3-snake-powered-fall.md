@@ -2,6 +2,7 @@
 title: "mt3: snake powered fall"
 tags: [ "mt3", "video" ]
 author: Rob Nugen
+youtube: fr9iKDeYB3Q
 date: 2018-06-24T13:53:59+09:00
 ---
 
@@ -17,7 +18,6 @@ Pinky fell off the stage and hit the switch, so the stage is rotating
 again.  This helped me glue the upper rail along the medium|small
 marble split.  It's drying now.
 
-{{< youtube fr9iKDeYB3Q >}}
 
 Since June 2017, I have spent
 [8.2+ days](

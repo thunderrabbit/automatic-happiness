@@ -2,6 +2,7 @@
 title: "mt3: guy fell off stage after ramp was overturned"
 tags: [ "mt3", "video" ]
 author: Rob Nugen
+youtube: n9n6qG0FJGs
 date: 2017-11-29T15:39:28+09:00
 ---
 
@@ -20,8 +21,6 @@ Oh, so while installing the supports for the M Splitter, the
 red-and-white headed character knocked over the ramp.  Then the
 character who helped install the ramp fell off the stage where the
 ramp had been.
-
-{{< youtube n9n6qG0FJGs >}}
 
 Since June 2017, I have spent
 [4.7+ days](

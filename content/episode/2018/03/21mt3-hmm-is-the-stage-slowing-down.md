@@ -2,6 +2,7 @@
 title: "mt3: hmm is the stage slowing down?"
 tags: [ "mt3", "video", "first", "dimension" ]
 author: Rob Nugen
+youtube: kNjhJQKKWkw
 date: 2018-03-20T15:22:32+09:00
 ---
 
@@ -27,5 +28,3 @@ will be like (323-183) / 12 = approx 12 seconds of video.
 
 The end of this video includes 2 seconds of footage which I sketched
 out in this way.
-
-{{< youtube kNjhJQKKWkw >}}

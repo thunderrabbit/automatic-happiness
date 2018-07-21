@@ -2,6 +2,7 @@
 title: "mt3: calling for help"
 tags: [ "video", "mt3", "brer" ]
 author: Rob Nugen
+youtube: I6DBKaK37qM
 date: 2018-02-12T12:03:22+09:00
 ---
 
@@ -16,8 +17,6 @@ uploaded as "squiggle squiggle" on Friday, and then three seconds of
 "squiggle squiggle squiggle" on Saturday(?) and now after filming 2
 seconds of video in 60 minutes, he is nearly out from between the
 plates, and they are nearly in full force looking for him.
-
-{{< youtube I6DBKaK37qM >}}
 
 I am not calling for help (yet), but the candy cane character in the
 movie above is asking for help to find the little brother, who, was

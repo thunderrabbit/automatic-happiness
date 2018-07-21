@@ -2,10 +2,9 @@
 title: mt3 got another track glued down
 tags: [ "mt3", "video", "battery", "adapter" ]
 author: Rob Nugen
+youtube: nNzoOekbSUM
 date: 2017-10-20T15:43:16+09:00
 ---
-
-## 15:43 Friday 20 October 2017 JST
 
 I bought an AC adapter to use with my camera.  Today I had been able
 to use the battery for about 90 minutes before it conked out.  The
@@ -17,8 +16,6 @@ that is the simplest way (which Amazon would love).
 Anyway, here is the video I uploaded today
 
 {{< youtube sRWpODuN4jQ >}}
-
-The livestream was 1.3 hours https://youtu.be/nNzoOekbSUM
 
 To make 5 minutes 41 seconds of video,
 I have spent [78+ hours](
