@@ -2,7 +2,7 @@
 title: "mt3: yoi sho"
 tags: [ "mt3", "video" ]
 author: Rob Nugen
-youtube:: 56Sa5xPjD5Y
+youtube: 56Sa5xPjD5Y
 date: 2018-06-15T12:55:05+09:00
 ---
 
