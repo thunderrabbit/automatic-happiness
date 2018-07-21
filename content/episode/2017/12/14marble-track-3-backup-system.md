@@ -2,6 +2,7 @@
 title: "Marble Track 3 backup system"
 tags: [ "mt3", "backup" ]
 author: Rob Nugen
+draft: true
 date: 2017-12-14T10:32:48+09:00
 ---
 

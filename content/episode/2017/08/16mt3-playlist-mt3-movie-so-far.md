@@ -2,6 +2,7 @@
 title: playlist MT3 movie so far
 tags: [ "mt3", "video" ]
 author: Rob Nugen
+draft: true
 date: 2017-08-16T22:49:51+09:00
 ---
 

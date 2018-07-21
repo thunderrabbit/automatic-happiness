@@ -2,6 +2,7 @@
 title: "State of Marble Track 3"
 tags: [ "mt3so", "mt3" ]
 author: Rob Nugen
+draft: true
 date: 2017-12-09T09:05:18+09:00
 ---
 

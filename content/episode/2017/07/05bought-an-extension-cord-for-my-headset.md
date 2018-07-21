@@ -2,6 +2,7 @@
 title: bought an extension cord for my headset
 tags: [ "mt3" ]
 author: Rob Nugen
+draft: true
 date: 2017-07-05T10:44:42+09:00
 ---
 
