@@ -1,5 +1,5 @@
 ---
-title: mt3 finished drawing circle
+title: finished drawing circle
 tags: [ "mt3", "video" ]
 author: Rob Nugen
 date: 2017-08-26T11:13:16+09:00

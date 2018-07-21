@@ -1,5 +1,5 @@
 ---
-title: "mt3 gotcha"
+title: "gotcha"
 tags: [ "mt3", "video", "text" ]
 author: Rob Nugen
 date: 2018-07-14T12:58:18+09:00

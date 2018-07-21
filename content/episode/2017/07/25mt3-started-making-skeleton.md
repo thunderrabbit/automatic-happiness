@@ -1,5 +1,5 @@
 ---
-title: MT3 started making skeleton
+title: started making skeleton
 tags: [ "mt3", "livestream" ]
 author: Rob Nugen
 date: 2017-07-25T12:39:17+09:00

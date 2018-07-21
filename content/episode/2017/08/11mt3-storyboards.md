@@ -1,5 +1,5 @@
 ---
-title: mt3 storyboards
+title: storyboards
 tags: [ "mt3", "storyboards" ]
 author: Rob Nugen
 date: 2017-08-11T20:34:25+09:00

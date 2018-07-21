@@ -1,5 +1,5 @@
 ---
-title: mt3：skeleton arrives
+title: skeleton arrives
 tags: [ "mt3", "video", "livestream", "skeleton", "first" ]
 author: Rob Nugen
 date: 2017-08-08T11:33:46+09:00

@@ -1,5 +1,5 @@
 ---
-title: mt3 setup
+title: setup
 tags: [ "mt3" ]
 author: Rob Nugen
 date: 2017-08-30T20:04:10+09:00

@@ -1,5 +1,5 @@
 ---
-title: mt3 while ma watched
+title: while ma watched
 tags: [ "mt3", "video", "ma", "short" ]
 author: Rob Nugen
 date: 2017-08-22T08:14:13+09:00

@@ -1,5 +1,5 @@
 ---
-title: mt3 backup solution 2017
+title: backup solution 2017
 tags: [ "duplicity", "mt3", "backup", "boto-rsync" ]
 author: Rob Nugen
 date: 2017-08-04T13:53:48+09:00
