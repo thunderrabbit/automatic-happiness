@@ -20,18 +20,23 @@ paginate = "9"
 # The menus are sorted based upon their identifier
 [[Menu.Main]]
     name = "About"
-    identifier = "about"
+    identifier = "010_about"
     url = "about"
 
 [[Menu.Main]]
     name = "FAQ"
-    identifier = "faq"
+    identifier = "020_faq"
     url = "faq"
 
 [[Menu.Main]]
     name = "Workers"
-    identifier = "workers"
+    identifier = "030_workers"
     url = "workers"
+
+[[Menu.Main]]
+    name = "Latest"
+    identifier = "040_latest"
+    url = "latest"
 
 ### [[Menu.Main]]
 ###     name = "Resources"
