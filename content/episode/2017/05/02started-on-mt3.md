@@ -3,6 +3,7 @@ title: started on MT3
 tags: [ "mt3" ]
 author: Rob Nugen
 youtube: 3Iyx0IiKxrI
+episode_image: https://b.robnugen.com/art/marble_track_3/set/clean_desk_02_may_2017.png
 date: 2017-05-02T13:32:35+09:00
 ---
 

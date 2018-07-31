@@ -2,7 +2,7 @@
 title: Started Marble Track 3 (for the 3rd(?) time)
 tags: [ "mt3" ]
 author: Rob Nugen
-episode_image: https://b.robnugen.com/art/marble_track_3/shelter/2017_jan_22_started_shelter/marble_track_shelter_1338.jpg
+episode_image: https://b.robnugen.com/art/marble_track_3/shelter/2017_jan_23.jpg
 date: 2017-01-22T15:59:38+09:00
 ---
 

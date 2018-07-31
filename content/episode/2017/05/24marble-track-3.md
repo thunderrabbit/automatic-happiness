@@ -2,7 +2,7 @@
 title: Marble Track 3
 tags: [ "mt3" ]
 author: Rob Nugen
-draft: true
+episode_image: https://b.robnugen.com/art/marble_track_3/set/mt3_setup_aug_2017.jpg
 date: 2017-05-24T11:00:43+09:00
 ---
 
