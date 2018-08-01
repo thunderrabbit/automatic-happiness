@@ -1,12 +1,64 @@
 baseURL = "https://marbletrack3.com/"
 languageCode = "en-us"
-title = "Marble Track 3"
+DefaultContentLanguage = "en"
 theme = "castanet"    # git@github.com:thunderrabbit/castanet.git
 
 googleAnalytics = "UA-100789009-1"
 disqusShortname = "arresteddevops"
 paginate = "9"
 
+[languages]
+  [languages.en]
+    title = "Marble Track 3"
+    weight = 1
+
+[[languages.en.Menu.Main]]
+    name = "About"
+    identifier = "010_about"
+    url = "about"
+
+[[languages.en.Menu.Main]]
+    name = "FAQ"
+    identifier = "020_faq"
+    url = "faq"
+
+[[languages.en.Menu.Main]]
+    name = "Workers"
+    identifier = "030_workers"
+    url = "workers"
+
+[[languages.en.Menu.Main]]
+    name = "Latest"
+    identifier = "040_latest"
+    url = "latest"
+
+  [languages.ja]
+    title = "ビー玉からくり第三弾"
+    weight = 2
+
+    [languages.ja.params]
+      [languages.ja.params.navigation]
+        help = "Aide"
+
+[[languages.ja.Menu.Main]]
+   name = "概要"
+   identifier = "010_about"
+   url = "about"
+
+[[languages.ja.Menu.Main]]
+    name = "FAQ"
+    identifier = "020_faq"
+    url = "faq"
+
+[[languages.ja.Menu.Main]]
+    name = "社員"
+    identifier = "030_workers"
+    url = "workers"
+
+[[languages.ja.Menu.Main]]
+    name = "Latest"
+    identifier = "040_latest"
+    url = "latest"
 
 [permalinks]
         blog = "/blog/:year/:month/:day/:title/"
@@ -18,25 +70,7 @@ paginate = "9"
 # The theme supports menus with up to one submenu per menu item
 # The menu name must be "Main"
 # The menus are sorted based upon their identifier
-[[Menu.Main]]
-    name = "About"
-    identifier = "010_about"
-    url = "about"
 
-[[Menu.Main]]
-    name = "FAQ"
-    identifier = "020_faq"
-    url = "faq"
-
-[[Menu.Main]]
-    name = "Workers"
-    identifier = "030_workers"
-    url = "workers"
-
-[[Menu.Main]]
-    name = "Latest"
-    identifier = "040_latest"
-    url = "latest"
 
 ### [[Menu.Main]]
 ###     name = "Resources"
