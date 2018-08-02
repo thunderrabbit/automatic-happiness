@@ -1,12 +1,12 @@
 +++
-Title = "Green Cutter"
+Title = "G. Choppy, professional cutter"
 date = "2017-06-10T09:12:39-05:00"
 Type = "workers"
 Thumbnail = "img/guest/ajohnston.jpg"
 Description = "The one with the sword"
 +++
 
-The green cutter is one of the characters who has a very specific job and only that job his job is to cut wood and that's all he does.  
+G. Choppy is one of the characters who has a very specific job and only that job his job is to cut wood and that's all he does.  
 
 I tried to make the cuts happen by him raising his sword for three frames which equals one quarter of one second in movie Playback times before he makes the cut.
 
