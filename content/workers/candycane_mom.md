@@ -6,7 +6,7 @@ Thumbnail = "img/guest/ajohnston.jpg"
 Description = "Red/white striped head/hair"
 +++
 
-One of the first characters on the set, and somewhat of a manager character, is the Candycane Mom 
+Candycane Mom is one of the first characters on the set, and somewhat of a manager character.
 
 She is pretty much no nonsense, but does have some compassion for her kids and other workers.
 
