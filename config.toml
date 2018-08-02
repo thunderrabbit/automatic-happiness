@@ -11,6 +11,7 @@ paginate = "9"
   [languages.en]
     title = "Marble Track 3"
     weight = 1
+    LanguageName = "English"
 
 [[languages.en.Menu.Main]]
     name = "About"
@@ -35,6 +36,7 @@ paginate = "9"
   [languages.ja]
     title = "ビー玉からくり第三弾"
     weight = 2
+    LanguageName = "日本語"
 
     [languages.ja.params]
       [languages.ja.params.navigation]
