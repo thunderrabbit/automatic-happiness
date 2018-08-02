@@ -1,7 +1,8 @@
 ---
-Title: "About"
+Title: "概要"
 ---
-Marble Track 3 is a labor of love mishmash of two creative artforms:
+
+ビー玉からくり第三弾 is a labor of love mishmash of two creative artforms:
 
 ### kinetic sculpture
 
