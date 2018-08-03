@@ -21,4 +21,4 @@ Just in case someone asks "*how do you make a stop motion animation of the const
 
 Eventually I want to add audio to the animation...  possibly music, dialogue, sound effects..
 
-And I want to add animation to the animation by rendering something in place of the bluescreen background.
+And I want to add CGI animation behind the animation by rendering something in place of the bluescreen background.

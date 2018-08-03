@@ -3,10 +3,9 @@ title: "mt3 snakes"
 tags: [ "mt3", "snakes", "video" ]
 author: Rob Nugen
 youtube: a5Dbv1iIqsg
+episode_image: https://b.robnugen.com/art/marble_track_3/frames/2018/00010_002_09_X1_1117.jpg
 date: 2018-05-13T19:15:18+09:00
 ---
-
-## 19:15 Sunday 13 May 2018 JST
 
 Hahaha I am really entertained by this next portion of the video.
 Didn't even really see it coming until just the other day when I
