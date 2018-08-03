@@ -15,3 +15,4 @@ This photo shows the two next portions of the outer spiral as the glue
 dries.
 
 [![2018 aug 03 third parts of outer spiral](//b.robnugen.com/art/marble_track_3/construction/2018/thumbs/2018_aug_03_third_parts_of_outer_spiral.jpg)](//b.robnugen.com/art/marble_track_3/construction/2018/2018_aug_03_third_parts_of_outer_spiral.jpg)
+

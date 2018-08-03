@@ -30,3 +30,17 @@ I prepped some thigs that will make progress faster in the future.
 Second livestream in which I add a rail to outer spiral
 
 {{< youtube gdWZ6HDW_2M >}}
+
+For fun, here are the frames I took today.
+
+[![00010 002 09 X1 1644](//b.robnugen.com/art/marble_track_3/frames/2018/thumbs/00010_002_09_X1_1644.jpg)](//b.robnugen.com/art/marble_track_3/frames/2018/00010_002_09_X1_1644.jpg)
+[![00010 002 09 X1 1645](//b.robnugen.com/art/marble_track_3/frames/2018/thumbs/00010_002_09_X1_1645.jpg)](//b.robnugen.com/art/marble_track_3/frames/2018/00010_002_09_X1_1645.jpg)
+[![00010 002 09 X1 1646](//b.robnugen.com/art/marble_track_3/frames/2018/thumbs/00010_002_09_X1_1646.jpg)](//b.robnugen.com/art/marble_track_3/frames/2018/00010_002_09_X1_1646.jpg)
+[![00010 002 09 X1 1647](//b.robnugen.com/art/marble_track_3/frames/2018/thumbs/00010_002_09_X1_1647.jpg)](//b.robnugen.com/art/marble_track_3/frames/2018/00010_002_09_X1_1647.jpg)
+[![00010 002 09 X1 1648](//b.robnugen.com/art/marble_track_3/frames/2018/thumbs/00010_002_09_X1_1648.jpg)](//b.robnugen.com/art/marble_track_3/frames/2018/00010_002_09_X1_1648.jpg)
+[![00010 002 09 X1 1649](//b.robnugen.com/art/marble_track_3/frames/2018/thumbs/00010_002_09_X1_1649.jpg)](//b.robnugen.com/art/marble_track_3/frames/2018/00010_002_09_X1_1649.jpg)
+[![00010 002 09 X1 1650](//b.robnugen.com/art/marble_track_3/frames/2018/thumbs/00010_002_09_X1_1650.jpg)](//b.robnugen.com/art/marble_track_3/frames/2018/00010_002_09_X1_1650.jpg)
+[![00010 002 09 X1 1651](//b.robnugen.com/art/marble_track_3/frames/2018/thumbs/00010_002_09_X1_1651.jpg)](//b.robnugen.com/art/marble_track_3/frames/2018/00010_002_09_X1_1651.jpg)
+[![00010 002 09 X1 1652](//b.robnugen.com/art/marble_track_3/frames/2018/thumbs/00010_002_09_X1_1652.jpg)](//b.robnugen.com/art/marble_track_3/frames/2018/00010_002_09_X1_1652.jpg)
+[![00010 002 09 X1 1653](//b.robnugen.com/art/marble_track_3/frames/2018/thumbs/00010_002_09_X1_1653.jpg)](//b.robnugen.com/art/marble_track_3/frames/2018/00010_002_09_X1_1653.jpg)
+[![00010 002 09 X1 1654](//b.robnugen.com/art/marble_track_3/frames/2018/thumbs/00010_002_09_X1_1654.jpg)](//b.robnugen.com/art/marble_track_3/frames/2018/00010_002_09_X1_1654.jpg)
