@@ -18,7 +18,7 @@ The landing zones for the medium and large marbles have one track each.  The two
 
 One pair of small and medium tracks merge on the way up (split on the way down) so there are six tracks at that level.
 
-Up a bit higher I am attempting a three-way split using some almost-parallel chopsticks which will allow the marbles to fall through onto different tracks.  Assuming I can get that working, at that level there will be two-fewer tracks, so just four tracks, but immediately above that split, the marbles will come in from two different directions.  So there are 5 or 7 or 6 or 4 or 5 tracks depending on the level, and later, more (and/or less) as the height increases.
+Up a bit higher I am attempting a three-way split using some almost-parallel chopsticks which will allow the marbles to fall through onto different tracks.  Assuming I can get that working, at that level there will be two-fewer tracks, so just four tracks, but immediately above that split, the marbles will come in from two different directions.  So there are 5 or 7 or 6 or 4 or 5 tracks depending on the level, and later, there will be more (and/or less) as the height increases.
 
 TL;DR: I don't know.
 
