@@ -2,21 +2,17 @@
 Title: "概要"
 ---
 
-ビー玉からくり第三弾 is a labor of love mishmash of two creative artforms:
+１０年前[二番目のビーだせん](https://mt2.robnugen.com/)は六ヶ月で作りました。
 
-### kinetic sculpture
+いじめる人が「六ヶ月は無駄でした」だって。
 
-The marble track itself is a kinetic sculpture for marbles to run down every which way, and sometimes loose.
+ファンの人が「すごい！どうやって作った？」だって。
 
-### stop motion animation
+だから、去年新しいビー玉からくり「ビー玉からくり第三弾」を作り始めました。
 
-The *construction* of Marble Track 3 is being painstakingly documented through stop motion animation.
+予定は毎週二時間以上「三番目ビーだせん」を作ります。
 
-This answers the frequently asked question about [Marble Track 2](http://mt2.robnugen.com/): "*how do you make a marble track?*"
-
-### but that's not all
-
-Just in case someone asks "*how do you make a stop motion animation of the construction of a marble track?*" The creation of the animation is being livestreamed, with over 200 hours broadcast as of this writing.  Viewers are welcome to watch and vote as we discover questions within the construction.
+一年かかったんけど５〜１０パセントしか終わっていないと思います
 
 ### in the future
 
