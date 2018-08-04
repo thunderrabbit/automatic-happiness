@@ -2,15 +2,16 @@
 title: mt3 first roll celebration
 tags: [ "mt3", "video", "first" ]
 author: Rob Nugen
-youtube: -fLXDYXQ-uQ
+youtube: BjtpiRxoxvU
+episode_image: https://b.robnugen.com/art/marble_track_3/frames/2018/00010_002_07_X1_0687.jpg
 date: 2017-10-10T13:11:43+09:00
 ---
 
-yay they rolled a marble!
+Yay they rolled a marble!
 
-Live stream in two parts today.
+Live stream was in two parts today.
 
-* Up to the first roll https://www.youtube.com/watch?v=BjtpiRxoxvU
+* Above video shows up to the first roll 
 * The first roll https://www.youtube.com/watch?v=i9gCFg5TpqQ
 
 I have spent [73 hours](
@@ -23,3 +24,4 @@ Oh wow I really love it.  The characters manically run around for a
 bit and it's hard to tell what's going on, but then they all line up
 for the first roll; I think it looks pretty good.
 
+Watch it here https://www.youtube.com/watch?v=-fLXDYXQ-uQ
