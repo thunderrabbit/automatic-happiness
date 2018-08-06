@@ -1,9 +1,12 @@
 +++
-Title = "Candycane Mom"
+Title = "Candy Mama"
 date = "2017-06-01T09:12:39-05:00"
 Type = "workers"
 Thumbnail = "img/guest/ajohnston.jpg"
 Description = "Red/white striped head/hair"
+aliases = [
+    "/workers/candycane_mom/",
+]
 +++
 
 Candycane Mom is one of the first characters on the set, and somewhat of a manager character.
