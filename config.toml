@@ -97,7 +97,7 @@ enable_jumbo = "true"
 # enable_jumbo = "false"
 # truncate = "100"
 # about_logo = "/img/hugocast.png"
-copyright_notice = "Conceived 2011 [Rob Nugen](https://www.robnugen.com)"
+copyright_notice = "Copyright 2011 [Rob Nugen](https://www.robnugen.com)"
 #itunes_subscribe = "http://itunes.apple.com/us/podcast/arrested-devops/id773888088?mt=2&uo=4&at=11lsCi"
 #android_subscribe = "http://subscribeonandroid.com/feeds.podtrac.com/VGAulpN7MY1U"
 #google_play_subscribe = "https://goo.gl/app/playmusic?ibi=com.google.PlayMusic&isi=691797987&ius=googleplaymusic&link=https://play.google.com/music/m/Ihj4yege3lfmp3vs5yoopgxijpi?t%3DArrested_DevOps"
@@ -106,7 +106,7 @@ copyright_notice = "Conceived 2011 [Rob Nugen](https://www.robnugen.com)"
 #pocketcasts_subscribe = "http://pcasts.in/feed/feeds.soundcloud.com/users/soundcloud:users:203144248/sounds.rss"
 #mailchimp_subscribe = "//arresteddevops.us3.list-manage.com/subscribe/post?u=5e4cbcac996bb9df25f970a89&amp;id=154fa76bcc"
 #rss_subscribe = "http://feed.com/myfeed" #only set this if you don't want to use the built-in feed
-description = "Stop Motion Animation of the Construction of Marble Track 3"
+description = "Livestreams of the Stop Motion Animation of the [Construction of Marble Track 3](http://mt3s.robnugen.com)"
 media_prefix = "https://media.blubrry.com/"
   [params.feed]
     feed_copyright = "Copyright 2016 Rob Nugen" #do not use markdown in this field; it is used in the feed
