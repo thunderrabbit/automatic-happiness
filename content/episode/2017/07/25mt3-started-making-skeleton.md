@@ -4,6 +4,7 @@ tags: [ "mt3", "livestream" ]
 author: Rob Nugen
 youtube: OKXS1a8A3RI
 date: 2017-07-25T12:39:17+09:00
+episode_image: https://b.robnugen.com/art/marble_track_3/construction/2017/2017_aug_ribs.png
 ---
 
 I started putting together the skeleton that Kai gave me as a 490
