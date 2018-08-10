@@ -2,7 +2,7 @@
 title: "outer spiral is 5 segments long"
 tags: [ "outer spiral", "livestream" ]
 author: Rob Nugen
-youtube: https://www.youtube.com/watch?v=F85FNLFNzeM
+youtube: F85FNLFNzeM
 episode_image: https://b.robnugen.com/art/marble_track_3/construction/2018/aug_2018_five_segments_outer_spiral.jpg
 date: 2018-08-10T09:53:06+09:00
 ---
