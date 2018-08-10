@@ -3,6 +3,7 @@ title: first stage moving first stage into place
 tags: [ "mt3", "video" ]
 author: Rob Nugen
 youtube: hOC9B5sx6v4
+episode_image: https://b.robnugen.com/art/marble_track_3/frames/2018/00010_002_03_X1_0124.jpg
 date: 2017-07-11T14:14:22+09:00
 ---
 

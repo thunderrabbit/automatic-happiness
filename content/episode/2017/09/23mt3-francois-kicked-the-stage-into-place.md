@@ -3,6 +3,7 @@ title: mt3 Francois kicked the stage into place
 tags: [ "mt3", "video" ]
 author: Rob Nugen
 youtube: xc4JXLveuMc
+episode_image: https://b.robnugen.com/art/marble_track_3/frames/2018/00010_002_07_X1_0272.jpg
 date: 2017-09-23T21:43:13+09:00
 ---
 
