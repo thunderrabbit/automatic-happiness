@@ -8,7 +8,7 @@ episode_image: https://b.robnugen.com/art/marble_track_2/2007_jun_08_beyond_the_
 date: 2007-06-27T10:07:34+09:00
 ---
 
-## 2018年09月06日（土）
+## 2007年06月27日
 
 １０年前[二番目のビーだせん](https://mt2.robnugen.com/)は六ヶ月で作りました。
 

@@ -8,24 +8,19 @@ episode_image: https://b.robnugen.com/art/marble_track_3/frames/2018/00010_002_0
 date: 2017-09-23T21:43:13+09:00
 ---
 
-動画でフランソワが上のステージを引きずった。その時上のステージと下のステージがちょっと斜めでした。そうしたら、フランソワが上のステージを蹴ってしまして、ピタリ真中になった。
+動画でフランソワが上のステージを引きずった。その時上のステージと下のステージがちょっとずれました。そしたら、フランソワが上のステージを蹴っちゃって、ピッタリはまった。
 
-その動画の１２文の一秒の蹴ってを作ることは一時本当の時間をかかりました。その一時の間私は下のステージと上のステージをネジで集めました。
+その動画の１２分の１秒の蹴ってるところを作るのに実際に１時間かかりました。その一時間の間、私は下のステージと上のステージをネジで繋げました。
 
-今日のライブが二つあります。
+今日の生配信が二つあります。
 
-1. https://www.youtube.com/watch?v=qpeHQqscrnA up to when I let the
-   glue dry on the circle-drawer after adding a new piece to make it a
-   drill guide
+1. スティックに新し穴の印をつけてのりが乾き始めるまでの生配信：https://www.youtube.com/watch?v=qpeHQqscrnA
 
-2. https://youtu.be/oRRCVZZBqQg during which I drill pilot holes in
-   the top piece, screw it to the rotating plate and try to align it
-   so Francois seems to kick it into place
+2. 上の部分にドリルで穴を開けている間、まわるプレートにネジでとめて、フランソワが蹴ってはめるようにするところの生配信：https://youtu.be/oRRCVZZBqQg
 
-
-エムチースリーのため[64+ 時間](
+ビー玉さんのため[64時間以上](
 http://www.grun1.com/utils/timeCalc.html?t1=4:14:42&c1=June%202017&t2=10:16:10&c2=July%202017&t3=26:12:06&c3=Aug%202017&t4=1:47:01&c4=1%20Sep%202017&t5=2:06:04&c5=6%20Sep%202017&t6=1:40:20&c6=8%20Sep%202017&t7=2:20:11&c7=9%20Sep%202017&t8=56:19&c8=9%20Sep%202017&t9=20:00&c9=9%20Sep%20extra%2020&t10=1:49:24&c10=11%20Sep%202017&t11=2:03:15&c11=12%20Sep%202017&t12=1:03:03&c12=14%20Sep%202017&t13=25:32&c13=18%20Sep%202017&t14=48:09&c14=18%20Sep%202017&t15=2:44:43&c15=22%20Sep%202017&t16=2:00:21&c16=22%20Sep%202017&t17=2:31:01&c17=23%20Sep%202017&t18=1:08:31&c18=23%20Sep%202017&mode=0&fs3=1&ft2=1&f3t1=1&f4t0=1&d=:&o4=1&fps=
-)を頑張りました。
+)頑張りました。
 
 ## 20:14 Sunday 24 September 2017 JST
 
@@ -33,4 +28,4 @@ http://www.grun1.com/utils/timeCalc.html?t1=4:14:42&c1=June%202017&t2=10:16:10&c
 http://www.grun1.com/utils/timeCalc.html?t1=4:14:42&c1=June%202017&t2=10:16:10&c2=July%202017&t3=26:12:06&c3=Aug%202017&t4=1:47:01&c4=1%20Sep%202017&t5=2:06:04&c5=6%20Sep%202017&t6=1:40:20&c6=8%20Sep%202017&t7=2:20:11&c7=9%20Sep%202017&t8=56:19&c8=9%20Sep%202017&t9=20:00&c9=9%20Sep%20extra%2020&t10=1:49:24&c10=11%20Sep%202017&t11=2:03:15&c11=12%20Sep%202017&t12=1:03:03&c12=14%20Sep%202017&t13=25:32&c13=18%20Sep%202017&t14=48:09&c14=18%20Sep%202017&t15=2:44:43&c15=22%20Sep%202017&t16=2:00:21&c16=22%20Sep%202017&t17=2:31:01&c17=23%20Sep%202017&t18=1:08:31&c18=23%20Sep%202017&t19=36:19&c19=24%20Sep%202017%20test%20rolling&mode=0&fs3=1&ft2=1&f3t1=1&f4t0=1&d=:&o4=1&fps=
 ) です。
 
-ビー玉を探してステージにローリングのテストしてのライブです。 https://www.youtube.com/watch?v=P-zcUDDdGQc
+ビー玉を探してステージで転がすテストの生配信です。 https://www.youtube.com/watch?v=P-zcUDDdGQc
