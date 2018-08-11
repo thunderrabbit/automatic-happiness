@@ -2,7 +2,8 @@
 Title = "Reversible Guy"
 date = "2017-08-01T09:12:39-05:00"
 Type = "workers"
-Thumbnail = "img/guest/ajohnston.jpg"
+Thumbnail = "https://b.robnugen.com/art/marble_track_3/workers/2018/thumbs/reversible.jpg"
+Image = "https://b.robnugen.com/art/marble_track_3/workers/2018/reversible.jpg"
 Description = "is he coming or going?"
 +++
 

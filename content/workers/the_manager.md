@@ -2,7 +2,8 @@
 Title = "The Manager"
 date = "2017-08-01T09:12:39-05:00"
 Type = "workers"
-Thumbnail = "img/guest/ajohnston.jpg"
+Thumbnail = "https://b.robnugen.com/art/marble_track_3/workers/2018/thumbs/manager.jpg"
+Image = "https://b.robnugen.com/art/marble_track_3/workers/2018/manager.jpg"
 Description = "short, white, with small feet"
 +++
 

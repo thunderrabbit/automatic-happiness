@@ -2,7 +2,8 @@
 Title = "キャンディーママ"
 date = "2017-06-01T09:12:39-05:00"
 Type = "workers"
-Thumbnail = "img/guest/ajohnston.jpg"
+Thumbnail = "https://b.robnugen.com/art/marble_track_3/workers/2018/thumbs/candy_mama.jpg"
+Image = "https://b.robnugen.com/art/marble_track_3/workers/2018/candy_mama.jpg"
 Description = "Red/white striped head/hair"
 aliases = [
     "/ja/workers/candycane_mom/"

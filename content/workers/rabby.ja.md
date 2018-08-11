@@ -2,7 +2,8 @@
 Title = "兎のラビー"
 date = "2017-07-01T09:12:39-05:00"
 Type = "workers"
-Thumbnail = "img/guest/ajohnston.jpg"
+Thumbnail = "https://b.robnugen.com/art/marble_track_3/workers/2017/thumbs/rabby.jpg"
+Image = "https://b.robnugen.com/art/marble_track_3/workers/2017/rabby.jpg"
 Description = "old rabbit"
 +++
 
