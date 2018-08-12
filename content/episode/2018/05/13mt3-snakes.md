@@ -1,5 +1,5 @@
 ---
-title: "mt3 snakes"
+title: "snakes"
 tags: [ "mt3", "snakes", "video" ]
 author: Rob Nugen
 youtube: a5Dbv1iIqsg

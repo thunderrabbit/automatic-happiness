@@ -1,5 +1,5 @@
 ---
-title: mt3 first roll celebration
+title: first roll celebration
 tags: [ "mt3", "video", "first" ]
 author: Rob Nugen
 youtube: BjtpiRxoxvU

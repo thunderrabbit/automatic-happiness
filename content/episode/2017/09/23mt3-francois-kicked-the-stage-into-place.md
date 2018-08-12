@@ -1,5 +1,5 @@
 ---
-title: mt3 Francois kicked the stage into place
+title: Francois kicked the stage into place
 tags: [ "mt3", "video" ]
 author: Rob Nugen
 youtube: xc4JXLveuMc
