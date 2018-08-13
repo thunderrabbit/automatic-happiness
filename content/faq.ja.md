@@ -1,17 +1,32 @@
 
 ###  FAQ
 
-*How do you know how to make it?*
+*それ何？*
 
-This question is asked in various ways.  Basically it is just freestyle.  There are no blueprints; I only have a vague idea of how it's all going to look at the end.  I know I want the marbles to roll down
+ビー玉からくり第三弾（ビー玉さん）は【ビー玉の】kinetic sculptureと言う作り物です。
+
+2006年ビー玉からくり第ニ弾を作ってビデオを半得しました。(posted)
+ビー玉からくり第ニ弾のビデオを見た人は「how did you make it?」を聞きました。
+
+ビー玉さんを作りながら、キャラが作りそうな動画も作ります。このビデオはまだまだ終わらないけど「ビー玉からくり第三弾工」は2006年の質問のへんじです。
+
+このサイトはそのビデオの「how did you make it?」のへんじです。
+
+
+*どうして作ることわかりますか？How do you know how to make it?*
+
+クリエティブです。書いた文がないし、予定あまりないし、ちょっとずつ考えて作っています。
+
+I know I want the marbles to roll down
 
 1. consistently
 2. slowly
 
 Given the density of tracks, #2 often loses when there is simply no space to ensure the marbles go the same way each time.   I just think "okay where should it go from *here*?" while trying to keep in mind all the answers to the same question for other tracks.
 
-*How many tracks are there?*
+*何線がありますか？How many tracks are there?*
 
+下で到着ところ五つあります。小玉と中玉のは二つずつ、大玉のは一つの到着ところあります。
 On the base of the track, there are two landing zones for small marbles, two landing zones for medium sized marbles, and one landing zone for the largest marbles.
 
 The landing zones for the medium and large marbles have one track each.  The two landing zones for small marbles have two tracks each (one arriving from each end).  So at the lowest level, there are seven tracks.

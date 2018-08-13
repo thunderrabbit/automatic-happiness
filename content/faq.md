@@ -1,9 +1,13 @@
 
 ###  FAQ
 
-*How do you know how to make it?*
+*What is this?*
 
-This question is asked in various ways.  Basically it is just freestyle.  There are no blueprints; I only have a vague idea of how it's all going to look at the end.  I know I want the marbles to roll down
+This whole project is to answer a question that I received back in 2006 after posting Marble Track 2 online.  "How did you make the marble track?"  I decided I could create an elaborate stop motion video of some characters creating a track.  The livestream videos on this website are to preemptively answer the question "How did you make the animation?"
+
+*Yeah, but how do you know how to make it?*
+
+Basically it is just freestyle.  There are no blueprints; I only have a vague idea of how it's all going to look at the end.  I know I want the marbles to roll down
 
 1. consistently
 2. slowly
