@@ -1,8 +1,9 @@
 ---
-title: mt3 slow motion flip
+title: slow motion flip
 tags: [ "mt3", "video", "nice" ]
 author: Rob Nugen
 youtube: zCqvXIN_G1k
+episode_image: https://b.robnugen.com/art/marble_track_3/frames/2018/00010_002_06_X1_0409.jpg
 date: 2017-09-08T11:28:11+09:00
 ---
 
