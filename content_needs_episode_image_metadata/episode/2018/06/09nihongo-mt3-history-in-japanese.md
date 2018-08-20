@@ -8,7 +8,7 @@ date: 2018-06-09T08:20:48+09:00
 
 ## 08:20 Saturday 09 June 2018 JST
 
-１０年前[二番目のビーだせん](https://mt2.robnugen.com/)は六ヶ月で作りました。　Ten years ago, I made [Marble Track 2](https://mt2.robnugen.com/) in 6 months.
+１０年前[二番目のビーだせん](http://mt2.robnugen.com/)は六ヶ月で作りました。　Ten years ago, I made [Marble Track 2](http://mt2.robnugen.com/) in 6 months.
 
 いじめる人が「六ヶ月は無駄でした」だって。　Trolls said I wasted 6 months.
 
