@@ -5,6 +5,9 @@ Type = "workers"
 Thumbnail = "https://b.robnugen.com/art/marble_track_3/workers/2018/thumbs/g_choppy.jpg"
 Image = "https://b.robnugen.com/art/marble_track_3/workers/2018/g_choppy.jpg"
 Description = "The one with the sword"
+Aliases = [
+   "/g_choppy/"
+]
 +++
 
 G. Choppy is one of the characters who has a very specific job and only that job his job is to cut wood and that's all he does.  
