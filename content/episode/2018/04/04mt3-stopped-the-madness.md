@@ -1,5 +1,5 @@
 ---
-title: "mt3: stopped the madness"
+title: "stopped the madness"
 tags: [ "mt3", "video", "lots" ]
 author: Rob Nugen
 youtube: D9OlkmueKJg

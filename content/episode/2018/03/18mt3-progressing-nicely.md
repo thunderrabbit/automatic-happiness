@@ -1,5 +1,5 @@
 ---
-title: "mt3: progressing nicely"
+title: "progressing nicely"
 tags: [ "mt3", "video" ]
 author: Rob Nugen
 youtube: C42QgmkaZTk

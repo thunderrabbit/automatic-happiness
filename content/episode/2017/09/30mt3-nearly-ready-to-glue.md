@@ -1,5 +1,5 @@
 ---
-title: mt3 nearly ready to glue
+title: nearly ready to glue
 tags: [ "mt3", "video", "slow" ]
 author: Rob Nugen
 youtube: EeY85MnK_y4

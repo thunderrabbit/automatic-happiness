@@ -1,5 +1,5 @@
 ---
-title: "mt3: curving ribs 4 and 5"
+title: "curving ribs 4 and 5"
 tags: [ "mt3", "video" ]
 author: Rob Nugen
 youtube: Qg9Z7JmYQE8

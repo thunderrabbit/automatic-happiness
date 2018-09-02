@@ -1,5 +1,5 @@
 ---
-title: "mt3: pics and toothpicks"
+title: "pics and toothpicks"
 tags: [ "pics", "video", "mt3" ]
 author: Rob Nugen
 youtube: 9dMBGxH8aCQ

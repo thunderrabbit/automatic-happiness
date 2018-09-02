@@ -1,5 +1,5 @@
 ---
-title: "mt3: guy fell off stage after ramp was overturned"
+title: "guy fell off stage after ramp was overturned"
 tags: [ "mt3", "video" ]
 author: Rob Nugen
 youtube: n9n6qG0FJGs

@@ -1,5 +1,5 @@
 ---
-title: "mt3: ready to glue u turn"
+title: "ready to glue u turn"
 tags: [ "mt3", "video" ]
 author: Rob Nugen
 youtube: 4VMQiS3-XaM

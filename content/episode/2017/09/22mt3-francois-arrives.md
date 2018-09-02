@@ -1,5 +1,5 @@
 ---
-title: mt3 Francois arrives
+title: Francois arrives
 tags: [ "mt3", "video" ]
 author: Rob Nugen
 youtube: VaOK-BXbmmU

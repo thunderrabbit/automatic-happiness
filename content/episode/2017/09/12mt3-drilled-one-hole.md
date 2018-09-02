@@ -1,5 +1,5 @@
 ---
-title: mt3 drilled one hole
+title: drilled one hole
 tags: [ "mt3", "video" ]
 author: Rob Nugen
 youtube: _arPJhJoIFM

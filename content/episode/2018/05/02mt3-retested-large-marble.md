@@ -1,5 +1,5 @@
 ---
-title: "mt3: retested large marble"
+title: "retested large marble"
 tags: [ "mt3", "video", "redo", "oops" ]
 author: Rob Nugen
 youtube: Szk18zHKZm4

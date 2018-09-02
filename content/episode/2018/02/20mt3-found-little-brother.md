@@ -1,5 +1,5 @@
 ---
-title: "mt3: found little brother"
+title: "found little brother"
 tags: [ "mt3", "video", "haha" ]
 author: Rob Nugen
 youtube: 6iRB_iBUU3c

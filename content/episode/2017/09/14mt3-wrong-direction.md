@@ -1,5 +1,5 @@
 ---
-title: mt3 wrong direction
+title: wrong direction
 tags: [ "mt3", "video" ]
 author: Rob Nugen
 youtube: fWNuuGVUCgQ

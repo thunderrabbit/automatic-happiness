@@ -1,5 +1,5 @@
 ---
-title: "mt3: hmm is the stage slowing down?"
+title: "hmm is the stage slowing down?"
 tags: [ "mt3", "video", "first", "dimension" ]
 author: Rob Nugen
 youtube: kNjhJQKKWkw

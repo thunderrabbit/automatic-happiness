@@ -1,5 +1,5 @@
 ---
-title: mt3 got another track glued down
+title: got another track glued down
 tags: [ "mt3", "video", "battery", "adapter" ]
 author: Rob Nugen
 youtube: nNzoOekbSUM

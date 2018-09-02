@@ -1,5 +1,5 @@
 ---
-title: "mt3: look at me!"
+title: "look at me!"
 tags: [ "mt3", "video", "tada", "look at me" ]
 author: Rob Nugen
 youtube: 2bP7Irt5hHc

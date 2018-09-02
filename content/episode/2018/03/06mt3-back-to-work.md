@@ -1,5 +1,5 @@
 ---
-title: "mt3: back to work"
+title: "back to work"
 tags: [ "mt3", "video" ]
 author: Rob Nugen
 youtube: rCc7DaTpdFU

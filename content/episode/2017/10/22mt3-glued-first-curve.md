@@ -1,5 +1,5 @@
 ---
-title: mt3 glued first curve
+title: glued first curve
 tags: [ "mt3", "curve", "kick" ]
 author: Rob Nugen
 youtube: TwaZkt_T7wk

@@ -1,5 +1,5 @@
 ---
-title: "mt3: three angled walls"
+title: "three angled walls"
 tags: [ "mt3", "video", "subtle" ]
 author: Rob Nugen
 youtube: DxJ9mQ11G00

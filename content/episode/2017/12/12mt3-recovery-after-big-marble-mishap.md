@@ -1,5 +1,5 @@
 ---
-title: "mt3: recovery after big marble mishap"
+title: "recovery after big marble mishap"
 tags: [ "mt3", "video", "recover" ]
 author: Rob Nugen
 youtube: PLWWsdLyqV8

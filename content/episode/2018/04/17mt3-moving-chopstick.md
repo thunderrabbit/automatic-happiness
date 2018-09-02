@@ -1,5 +1,5 @@
 ---
-title: "mt3: moving chopstick"
+title: "moving chopstick"
 tags: [ "mt3", "video", "japanese" ]
 author: Rob Nugen
 youtube: -rtNIse3mqo

@@ -1,5 +1,5 @@
 ---
-title: "mt3: glue half M dropper"
+title: "glue half M dropper"
 tags: [ "mt3", "video" ]
 author: Rob Nugen
 youtube: aF_LzOID2bQ

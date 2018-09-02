@@ -1,5 +1,5 @@
 ---
-title: "mt3: started other small tracks"
+title: "started other small tracks"
 tags: [ "mt3", "video" ]
 author: Rob Nugen
 youtube: XmZ_tijtir8

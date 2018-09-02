@@ -1,5 +1,5 @@
 ---
-title: "mt3: spinning again while adding 6th rib"
+title: "spinning again while adding 6th rib"
 tags: [ "mt3", "video" ]
 author: Rob Nugen
 youtube: afXbZsPdljI

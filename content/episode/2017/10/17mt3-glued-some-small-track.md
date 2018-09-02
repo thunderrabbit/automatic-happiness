@@ -1,5 +1,5 @@
 ---
-title: mt3 glued some small track
+title: glued some small track
 tags: [ "mt3", "video", "small" ]
 author: Rob Nugen
 youtube: 9V9_JSesKSo

@@ -1,5 +1,5 @@
 ---
-title: "mt3: before releasing the big marble"
+title: "before releasing the big marble"
 tags: [ "mt3", "video", "before" ]
 author: Rob Nugen
 youtube: Gz0WYJAiIc4

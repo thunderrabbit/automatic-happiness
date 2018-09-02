@@ -1,5 +1,5 @@
 ---
-title: "mt3: just before gluing 7th rib"
+title: "just before gluing 7th rib"
 tags: [ "mt3", "video" ]
 author: Rob Nugen
 youtube: Doo9FwNpsPQ

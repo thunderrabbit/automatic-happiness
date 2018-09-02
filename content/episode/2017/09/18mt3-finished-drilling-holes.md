@@ -1,5 +1,5 @@
 ---
-title: mt3 finished drilling holes
+title: finished drilling holes
 tags: [ "mt3", "video" ]
 author: Rob Nugen
 youtube: o5jzoI51LC0

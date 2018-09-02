@@ -1,5 +1,5 @@
 ---
-title: "mt3: cut vertical piece"
+title: "cut vertical piece"
 tags: [ "mt3", "video", "vertical" ]
 author: Rob Nugen
 youtube: KlasJfqhNgE

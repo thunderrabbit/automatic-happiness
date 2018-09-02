@@ -1,5 +1,5 @@
 ---
-title: mt3： first rolling marble
+title: first rolling marble
 tags: [ "mt3", "video", "first" ]
 author: Rob Nugen
 youtube: UAhlgQTAN4U

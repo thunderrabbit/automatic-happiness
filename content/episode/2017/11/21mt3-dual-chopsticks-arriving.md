@@ -1,5 +1,5 @@
 ---
-title: "mt3: dual chopsticks arriving"
+title: "dual chopsticks arriving"
 tags: [ "mt3", "video" ]
 author: Rob Nugen
 youtube: PSr06lnhLPI

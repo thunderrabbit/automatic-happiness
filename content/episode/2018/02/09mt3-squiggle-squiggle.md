@@ -1,5 +1,5 @@
 ---
-title: "mt3: calling for help"
+title: "calling for help"
 tags: [ "video", "mt3", "brer" ]
 author: Rob Nugen
 youtube: I6DBKaK37qM

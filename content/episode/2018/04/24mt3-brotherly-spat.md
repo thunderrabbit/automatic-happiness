@@ -1,5 +1,5 @@
 ---
-title: "mt3: brotherly spat"
+title: "brotherly spat"
 tags: [ "mt3", "video" ]
 author: Rob Nugen
 youtube: hxZ3cE1Gh6c

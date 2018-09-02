@@ -1,5 +1,5 @@
 ---
-title: mt3 rewind before Matrix
+title: rewind before Matrix
 tags: [ "mt3", "video", "matrix", "rewind", "dragonframe" ]
 author: Rob Nugen
 youtube: N_9ocOflC9I

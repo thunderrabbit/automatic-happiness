@@ -1,5 +1,5 @@
 ---
-title: "mt3: lil brother hitches a ride"
+title: "lil brother hitches a ride"
 tags: [ "mt3", "video" ]
 author: Rob Nugen
 youtube: N7XiggF-FuQ

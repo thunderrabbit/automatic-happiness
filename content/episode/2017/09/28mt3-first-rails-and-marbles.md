@@ -1,5 +1,5 @@
 ---
-title: mt3： first rails and marbles
+title: first rails and marbles
 tags: [ "mt3", "video" ]
 author: Rob Nugen
 youtube: FRIBcPa6nRI

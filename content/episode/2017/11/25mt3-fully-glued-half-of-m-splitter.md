@@ -1,5 +1,5 @@
 ---
-title: "mt3: Fully glued half of M splitter"
+title: "Fully glued half of M splitter"
 tags: [ "mt3", "video" ]
 author: Rob Nugen
 youtube: jmGdVsuxa7M

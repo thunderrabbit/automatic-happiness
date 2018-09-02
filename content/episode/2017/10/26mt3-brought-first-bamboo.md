@@ -1,5 +1,5 @@
 ---
-title: mt3 brought first bamboo
+title: brought first bamboo
 tags: [ "mt3", "video" ]
 author: Rob Nugen
 youtube: adH1TdPZv2c

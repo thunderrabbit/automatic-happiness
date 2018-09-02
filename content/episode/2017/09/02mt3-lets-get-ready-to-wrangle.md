@@ -1,5 +1,5 @@
 ---
-title: mt3 let's get ready to wrangle
+title: "let's get ready to wrangle"
 tags: [ "mt3", "video" ]
 author: Rob Nugen
 youtube: owMCXdK-fC0

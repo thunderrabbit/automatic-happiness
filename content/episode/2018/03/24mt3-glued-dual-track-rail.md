@@ -1,5 +1,5 @@
 ---
-title: "mt3: glued dual track rail"
+title: "glued dual track rail"
 tags: [ "mt3", "video" ]
 author: Rob Nugen
 youtube: jQIe0Pw8Es0
