@@ -1,5 +1,5 @@
 ---
-title: "MT3 Fancy Footwork"
+title: "Fancy Footwork"
 tags: [ "mt3", "video" ]
 author: Rob Nugen
 youtube: zyaSrQymfSc

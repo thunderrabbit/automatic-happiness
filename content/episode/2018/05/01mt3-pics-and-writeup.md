@@ -1,5 +1,5 @@
 ---
-title: "mt3 pics and writeup"
+title: "pics and writeup"
 tags: [ "mt3", "pics" ]
 author: Rob Nugen
 episode_image: https://b.robnugen.com/art/marble_track_3/construction/2018/2018_april_29_overview.jpg

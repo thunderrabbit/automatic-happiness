@@ -1,5 +1,5 @@
 ---
-title: "mt3 plans"
+title: "plans"
 tags: [ "mt3", "plan", "plans" ]
 author: Rob Nugen
 episode_image: https://b.robnugen.com/art/marble_track_3/website/2018_sep_02_mt3_placeholder.png

@@ -1,5 +1,5 @@
 ---
-title: "mt3 helpful snakes"
+title: "helpful snakes"
 tags: [ "mt3", "video", "snakes" ]
 author: Rob Nugen
 youtube: SYrQcK-doYM

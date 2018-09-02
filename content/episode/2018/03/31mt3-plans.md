@@ -1,5 +1,5 @@
 ---
-title: "mt3 plans"
+title: "plans"
 tags: [ "mt3" ]
 author: Rob Nugen
 draft: true

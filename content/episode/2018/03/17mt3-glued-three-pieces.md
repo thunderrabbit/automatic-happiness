@@ -1,5 +1,5 @@
 ---
-title: "mt3 glued three pieces"
+title: "glued three pieces"
 tags: [ "mt3", "video", "progress" ]
 author: Rob Nugen
 youtube: Jeud8Y5bu54
