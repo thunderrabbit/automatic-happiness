@@ -2,7 +2,7 @@
 
 cd ~/mt3.com/scripts/go
 
-go run my_uploads.go oauth2.go errors.go
+go run call_you.go my_uploads.go oauth2.go errors.go
 
 cd ~/mt3.com
 
