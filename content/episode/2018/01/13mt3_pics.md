@@ -1,5 +1,5 @@
 ---
-title: "mt3: Glued first rib"
+title: "Glued first rib"
 tags: [ "mt3", "pics" ]
 author: Rob Nugen
 episode_image: "https://b.robnugen.com/art/marble_track_3/construction/2018/2018_jan_13_first_rib_clamped.jpg"
