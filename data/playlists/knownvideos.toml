@@ -19,9 +19,9 @@
     VideoType = 1
   [Videos.-ZEerNH_ldU]
     VideoId = "-ZEerNH_ldU"
-    Title = "Marble Track 3 construction Live Stream"
+    Title = "Marble Track 3 construction Live Stream: finished 16th segment and 9th day"
     Published = 2018-08-30T10:54:30Z
-    Duration = 0
+    Duration = 2740000000000
     VideoType = 1
   [Videos.-fLXDYXQ-uQ]
     VideoId = "-fLXDYXQ-uQ"
@@ -1187,6 +1187,12 @@
     Published = 2018-08-03T05:23:11Z
     Duration = 447000000000
     VideoType = 1
+  [Videos.gy0YS83ooms]
+    VideoId = "gy0YS83ooms"
+    Title = "Marble Track 3 construction Live Stream"
+    Published = 2018-09-03T09:24:48Z
+    Duration = 0
+    VideoType = 1
   [Videos.hOC9B5sx6v4]
     VideoId = "hOC9B5sx6v4"
     Title = "Marble Track 3 construction Live Stream: finished stage 1 of bringing in the first stage"
@@ -1523,6 +1529,12 @@
     Published = 2017-08-28T15:22:23Z
     Duration = 7000000000
     VideoType = 2
+  [Videos.wNY2Stv0L34]
+    VideoId = "wNY2Stv0L34"
+    Title = "Marble Track 3 construction Live Stream"
+    Published = 2018-09-03T09:24:49Z
+    Duration = 0
+    VideoType = 1
   [Videos.wXKYsPvBrqo]
     VideoId = "wXKYsPvBrqo"
     Title = "Marble Track 3 construction Live Stream: screeching the bearing"
