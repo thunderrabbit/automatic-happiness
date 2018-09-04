@@ -803,6 +803,12 @@
     Published = 2018-05-15T06:10:58Z
     Duration = 5236000000000
     VideoType = 1
+  [Videos.SSdJn5l0fLY]
+    VideoId = "SSdJn5l0fLY"
+    Title = "Marble Track 3: snake ready to spiral"
+    Published = 2018-09-04T03:08:21Z
+    Duration = 128000000000
+    VideoType = 2
   [Videos.SVULwDx6hgY]
     VideoId = "SVULwDx6hgY"
     Title = "Marble Track 3: attached bearing to stage"
@@ -1189,9 +1195,9 @@
     VideoType = 1
   [Videos.gy0YS83ooms]
     VideoId = "gy0YS83ooms"
-    Title = "Marble Track 3 construction Live Stream"
+    Title = "Marble Track 3 construction Live Stream: twenty questions and reinforced outer spiral"
     Published = 2018-09-03T09:24:48Z
-    Duration = 0
+    Duration = 6315000000000
     VideoType = 1
   [Videos.hOC9B5sx6v4]
     VideoId = "hOC9B5sx6v4"
