@@ -3,7 +3,7 @@ title: "twenty questions and reinforced outer spiral"
 tags: [ "mt3", "livestream" ]
 author: Rob Nugen
 youtube: gy0YS83ooms
-episode_image: https://b.robnugen.com/art/marble_track_3/construction/2018/2018_sep_04_reinforced_outer_spiral.jpg
+episode_image: https://b.robnugen.com/art/marble_track_3/construction/2018/2018_sep_04_glued_one_toothpick.jpg
 date: 2018-09-04T11:32:11+09:00
 ---
 
