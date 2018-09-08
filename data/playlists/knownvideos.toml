@@ -497,6 +497,12 @@
     Published = 2017-07-07T08:41:45Z
     Duration = 3766000000000
     VideoType = 1
+  [Videos.GEgeHGFWBe8]
+    VideoId = "GEgeHGFWBe8"
+    Title = "Marble Track 3 construction Live Stream: planning outer cycle connections"
+    Published = 2018-09-07T00:11:38Z
+    Duration = 3362000000000
+    VideoType = 1
   [Videos.GG43PW3cy58]
     VideoId = "GG43PW3cy58"
     Title = "Marble Track 3: curiosity"
@@ -1403,6 +1409,12 @@
     Published = 2017-09-01T11:46:28Z
     Duration = 6421000000000
     VideoType = 1
+  [Videos.pBrzowlgt8E]
+    VideoId = "pBrzowlgt8E"
+    Title = "Marble Track 3 construction Live Stream"
+    Published = 2018-09-07T22:56:35Z
+    Duration = 0
+    VideoType = 1
   [Videos.pppwDXPpF34]
     VideoId = "pppwDXPpF34"
     Title = "Marble Track 3 construction Live Stream"
@@ -1537,9 +1549,9 @@
     VideoType = 2
   [Videos.wNY2Stv0L34]
     VideoId = "wNY2Stv0L34"
-    Title = "Marble Track 3 construction Live Stream"
+    Title = "Marble Track 3 construction Live Stream: linking this project to my other identity"
     Published = 2018-09-03T09:24:49Z
-    Duration = 0
+    Duration = 1768000000000
     VideoType = 1
   [Videos.wXKYsPvBrqo]
     VideoId = "wXKYsPvBrqo"
@@ -1624,6 +1636,12 @@
     Title = "Marble Track 3 construction Live Stream: spun stage 1/4 spin"
     Published = 2018-01-04T08:53:11Z
     Duration = 4917000000000
+    VideoType = 1
+  [Videos.zhNh4NyoR6o]
+    VideoId = "zhNh4NyoR6o"
+    Title = "Marble Track 3 construction Live Stream: planning outer spiral supports"
+    Published = 2018-09-07T00:50:50Z
+    Duration = 4732000000000
     VideoType = 1
   [Videos.zpEoY_FODjw]
     VideoId = "zpEoY_FODjw"
