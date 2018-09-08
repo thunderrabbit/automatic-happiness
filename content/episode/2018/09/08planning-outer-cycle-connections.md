@@ -3,7 +3,7 @@ title: "planning outer cycle connections"
 tags: [ "mt3", "livestream" ]
 author: Rob Nugen
 youtube: GEgeHGFWBe8
-episode_image: https://b.robnugen.com/art/marble_track_3/frames/2018/00010_002_09_X1_1797.jpg
+episode_image: https://b.robnugen.com/art/marble_track_3/construction/2018/2018_sep_08_tweaking_outer_spiral.jpg
 date: 2018-09-08T13:09:22+09:00
 ---
 
