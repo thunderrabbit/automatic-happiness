@@ -623,6 +623,12 @@
     Published = 2017-08-11T19:24:18Z
     Duration = 22063000000000
     VideoType = 1
+  [Videos.LuN03m2sOU4]
+    VideoId = "LuN03m2sOU4"
+    Title = "Marble Track 3 construction Live Stream: bonus gluing sticks"
+    Published = 2018-09-08T10:01:05Z
+    Duration = 558000000000
+    VideoType = 1
   [Videos.M2Mbu-6B_mY]
     VideoId = "M2Mbu-6B_mY"
     Title = "Marble Track 3 construction Live Stream: fifteen segments in outer spiral"
@@ -1025,6 +1031,12 @@
     Published = 2017-07-25T03:52:51Z
     Duration = 1647000000000
     VideoType = 1
+  [Videos._nWqfacctjA]
+    VideoId = "_nWqfacctjA"
+    Title = "Marble Track 3 construction Live Stream"
+    Published = 2018-09-08T10:37:04Z
+    Duration = 0
+    VideoType = 1
   [Videos.a5Dbv1iIqsg]
     VideoId = "a5Dbv1iIqsg"
     Title = "Marble Track 3: snakes!"
@@ -1411,9 +1423,9 @@
     VideoType = 1
   [Videos.pBrzowlgt8E]
     VideoId = "pBrzowlgt8E"
-    Title = "Marble Track 3 construction Live Stream"
+    Title = "Marble Track 3 construction Live Stream: planning end of sixth snippet"
     Published = 2018-09-07T22:56:35Z
-    Duration = 0
+    Duration = 7647000000000
     VideoType = 1
   [Videos.pppwDXPpF34]
     VideoId = "pppwDXPpF34"
