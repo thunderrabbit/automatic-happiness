@@ -6,7 +6,8 @@ Thumbnail = "https://b.robnugen.com/art/marble_track_3/workers/2018/thumbs/g_cho
 Image = "https://b.robnugen.com/art/marble_track_3/workers/2018/g_choppy.jpg"
 Description = "The one with the sword"
 Aliases = [
-   "/g_choppy/"
+  "/g_choppy/",
+  "/gc"
 ]
 +++
 
@@ -16,6 +17,6 @@ I tried to make the cuts happen by him raising his sword for three frames which 
 
 Sometimes he just curves pieces, and I don't have a clear timing on how long that takes, because it depends on the curve each time.
 
-But cuts are more binary either cut or not cut so 1/4 of a second before.
+But cuts are essentially binary.  A piece is either cut or not cut, so it takes 1/4 of a second before the cut to prepare to cut.
 
-The green cutter was in the first attempt at marble track 3 movie from back 6 years ago or so.
+G. Choppy, then known as "the green cutter", was in the first attempt at marble track 3 movie from back 6 years ago or so.
