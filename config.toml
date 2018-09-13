@@ -12,6 +12,7 @@ paginate = "9"
     title = "Marble Track 3"
     weight = 1
     LanguageName = "English"
+    description = "Livestreams of the Stop Motion Animation of the [Construction of Marble Track 3](http://mt3s.robnugen.com)"
 
 [[languages.en.Menu.Main]]
     name = "About"
@@ -37,6 +38,7 @@ paginate = "9"
     title = "ビー玉からくり第三弾"
     weight = 2
     LanguageName = "日本語"
+    description = "Livestreams of the Stop Motion Animation of the [Construction of ビー玉からくり第三弾](http://mt3s.robnugen.com)"
 
     [languages.ja.params]
       [languages.ja.params.navigation]
@@ -106,7 +108,6 @@ copyright_notice = "Copyright 2011-2018 [Rob Nugen](https://www.robnugen.com)"
 #pocketcasts_subscribe = "http://pcasts.in/feed/feeds.soundcloud.com/users/soundcloud:users:203144248/sounds.rss"
 #mailchimp_subscribe = "//arresteddevops.us3.list-manage.com/subscribe/post?u=5e4cbcac996bb9df25f970a89&amp;id=154fa76bcc"
 #rss_subscribe = "http://feed.com/myfeed" #only set this if you don't want to use the built-in feed
-description = "Livestreams of the Stop Motion Animation of the [Construction of Marble Track 3](http://mt3s.robnugen.com)"
 media_prefix = "https://media.blubrry.com/"
   [params.feed]
     feed_copyright = "Copyright 2016 Rob Nugen" #do not use markdown in this field; it is used in the feed
