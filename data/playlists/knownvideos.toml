@@ -731,6 +731,12 @@
     Published = 2017-07-25T02:55:31Z
     Duration = 1020000000000
     VideoType = 1
+  [Videos.Om6LTZYHUH0]
+    VideoId = "Om6LTZYHUH0"
+    Title = "Marble Track 3: nearly ready for vertical support"
+    Published = 2018-09-13T00:36:49Z
+    Duration = 134000000000
+    VideoType = 2
   [Videos.P-zcUDDdGQc]
     VideoId = "P-zcUDDdGQc"
     Title = "Marble Track 3 construction Live Stream: testing rolling marbles"
@@ -913,9 +919,9 @@
     VideoType = 2
   [Videos.Uw6OXqRv_ko]
     VideoId = "Uw6OXqRv_ko"
-    Title = "Marble Track 3 construction Live Stream"
+    Title = "Marble Track 3 construction Live Stream: nearly ready for vertical support"
     Published = 2018-09-11T02:22:01Z
-    Duration = 0
+    Duration = 6010000000000
     VideoType = 1
   [Videos.VOhyiOgwHdo]
     VideoId = "VOhyiOgwHdo"
@@ -1001,6 +1007,12 @@
     Published = 2017-11-06T13:29:56Z
     Duration = 13000000000
     VideoType = 2
+  [Videos.Y5VvlRbAX8w]
+    VideoId = "Y5VvlRbAX8w"
+    Title = "Marble Track 3 construction Live Stream"
+    Published = 2018-09-13T00:19:02Z
+    Duration = 0
+    VideoType = 1
   [Videos.Yn5x7M6uZ_A]
     VideoId = "Yn5x7M6uZ_A"
     Title = "Marble Track 3 blooper: featuring Catzilla (Jennie)"
