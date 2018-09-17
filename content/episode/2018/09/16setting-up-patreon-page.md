@@ -1,8 +1,8 @@
 ---
-title: "Support Marble Track 3 Construction on Patreon!"
+title: "Support Marble Track 3 Construction on Patreon! (first draft video)"
 tags: [ "patreon", "support" ]
 author: Rob Nugen
-youtube: Y5VvlRbAX8w
+youtube: pZ3stsy97ck
 episode_image: https://b.robnugen.com/art/marble_track_3/website/2018_sep_Patreon_page.png
 date: 2018-09-16T06:15:14+09:00
 ---

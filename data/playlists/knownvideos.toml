@@ -659,6 +659,12 @@
     Published = 2017-11-23T02:09:21Z
     Duration = 4019000000000
     VideoType = 1
+  [Videos.MjrszG9sn9M]
+    VideoId = "MjrszG9sn9M"
+    Title = "Marble Track 3: little brother says boo"
+    Published = 2018-09-17T10:54:29Z
+    Duration = 9000000000
+    VideoType = 2
   [Videos.MmYza-6SGKo]
     VideoId = "MmYza-6SGKo"
     Title = "Marble Track 3: tail flipped switch"
@@ -1205,6 +1211,12 @@
     Published = 2017-08-24T07:44:27Z
     Duration = 89000000000
     VideoType = 2
+  [Videos.eDsA_TCFp70]
+    VideoId = "eDsA_TCFp70"
+    Title = "Marble Track 3 construction Live Stream: oops broke large berm"
+    Published = 2018-09-17T07:52:06Z
+    Duration = 166000000000
+    VideoType = 1
   [Videos.eo1GQrjEkWM]
     VideoId = "eo1GQrjEkWM"
     Title = "Marble Track 3: rewind before Matrix"
@@ -1306,6 +1318,12 @@
     Title = "Marble Track 3 construction Live Stream"
     Published = 2018-03-06T04:37:44Z
     Duration = 2033000000000
+    VideoType = 1
+  [Videos.iwetRGjcyQE]
+    VideoId = "iwetRGjcyQE"
+    Title = "Marble Track 3 construction Live Stream: filmed scene on top"
+    Published = 2018-09-17T07:29:28Z
+    Duration = 6415000000000
     VideoType = 1
   [Videos.j2fJ32if1I0]
     VideoId = "j2fJ32if1I0"
@@ -1471,8 +1489,14 @@
     VideoType = 1
   [Videos.pZ3stsy97ck]
     VideoId = "pZ3stsy97ck"
-    Title = "Marble Track 3 construction Live Stream"
+    Title = "Marble Track 3 Patreon take 1"
     Published = 2018-09-15T23:00:14Z
+    Duration = 317000000000
+    VideoType = 1
+  [Videos.pa_aVE_oPDY]
+    VideoId = "pa_aVE_oPDY"
+    Title = "Marble Track 3 construction Live Stream"
+    Published = 2018-09-17T07:18:19Z
     Duration = 0
     VideoType = 1
   [Videos.pppwDXPpF34]
