@@ -34,6 +34,11 @@ paginate = "9"
     identifier = "040_latest"
     url = "latest"
 
+[[languages.en.Menu.Main]]
+    name = "Future plans"
+    identifier = "050_future"
+    url = "future"
+
   [languages.ja]
     title = "ビー玉からくり第三弾"
     weight = 2
@@ -63,6 +68,11 @@ paginate = "9"
     name = "Latest"
     identifier = "040_latest"
     url = "latest"
+
+[[languages.ja.Menu.Main]]
+    name = "Future plans"
+    identifier = "050_future"
+    url = "future"
 
 [permalinks]
         blog = "/blog/:year/:month/:day/:title/"
