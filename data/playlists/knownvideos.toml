@@ -1415,6 +1415,12 @@
     Published = 2017-11-25T05:50:45Z
     Duration = 4556000000000
     VideoType = 1
+  [Videos.n2TrsOUIGjw]
+    VideoId = "n2TrsOUIGjw"
+    Title = "Marble Track 3 construction Live Stream"
+    Published = 2018-09-18T07:45:05Z
+    Duration = 0
+    VideoType = 1
   [Videos.n9n6qG0FJGs]
     VideoId = "n9n6qG0FJGs"
     Title = "Marble Track 3: ramp overturned"
@@ -1495,9 +1501,9 @@
     VideoType = 1
   [Videos.pa_aVE_oPDY]
     VideoId = "pa_aVE_oPDY"
-    Title = "Marble Track 3 construction Live Stream"
+    Title = "Marble Track 3 construction Live Stream: repaired large marble berm"
     Published = 2018-09-17T07:18:19Z
-    Duration = 0
+    Duration = 958000000000
     VideoType = 1
   [Videos.pppwDXPpF34]
     VideoId = "pppwDXPpF34"

@@ -17,7 +17,7 @@ Right now [Reversible Guy](/rg) is in the process of adding the first support th
 
 Though the stand-in Outer Spiral is a polygon of sorts, I plan to make the real spiral smoother somehow.
 
-### 　● Lower Zig Zag (*)
+### 　● Lower(*) Zig Zag
 
 Next to the triple splitter, I have a very narrow space to allow the small marbles to go down to feed into the small marble resting area from the other direction off of the Little Wiggly Track.
 

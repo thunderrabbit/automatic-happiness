@@ -31,7 +31,7 @@ TL;DR: I don't know.
 
 *You should paint each track*
 
-That's not really going to work, given how the tracks merge and split.  If the tracks were like waterslides at an amusement park, then yeah, but they are not, so no.
+That's not really going to work, given how the tracks merge and split.  If the tracks were like waterslides at an amusement park (tangled but not merging), then yeah, but they are not, so no.
 
 *Is it finished?*
 
