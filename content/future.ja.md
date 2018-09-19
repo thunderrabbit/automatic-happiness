@@ -1,19 +1,21 @@
-# 未来の予定
+---
+Title: "未来の予定"
+---
 
-### 　● 三つの分かつ
+### 　● 三つの分かつ  <!-- Triple Splitter -->
 
-　　　三つの分かつの線路はビー玉を分かえてるでどもと作らないと
+　　　三つの分かつの線路はビー玉を分かえてるでどもと作らないと <!-- The bars of the triple splitter sort the marbles correctly, but I still need to: -->
 
-* 小玉はまだちさいWigglyTrackに行かないから出る穴を切ります。
-* 三つの分かつから落ちるの中玉のtrackを作ります。
+* 小玉はまだちさいWigglyTrackに行かないから出る穴を切ります。 <!-- make enough space for the small marbles to pass under the bar and down the Little Wiggly Track. -->
+* 三つの分かつから落ちるの中玉のtrackを作ります。 <!-- make a track to catch the medium marbles when they fall through the triple splitter. -->
 
-### 　● Outer Spiral
+### 　● 円周螺旋  <!-- outer spiral -->
 
-Feeding into the Triple Splitter, the Outer Spiral will circumnavigate the entire track.  Large and medium marbles will roll around the entire track in a clockwise motion (as seen from the top), and small marbles will feed into the triple splitter from the other direction, though I don't know exactly how far around the track they will go.
+三つの分かつに円周螺旋は第三さんの外回ります。<!-- Feeding into the Triple Splitter, the Outer Spiral will circumnavigate the entire track. -->  <!-- Large and medium marbles will roll around the entire track in a clockwise motion (as seen from the top),  -->  <!-- and small marbles will feed into the triple splitter from the other direction, though I don't know exactly how far around the track they will go. -->
 
-One idea I just now had is to allow the small marbles to circumnavigate the track on an inner loop, going the opposite direction.
+<!-- One idea I just now had is to allow the small marbles to circumnavigate the track on an inner loop, going the opposite direction. -->
 
-Right now [Reversible Guy](/rg) is in the process of adding the first support that will hold up the Outer Spiral.
+Right now [くるりん](/rg) is in the process of adding the first support that will hold up the Outer Spiral.
 
 Though the stand-in Outer Spiral is a polygon of sorts, I plan to make the real spiral smoother somehow.
 

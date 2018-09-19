@@ -1,8 +1,10 @@
-# Future plans
+---
+Title: "Future plans"
+---
 
 ### 　● Triple Splitter
 
-　　　The bars of the triple splitter sort the marbles correctly, but I still need to:
+The bars of the triple splitter sort the marbles correctly, but I still need to:
 
 * make enough space for the small marbles to pass under the bar and down the Little Wiggly Track.
 * make a track to catch the medium marbles when they fall through the triple splitter.
