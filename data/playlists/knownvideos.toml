@@ -299,6 +299,12 @@
     Published = 2018-04-06T12:46:25Z
     Duration = 5583000000000
     VideoType = 1
+  [Videos.9iMiziOs6lU]
+    VideoId = "9iMiziOs6lU"
+    Title = "Marble Track 3: chopstick fell into place"
+    Published = 2018-09-20T01:03:59Z
+    Duration = 135000000000
+    VideoType = 2
   [Videos.9mEeIYsISLk]
     VideoId = "9mEeIYsISLk"
     Title = "Marble Track 3 construction Live Stream: shaking hands before skeleton arrives (1 of 2 today)"
@@ -965,6 +971,12 @@
     Published = 2018-08-22T02:05:45Z
     Duration = 122000000000
     VideoType = 2
+  [Videos.VzEG2p56-l8]
+    VideoId = "VzEG2p56-l8"
+    Title = "Marble Track 3 construction Live Stream"
+    Published = 2018-09-20T00:26:22Z
+    Duration = 0
+    VideoType = 1
   [Videos.W6IQYjU-BLc]
     VideoId = "W6IQYjU-BLc"
     Title = "Marble Track 3: snake looking for a spot"
@@ -1417,9 +1429,9 @@
     VideoType = 1
   [Videos.n2TrsOUIGjw]
     VideoId = "n2TrsOUIGjw"
-    Title = "Marble Track 3 construction Live Stream"
+    Title = "Marble Track 3 construction Live Stream: chopstick fell into place"
     Published = 2018-09-18T07:45:05Z
-    Duration = 0
+    Duration = 3203000000000
     VideoType = 1
   [Videos.n9n6qG0FJGs]
     VideoId = "n9n6qG0FJGs"

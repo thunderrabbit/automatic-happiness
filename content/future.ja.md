@@ -1,13 +1,17 @@
 ---
-Title: "未来の予定"
+Title: "後の予定"
 ---
 
-### 　● 三つの分かつ  <!-- Triple Splitter -->
+### 　● 三つに分かれる線路
 
-　　　三つの分かつの線路はビー玉を分かえてるでどもと作らないと <!-- The bars of the triple splitter sort the marbles correctly, but I still need to: -->
+　　　三つに分かれる線路はビー玉を正しく分けてくれますが、 
 
-* 小玉はまだちさいWigglyTrackに行かないから出る穴を切ります。 <!-- make enough space for the small marbles to pass under the bar and down the Little Wiggly Track. -->
-* 三つの分かつから落ちるの中玉のtrackを作ります。 <!-- make a track to catch the medium marbles when they fall through the triple splitter. -->
+* 小さな玉は線路の下をくぐるスペースがないので余分な隙間を創る必要があります。隙間ができたら、Little Wiggly Track に小さな玉が流れます。
+ 
+
+
+* 三つの分かつから落ちるの中玉のtrackを作ります。
+ <br>make a track to catch the medium marbles when they fall through the triple splitter.
 
 ### 　● 円周螺旋  <!-- outer spiral -->
 
