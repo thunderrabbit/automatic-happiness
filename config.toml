@@ -35,8 +35,13 @@ paginate = "9"
     url = "latest"
 
 [[languages.en.Menu.Main]]
-    name = "Future plans"
-    identifier = "050_future"
+    name = "Track Parts"
+    identifier = "050_parts"
+    url = "parts"
+
+[[languages.en.Menu.Main]]
+    name = "Future Plans"
+    identifier = "060_future"
     url = "future"
 
   [languages.ja]
@@ -70,8 +75,13 @@ paginate = "9"
     url = "latest"
 
 [[languages.ja.Menu.Main]]
-    name = "Future plans"
-    identifier = "050_future"
+    name = "Track Parts"
+    identifier = "050_parts"
+    url = "parts"
+
+[[languages.ja.Menu.Main]]
+    name = "後の予定"
+    identifier = "060_future"
     url = "future"
 
 [permalinks]

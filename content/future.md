@@ -2,32 +2,32 @@
 Title: "Future plans"
 ---
 
-### 　● Triple Splitter
+### 　● [Triple Splitter](/p/ts)
 
-The bars of the triple splitter sort the marbles correctly, but I still need to:
+The bars of the [Triple Splitter](/p/ts) sort the marbles correctly, but I still need to:
 
-* make enough space for the small marbles to pass under the bar and down the Little Wiggly Track.
+* make enough space for the small marbles to pass under the bar and down the [Little Wiggly Track](/p/lwt).
 * make a track to catch the medium marbles when they fall through the triple splitter.
 
-### 　● Outer Spiral
+### 　● [Outer Spiral](/p/os)
 
-Feeding into the Triple Splitter, the Outer Spiral will circumnavigate the entire track.  Large and medium marbles will roll around the entire track in a clockwise motion (as seen from the top), and small marbles will feed into the triple splitter from the other direction, though I don't know exactly how far around the track they will go.
+Feeding into the [Triple Splitter](/p/ts), the [Outer Spiral](/p/os) will circumnavigate the entire track.  Large and medium marbles will roll around the entire track in a clockwise motion (as seen from the top), and small marbles will feed into the triple splitter from the other direction, though I don't know exactly how far around the track they will go.
 
 One idea I just now had is to allow the small marbles to circumnavigate the track on an inner loop, going the opposite direction.
 
-Right now [Reversible Guy](/rg) is in the process of adding the first support that will hold up the Outer Spiral.
+Right now [Reversible Guy](/rg) is in the process of adding the first support that will hold up the [Outer Spiral](/p/os).
 
-Though the stand-in Outer Spiral is a polygon of sorts, I plan to make the real spiral smoother somehow.
+Though the stand-in [Outer Spiral](/p/os) is a polygon of sorts, I plan to make the real spiral smoother somehow.
 
-### 　● Lower(*) Zig Zag
+### 　● [Lower(*) Zig Zag](/p/lzz)
 
-Next to the triple splitter, I have a very narrow space to allow the small marbles to go down to feed into the small marble resting area from the other direction off of the Little Wiggly Track.
+Next to the triple splitter, I have a very narrow space to allow the small marbles to go down to feed into the small marble resting area from the other direction off of the [Little Wiggly Track](/p/lwt).
 
 (*) Though there are not currently any plans for an upper zig zag, I guess there might have to be one later in the construction.
 
 # Past plans
 
-* Make a stand-in Outer Spiral.   I originally tried to do large segments of the spiral with long bamboo sticks, but they split while being curved.  I ended up using shorter bamboo skewers, which make it more of a polygon than a smooth spiral.
+* Make a stand-in [Outer Spiral](/p/os).   I originally tried to do large segments of the spiral with long bamboo sticks, but they split while being curved.  I ended up using shorter bamboo skewers, which make it more of a polygon than a smooth spiral.
 
 * Make a triple splitter.  The trickiest bit was getting the spacing correct.  As of about August 2018, the spacing is correct.
 

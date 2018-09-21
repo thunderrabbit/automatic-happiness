@@ -2,20 +2,18 @@
 Title: "後の予定"
 ---
 
-### 　● 三つに分かれる線路
+### 　● [三つに分かれる線路](/ja/p/ts)
 
-　　　三つに分かれる線路はビー玉を正しく分けてくれますが、 
+　　　[三つに分かれる線路](/ja/p/ts)はビー玉を正しく分けてくれますが、 
 
-* 小さな玉は線路の下をくぐるスペースがないので余分な隙間を創る必要があります。隙間ができたら、Little Wiggly Track に小さな玉が流れます。
+* 小玉は線路の下をくぐるスペースがないので余分な隙間を創る必要があります。隙間ができたら、クニャ小道に小玉が流れます。
  
 
+* [三つに分かれる線路](/ja/p/ts)から落ちる中玉の線路を作らないといけない。
 
-* 三つの分かつから落ちるの中玉のtrackを作ります。
- <br>make a track to catch the medium marbles when they fall through the triple splitter.
+### 　● [円周螺旋](/ja/p/os)  <!-- outer spiral -->
 
-### 　● 円周螺旋  <!-- outer spiral -->
-
-三つの分かつに円周螺旋は第三さんの外回ります。<!-- Feeding into the Triple Splitter, the Outer Spiral will circumnavigate the entire track. -->  <!-- Large and medium marbles will roll around the entire track in a clockwise motion (as seen from the top),  -->  <!-- and small marbles will feed into the triple splitter from the other direction, though I don't know exactly how far around the track they will go. -->
+[三つに分かれる線路](/ja/p/ts)に[円周螺旋](/ja/p/os)は第三さんの外を回ります。<!-- Feeding into the Triple Splitter, the Outer Spiral will circumnavigate the entire track. -->   Large and medium marbles will roll around the entire track in a clockwise motion (as seen from the top), and small marbles will feed into the triple splitter from the other direction, though I don't know exactly how far around the track they will go.
 
 <!-- One idea I just now had is to allow the small marbles to circumnavigate the track on an inner loop, going the opposite direction. -->
 
