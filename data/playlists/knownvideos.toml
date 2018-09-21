@@ -539,6 +539,12 @@
     Published = 2017-11-14T01:14:42Z
     Duration = 6077000000000
     VideoType = 1
+  [Videos.HkYKp6YM6ik]
+    VideoId = "HkYKp6YM6ik"
+    Title = "Marble Track 3: after catching chopstick"
+    Published = 2018-09-21T07:11:06Z
+    Duration = 138000000000
+    VideoType = 2
   [Videos.I6DBKaK37qM]
     VideoId = "I6DBKaK37qM"
     Title = "Marble Track 3: calling for help"
@@ -973,9 +979,9 @@
     VideoType = 2
   [Videos.VzEG2p56-l8]
     VideoId = "VzEG2p56-l8"
-    Title = "Marble Track 3 construction Live Stream"
+    Title = "Marble Track 3 construction Live Stream: after catching chopstick"
     Published = 2018-09-20T00:26:22Z
-    Duration = 0
+    Duration = 6182000000000
     VideoType = 1
   [Videos.W6IQYjU-BLc]
     VideoId = "W6IQYjU-BLc"
@@ -1282,6 +1288,12 @@
     Title = "Marble Track 3 construction Live Stream"
     Published = 2017-11-07T04:26:09Z
     Duration = 8709000000000
+    VideoType = 1
+  [Videos.hRZXCBu-IUc]
+    VideoId = "hRZXCBu-IUc"
+    Title = "Marble Track 3 construction Live Stream"
+    Published = 2018-09-21T03:34:07Z
+    Duration = 0
     VideoType = 1
   [Videos.hxZ3cE1Gh6c]
     VideoId = "hxZ3cE1Gh6c"
