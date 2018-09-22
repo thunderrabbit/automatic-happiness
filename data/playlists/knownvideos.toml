@@ -1291,9 +1291,9 @@
     VideoType = 1
   [Videos.hRZXCBu-IUc]
     VideoId = "hRZXCBu-IUc"
-    Title = "Marble Track 3 construction Live Stream"
+    Title = "Marble Track 3 construction Live Stream: glued first support for outer spiral"
     Published = 2018-09-21T03:34:07Z
-    Duration = 0
+    Duration = 2621000000000
     VideoType = 1
   [Videos.hxZ3cE1Gh6c]
     VideoId = "hxZ3cE1Gh6c"
@@ -1301,6 +1301,12 @@
     Published = 2018-04-24T04:29:23Z
     Duration = 68000000000
     VideoType = 2
+  [Videos.i12djprG4aw]
+    VideoId = "i12djprG4aw"
+    Title = "Marble Track 3 construction Live Stream"
+    Published = 2018-09-22T11:42:23Z
+    Duration = 0
+    VideoType = 1
   [Videos.i1mLycv9TwE]
     VideoId = "i1mLycv9TwE"
     Title = "Marble Track 3 construction Live Stream: create leverage"
