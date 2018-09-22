@@ -15,7 +15,7 @@ Feeding into the [Triple Splitter](/p/ts), the [Outer Spiral](/p/os) will circum
 
 One idea I just now had is to allow the small marbles to circumnavigate the track on an inner loop, going the opposite direction.
 
-Right now [Reversible Guy](/rg) is in the process of adding the first support that will hold up the [Outer Spiral](/p/os).
+Right now [Reversible Guy](/rg) is waiting for the glue to dry while he is holding the first support that will hold up the [Outer Spiral](/p/os).
 
 Though the stand-in [Outer Spiral](/p/os) is a polygon of sorts, I plan to make the real spiral smoother somehow.
 
