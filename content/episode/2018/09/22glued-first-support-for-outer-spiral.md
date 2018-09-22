@@ -18,3 +18,7 @@ to get the piece into the right place while taking frames that don't
 show how the piece was put into place.
 
 [![2018 sep 22 0001 prepare to glue support](//b.robnugen.com/art/marble_track_3/construction/2018/thumbs/2018_sep_22_0001_prepare_to_glue_support.jpg)](//b.robnugen.com/art/marble_track_3/construction/2018/2018_sep_22_0001_prepare_to_glue_support.jpg)
+
+Since June 2017, I have spent 9.64 days on Marble Track 3 construction.
+
+The [silent snippets so far](http://mt3s.robnugen.com/) last [10 minutes 37 seconds](http://www.grun1.com/utils/timeCalc.html?t1=1:08&c1=skeleton%20arrives&t2=1:40&c2=oops%20after%20drawing%20circle%20on%20stage&t3=1:31&c3=attached%20bearing%20to%20stage&t4=2:03&c4=big%20curve%20ball&t5=1:57&c5=look%20at%20me&t6=2:18&c6=after%20catching%20chopstick&mode=0&fs3=1&ft2=1&f3t1=1&f4t0=1&d=:&o1=1&fps=)
