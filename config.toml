@@ -35,14 +35,25 @@ paginate = "9"
     url = "latest"
 
 [[languages.en.Menu.Main]]
-    name = "Track Parts"
+    name = "Track"
     identifier = "050_parts"
     url = "parts"
 
 [[languages.en.Menu.Main]]
-    name = "Future Plans"
+    name = "Future"
     identifier = "060_future"
     url = "future"
+
+[[languages.en.Menu.Main]]
+    name = "Thanks"
+    identifier = "070_thanks"
+    url = "thanks"
+
+
+[[languages.en.Menu.Main]]
+    name = "Support"
+    identifier = "080_support"
+    url = "support"
 
   [languages.ja]
     title = "ビー玉からくり第三弾"
@@ -75,7 +86,7 @@ paginate = "9"
     url = "latest"
 
 [[languages.ja.Menu.Main]]
-    name = "Track Parts"
+    name = "Track"
     identifier = "050_parts"
     url = "parts"
 
@@ -83,6 +94,16 @@ paginate = "9"
     name = "後の予定"
     identifier = "060_future"
     url = "future"
+
+[[languages.ja.Menu.Main]]
+    name = "Thanks"
+    identifier = "070_thanks"
+    url = "thanks"
+
+[[languages.ja.Menu.Main]]
+    name = "Support"
+    identifier = "080_support"
+    url = "support"
 
 [permalinks]
         blog = "/blog/:year/:month/:day/:title/"

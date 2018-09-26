@@ -17,6 +17,12 @@
     Published = 2018-02-09T05:29:13Z
     Duration = 2632000000000
     VideoType = 1
+  [Videos.-R1jgqAUz_c]
+    VideoId = "-R1jgqAUz_c"
+    Title = "Marble Track 3: toothpick delivery"
+    Published = 2018-09-24T06:40:36Z
+    Duration = 138000000000
+    VideoType = 2
   [Videos.-ZEerNH_ldU]
     VideoId = "-ZEerNH_ldU"
     Title = "Marble Track 3 construction Live Stream: finished 16th segment and 9th day"
@@ -269,6 +275,12 @@
     Published = 2018-02-10T08:37:44Z
     Duration = 106000000000
     VideoType = 2
+  [Videos.9Sw3uUBvDp8]
+    VideoId = "9Sw3uUBvDp8"
+    Title = "Marble Track 3 construction Live Stream: ready to roll"
+    Published = 2018-09-24T06:27:00Z
+    Duration = 5160000000000
+    VideoType = 1
   [Videos.9T8Nqorc3hM]
     VideoId = "9T8Nqorc3hM"
     Title = "Petting the cat Live Stream"
@@ -509,6 +521,12 @@
     Published = 2017-07-07T08:41:45Z
     Duration = 3766000000000
     VideoType = 1
+  [Videos.GBVXWktNxxY]
+    VideoId = "GBVXWktNxxY"
+    Title = "Marble Track 3: ready to roll"
+    Published = 2018-09-25T07:50:42Z
+    Duration = 2000000000
+    VideoType = 2
   [Videos.GEgeHGFWBe8]
     VideoId = "GEgeHGFWBe8"
     Title = "Marble Track 3 construction Live Stream: planning outer cycle connections"
@@ -1303,9 +1321,9 @@
     VideoType = 2
   [Videos.i12djprG4aw]
     VideoId = "i12djprG4aw"
-    Title = "Marble Track 3 construction Live Stream"
+    Title = "Marble Track 3 construction Live Stream: toothpick delivery 1"
     Published = 2018-09-22T11:42:23Z
-    Duration = 0
+    Duration = 2768000000000
     VideoType = 1
   [Videos.i1mLycv9TwE]
     VideoId = "i1mLycv9TwE"
@@ -1571,6 +1589,12 @@
     Published = 2018-01-16T07:09:56Z
     Duration = 3344000000000
     VideoType = 1
+  [Videos.r61q51W7rMg]
+    VideoId = "r61q51W7rMg"
+    Title = "Marble Track 3 construction Live Stream"
+    Published = 2018-09-25T07:47:33Z
+    Duration = 0
+    VideoType = 1
   [Videos.rCc7DaTpdFU]
     VideoId = "rCc7DaTpdFU"
     Title = "Marble Track 3: back to work"
@@ -1630,6 +1654,12 @@
     Title = "Marble Track 3 construction Live Stream"
     Published = 2017-10-22T11:02:13Z
     Duration = 4264000000000
+    VideoType = 1
+  [Videos.uY0G07cf9fY]
+    VideoId = "uY0G07cf9fY"
+    Title = "Marble Track 3 construction Live Stream: toothpick delivery 2"
+    Published = 2018-09-24T05:47:37Z
+    Duration = 721000000000
     VideoType = 1
   [Videos.ufhA2SzEDgE]
     VideoId = "ufhA2SzEDgE"
