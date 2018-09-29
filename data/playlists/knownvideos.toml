@@ -239,6 +239,12 @@
     Published = 2018-03-24T02:39:02Z
     Duration = 2653000000000
     VideoType = 1
+  [Videos.8klW-eqN2ho]
+    VideoId = "8klW-eqN2ho"
+    Title = "Marble Track 3 construction Live Stream"
+    Published = 2018-09-29T09:48:47Z
+    Duration = 0
+    VideoType = 1
   [Videos.8oGh9ID70UI]
     VideoId = "8oGh9ID70UI"
     Title = "Marble Track 3 construction Live Stream: glued three pieces"
@@ -886,6 +892,12 @@
     Title = "Marble Track 3: helpful snakes"
     Published = 2018-05-15T05:43:20Z
     Duration = 82000000000
+    VideoType = 2
+  [Videos.Sdi7J0YXuFE]
+    VideoId = "Sdi7J0YXuFE"
+    Title = "Marble Track 3: what's up with Mr McGlue?"
+    Published = 2018-09-29T21:26:28Z
+    Duration = 5000000000
     VideoType = 2
   [Videos.SvWjMK7kKuE]
     VideoId = "SvWjMK7kKuE"
@@ -1765,9 +1777,9 @@
     VideoType = 2
   [Videos.yN5apcGxl30]
     VideoId = "yN5apcGxl30"
-    Title = "Marble Track 3 construction Live Stream"
+    Title = "Marble Track 3 construction Live Stream: made duplicate Mr McGlue"
     Published = 2018-09-27T00:19:27Z
-    Duration = 0
+    Duration = 8419000000000
     VideoType = 1
   [Videos.ym_WH-674HU]
     VideoId = "ym_WH-674HU"
