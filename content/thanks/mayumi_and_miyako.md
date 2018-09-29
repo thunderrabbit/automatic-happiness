@@ -1,6 +1,6 @@
 +++
 Title = "Mayumi and Miyako"
-date = "2018-09-21T22:58:39-05:00"
+date = "2018-09-26T22:58:39-05:00"
 Type = "thanks"
 Aliases = [
     "/mayumi/",
