@@ -209,6 +209,12 @@
     Published = 2018-08-07T02:51:22Z
     Duration = 6945000000000
     VideoType = 1
+  [Videos.6waNzuUgGFY]
+    VideoId = "6waNzuUgGFY"
+    Title = "Marble Track 3: before gluing inner berm"
+    Published = 2018-10-02T05:53:08Z
+    Duration = 7000000000
+    VideoType = 2
   [Videos.7GRxqZ-ZNvg]
     VideoId = "7GRxqZ-ZNvg"
     Title = "Marble Track 3 construction Live Stream"
@@ -241,9 +247,9 @@
     VideoType = 1
   [Videos.8klW-eqN2ho]
     VideoId = "8klW-eqN2ho"
-    Title = "Marble Track 3 construction Live Stream"
+    Title = "Marble Track 3 construction Live Stream: before gluing inner berm"
     Published = 2018-09-29T09:48:47Z
-    Duration = 0
+    Duration = 11059000000000
     VideoType = 1
   [Videos.8oGh9ID70UI]
     VideoId = "8oGh9ID70UI"
@@ -1000,6 +1006,12 @@
     Title = "Marble Track 3 construction Live Stream: Francois appears"
     Published = 2017-09-22T12:15:06Z
     Duration = 7221000000000
+    VideoType = 1
+  [Videos.ViqCHc0eZZk]
+    VideoId = "ViqCHc0eZZk"
+    Title = "Marble Track 3 construction Live Stream"
+    Published = 2018-10-02T04:26:37Z
+    Duration = 0
     VideoType = 1
   [Videos.Vo_ysqq0VXc]
     VideoId = "Vo_ysqq0VXc"
