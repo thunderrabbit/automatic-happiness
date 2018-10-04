@@ -1,9 +1,10 @@
 +++
-Title = "Super Spoony"
+Title = "匙たろう"
+url = "/ja/workers/sajitaro"
 date = "2017-08-01T09:12:39-05:00"
 Type = "workers"
 Aliases = [
-    "/spoon/"
+    "/ja/spoon/"
 ]
 Thumbnail = "https://b.robnugen.com/art/marble_track_3/workers/2018/thumbs/super_spoony.jpg"
 Image = "https://b.robnugen.com/art/marble_track_3/workers/2018/super_spoony.jpg"

@@ -635,6 +635,12 @@
     Published = 2017-11-09T06:41:08Z
     Duration = 24000000000
     VideoType = 2
+  [Videos.KSderQd77Go]
+    VideoId = "KSderQd77Go"
+    Title = "Marble Track 3 construction Live Stream"
+    Published = 2018-10-03T23:55:45Z
+    Duration = 0
+    VideoType = 1
   [Videos.KlasJfqhNgE]
     VideoId = "KlasJfqhNgE"
     Title = "Marble Track 3: ready to cut vertical piece"
@@ -1011,7 +1017,7 @@
     VideoId = "ViqCHc0eZZk"
     Title = "Marble Track 3 construction Live Stream"
     Published = 2018-10-02T04:26:37Z
-    Duration = 0
+    Duration = 890000000000
     VideoType = 1
   [Videos.Vo_ysqq0VXc]
     VideoId = "Vo_ysqq0VXc"
@@ -1709,6 +1715,12 @@
     Published = 2018-02-12T03:19:21Z
     Duration = 4320000000000
     VideoType = 1
+  [Videos.v810uxm6__M]
+    VideoId = "v810uxm6__M"
+    Title = "Marble Track 3: ready to make lower zig zag"
+    Published = 2018-10-04T02:18:23Z
+    Duration = 8000000000
+    VideoType = 2
   [Videos.vcZYH25RMO8]
     VideoId = "vcZYH25RMO8"
     Title = "Marble Track 3 construction Live Stream: making skeleton escape"
