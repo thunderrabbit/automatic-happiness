@@ -1,5 +1,5 @@
 ---
-title: "chopstick fell into place"
+title: "箸がぴったり落ちた"
 tags: [ "mt3", "snippet", "livestream", "snippet" ]
 author: Rob Nugen
 youtube: n2TrsOUIGjw
@@ -7,16 +7,15 @@ episode_image: https://b.robnugen.com/art/marble_track_3/construction/2018/2018_
 date: 2018-09-20T10:00:44+09:00
 ---
 
-I have officially linked the scene taken from the top and the main
-scene.
+よかった。上で取ったの動画とメーンの動画を集めました。 <!-- I have officially linked the scene taken from the top and the main scene. -->
 
-Here is the latest version of the sixth snippet.  The last few frames
-show a chopstick falling out of the sky.  The chopstick is not yet
-fixed in place, but once [G Choppy](/gc) cuts it, I will glue it into
-place as a support for the [Outer Spiral](/p/os).
+六番目のミニー動画です。空から箸が落ちると終わります。 <!-- Here is the latest version of the sixth snippet.  The last few frames
+show a chopstick falling out of the sky. -->
 
 {{< youtube 9iMiziOs6lU >}}
 
+落ちた箸はまだノリで設定していない。まず、[Gチョッピー](/ja/gc)は箸を切らないとノリをできない。そすると[円周螺旋](/ja/p/os)を持ってます。
+<!-- I have not yet glued the chopstick into place.  First, G-Choppy has to cut it.  Afterward it will support the outer spiral. -->
 
 Frames taken today include a few to link the scene taken above the
 main scene.  Marble Track 3 Patrons can see the the scene taken on
