@@ -1,5 +1,6 @@
 ---
 title: "箸がぴったり落ちた"
+url: /ja/episode/2018/september/chopstick-fell-into-place/
 tags: [ "mt3", "snippet", "livestream", "snippet" ]
 author: Rob Nugen
 youtube: n2TrsOUIGjw
