@@ -53,6 +53,12 @@
     Published = 2017-07-07T14:57:43Z
     Duration = 7000000000
     VideoType = 2
+  [Videos.-uZASuJ-61E]
+    VideoId = "-uZASuJ-61E"
+    Title = "Marble Track 3 construction Live Stream"
+    Published = 2018-10-11T00:24:31Z
+    Duration = 0
+    VideoType = 1
   [Videos.0OxizSrkOAU]
     VideoId = "0OxizSrkOAU"
     Title = "Marble Track 3 construction Live Stream"
@@ -637,9 +643,9 @@
     VideoType = 2
   [Videos.KSderQd77Go]
     VideoId = "KSderQd77Go"
-    Title = "Marble Track 3 construction Live Stream"
-    Published = 2018-10-03T23:55:45Z
-    Duration = 0
+    Title = "Marble Track 3 construction Live Stream: Mr Greene helps Dr Sugar"
+    Published = 2018-10-11T00:59:12Z
+    Duration = 2768000000000
     VideoType = 1
   [Videos.KlasJfqhNgE]
     VideoId = "KlasJfqhNgE"
