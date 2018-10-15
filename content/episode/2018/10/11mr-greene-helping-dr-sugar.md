@@ -1,5 +1,5 @@
 ---
-title: "Mr Greene helping Dr Sugar"
+title: "Mr Greene helps Dr Sugar"
 tags: [ "mt3", "livestream" ]
 author: Rob Nugen
 youtube: KSderQd77Go
