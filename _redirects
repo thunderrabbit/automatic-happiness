@@ -1,0 +1,2 @@
+# Redirect default Netlify subdomain to primary domain
+http://wonderful-bhabha-dfd1ef.netlify.com/* http://www.marbletrack3.com/:splat 301!
