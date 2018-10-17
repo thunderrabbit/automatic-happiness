@@ -2,7 +2,7 @@
 Title = "Latest video"
 +++
 
-I usually stream [creation of Marble Track 3 live on Youtube](https://www.youtube.com/channel/UCHiQhB8J_KI2LYQ7dsexfLw) on Tuesday and Friday mornings, Tokyo time.  [channel.marbletrack3.com](http://channel.marbletrack3.com)
+I usually stream [creation of Marble Track 3 live on Youtube](https://www.youtube.com/channel/UCHiQhB8J_KI2LYQ7dsexfLw) on Tuesday and Friday mornings, Tokyo time.  <!-- TODO fix DNS [channel.marbletrack3.com](http://channel.marbletrack3.com) -->
 
 The latest videos can be seen as a YouTube playlist, available at http://mt3s.robnugen.com/
 
