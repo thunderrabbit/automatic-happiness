@@ -643,9 +643,9 @@
     VideoType = 2
   [Videos.KPXGab14Gwk]
     VideoId = "KPXGab14Gwk"
-    Title = "Marble Track 3 construction Live Stream"
+    Title = "Marble Track 3 construction Live Stream: Glued second support for outer spiral"
     Published = 2018-10-19T00:50:33Z
-    Duration = 0
+    Duration = 4619000000000
     VideoType = 1
   [Videos.KSderQd77Go]
     VideoId = "KSderQd77Go"
@@ -1367,6 +1367,12 @@
     Published = 2018-04-24T04:29:23Z
     Duration = 68000000000
     VideoType = 2
+  [Videos.hzTbFvOIS4Q]
+    VideoId = "hzTbFvOIS4Q"
+    Title = "Marble Track 3 construction Live Stream"
+    Published = 2018-10-20T01:44:00Z
+    Duration = 0
+    VideoType = 1
   [Videos.i12djprG4aw]
     VideoId = "i12djprG4aw"
     Title = "Marble Track 3 construction Live Stream: toothpick delivery 1"
@@ -1660,6 +1666,12 @@
     Title = "Marble Track 3: squiggle squiggle"
     Published = 2018-02-09T05:03:34Z
     Duration = 103000000000
+    VideoType = 2
+  [Videos.sHOqiZu3x9Y]
+    VideoId = "sHOqiZu3x9Y"
+    Title = "Marble Track 3: Glued second support for outer spiral"
+    Published = 2018-10-20T02:58:23Z
+    Duration = 10000000000
     VideoType = 2
   [Videos.sRWpODuN4jQ]
     VideoId = "sRWpODuN4jQ"
