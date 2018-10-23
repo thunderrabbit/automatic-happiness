@@ -221,6 +221,12 @@
     Published = 2018-10-02T05:53:08Z
     Duration = 7000000000
     VideoType = 2
+  [Videos.7GKqxHKb9Mc]
+    VideoId = "7GKqxHKb9Mc"
+    Title = "Marble Track 3 construction Live Stream"
+    Published = 2018-10-23T00:53:40Z
+    Duration = 0
+    VideoType = 1
   [Videos.7GRxqZ-ZNvg]
     VideoId = "7GRxqZ-ZNvg"
     Title = "Marble Track 3 construction Live Stream"
@@ -1369,9 +1375,9 @@
     VideoType = 2
   [Videos.hzTbFvOIS4Q]
     VideoId = "hzTbFvOIS4Q"
-    Title = "Marble Track 3 construction Live Stream"
+    Title = "Marble Track 3 construction Live Stream: caught the chopped stick"
     Published = 2018-10-20T01:44:00Z
-    Duration = 0
+    Duration = 5287000000000
     VideoType = 1
   [Videos.i12djprG4aw]
     VideoId = "i12djprG4aw"

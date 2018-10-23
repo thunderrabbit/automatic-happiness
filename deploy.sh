@@ -8,4 +8,5 @@ cd ~/mt3.com
 
 hugo
 
-rsync -qavz --delete ~/mt3.com/public/ mt3:marbletrack3.com
+#  This worked on Dreamhost, but not needed with Netlify (hooked into Github push)
+# rsync -qavz --delete ~/mt3.com/public/ mt3:marbletrack3.com
