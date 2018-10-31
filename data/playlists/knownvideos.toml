@@ -173,6 +173,12 @@
     Published = 2018-07-20T04:10:04Z
     Duration = 5134000000000
     VideoType = 1
+  [Videos.524jd-LL9gQ]
+    VideoId = "524jd-LL9gQ"
+    Title = "Marble Track 3 construction Live Stream"
+    Published = 2018-10-30T00:21:59Z
+    Duration = 0
+    VideoType = 1
   [Videos.5dcMn3tlf5E]
     VideoId = "5dcMn3tlf5E"
     Title = "Marble Track 3: looking for little brother"
@@ -223,9 +229,9 @@
     VideoType = 2
   [Videos.7GKqxHKb9Mc]
     VideoId = "7GKqxHKb9Mc"
-    Title = "Marble Track 3 construction Live Stream"
+    Title = "Marble Track 3 construction Live Stream: glued next zig zag"
     Published = 2018-10-23T00:53:40Z
-    Duration = 0
+    Duration = 6614000000000
     VideoType = 1
   [Videos.7GRxqZ-ZNvg]
     VideoId = "7GRxqZ-ZNvg"
