@@ -77,6 +77,12 @@
     Published = 2017-07-11T05:13:23Z
     Duration = 25000000000
     VideoType = 2
+  [Videos.0tzMgVT_6oY]
+    VideoId = "0tzMgVT_6oY"
+    Title = "Marble Track 3 construction Live Stream"
+    Published = 2018-11-01T00:20:21Z
+    Duration = 0
+    VideoType = 1
   [Videos.0zzMvmh0RWU]
     VideoId = "0zzMvmh0RWU"
     Title = "Marble Track 3: begin centering the bearing"
@@ -175,9 +181,9 @@
     VideoType = 1
   [Videos.524jd-LL9gQ]
     VideoId = "524jd-LL9gQ"
-    Title = "Marble Track 3 construction Live Stream"
+    Title = "Marble Track 3 construction Live Stream: Mr Greene ghosts"
     Published = 2018-10-30T00:21:59Z
-    Duration = 0
+    Duration = 6771000000000
     VideoType = 1
   [Videos.5dcMn3tlf5E]
     VideoId = "5dcMn3tlf5E"

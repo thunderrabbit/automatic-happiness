@@ -2,7 +2,7 @@
 title: "glued next zig zag"
 tags: [ "mt3", "livestream" ]
 author: Rob Nugen
-youtube: https://youtu.be/7GKqxHKb9Mc
+youtube: 7GKqxHKb9Mc
 episode_image: https://b.robnugen.com/art/marble_track_3/construction/2018/29_oct_2018_lower_zig_zag_glued.jpg
 date: 2018-10-30T17:42:33+09:00
 ---
