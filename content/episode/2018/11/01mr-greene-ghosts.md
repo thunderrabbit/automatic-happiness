@@ -12,7 +12,7 @@ Lower Zig Zag and Triple Splitter.  I knew he could pass through
 walls, but there was no reason for his body to pass over them instead
 of just walk right through them.
 
-Here are the frames I ended up with today.
+That means I had to delete three images, which are [available to Patrons](https://www.patreon.com/posts/sometimes-photos-22432799)!  Here are the frames I ended up with today.
 
 [![00010 002 10 X1 0155](//b.robnugen.com/art/marble_track_3/frames/2018/thumbs/00010_002_10_X1_0155.jpg)](//b.robnugen.com/art/marble_track_3/frames/2018/00010_002_10_X1_0155.jpg)
 [![00010 002 10 X1 0156](//b.robnugen.com/art/marble_track_3/frames/2018/thumbs/00010_002_10_X1_0156.jpg)](//b.robnugen.com/art/marble_track_3/frames/2018/00010_002_10_X1_0156.jpg)
