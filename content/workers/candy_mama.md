@@ -7,7 +7,8 @@ Image = "https://b.robnugen.com/art/marble_track_3/workers/2018/candy_mama.jpg"
 Description = "Red/white striped head/hair"
 aliases = [
     "/workers/candycane_mom/",
-    "/candy/"
+    "/candy/",
+    "/cm"
 ]
 +++
 
