@@ -21,7 +21,7 @@ stage.  (Mainly because it is the ramp.)
 
 *And*, after ghosting through the triple splitter, [Mr Greene](/mg)
 has picked up the chopstick carried onto the stage by
-[Squarehead](/sh), who is currently being pulled around the stage
+[Squarehead](/square), who is currently being pulled around the stage
 with his hand caught in something, and will soon inadvertantly help
 Squarehead stand upright again with the chopstick.
 

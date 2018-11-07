@@ -6,7 +6,8 @@ Image = "https://b.robnugen.com/art/marble_track_3/track/parts/2018_sep_21_side_
 Description = "For small marbles, next to Triple Splitter"
 weight = 900
 Aliases = [
-  "/p/lzz"
+  "/p/lzz",
+  "/lzz"
 ]
 +++
 

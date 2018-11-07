@@ -5,6 +5,9 @@ Type = "workers"
 Thumbnail = "https://b.robnugen.com/art/marble_track_3/workers/2018/thumbs/shikatama.jpg"
 Image = "https://b.robnugen.com/art/marble_track_3/workers/2018/shikatama.jpg"
 Description = "yellow body; squareish head"
+Aliases = [
+  "/square"
+]
 +++
 
 The movie starts with Squarehead walking backwards, leading [Rabby](/workers/rabby/) forward with the stage.

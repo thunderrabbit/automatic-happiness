@@ -79,9 +79,9 @@
     VideoType = 2
   [Videos.0tzMgVT_6oY]
     VideoId = "0tzMgVT_6oY"
-    Title = "Marble Track 3 construction Live Stream"
+    Title = "Marble Track 3 construction Live Stream: toothpicks for lower zig zag 1 of 2"
     Published = 2018-11-01T00:20:21Z
-    Duration = 0
+    Duration = 4651000000000
     VideoType = 1
   [Videos.0zzMvmh0RWU]
     VideoId = "0zzMvmh0RWU"
@@ -154,6 +154,12 @@
     Title = "Marble Track 3 construction Live Stream"
     Published = 2017-12-05T04:31:27Z
     Duration = 3331000000000
+    VideoType = 1
+  [Videos.46isrrrs1H8]
+    VideoId = "46isrrrs1H8"
+    Title = "Marble Track 3 construction Live Stream"
+    Published = 2018-11-06T05:25:33Z
+    Duration = 0
     VideoType = 1
   [Videos.4QFxPmebVG8]
     VideoId = "4QFxPmebVG8"
@@ -1619,6 +1625,12 @@
     Published = 2018-09-08T10:40:18Z
     Duration = 7647000000000
     VideoType = 1
+  [Videos.pOOpjwUYhqk]
+    VideoId = "pOOpjwUYhqk"
+    Title = "Marble Track 3 construction Live Stream: toothpicks for lower zig zag 2 of 2"
+    Published = 2018-11-06T06:01:14Z
+    Duration = 2804000000000
+    VideoType = 1
   [Videos.pZ3stsy97ck]
     VideoId = "pZ3stsy97ck"
     Title = "Marble Track 3 Patreon take 1"
@@ -1678,6 +1690,12 @@
     Title = "Marble Track 3: back to work"
     Published = 2018-03-06T07:35:59Z
     Duration = 9000000000
+    VideoType = 2
+  [Videos.ryMwPICAhC4]
+    VideoId = "ryMwPICAhC4"
+    Title = "Marble Track 3: Mr Greene ghosts"
+    Published = 2018-11-01T03:48:00Z
+    Duration = 12000000000
     VideoType = 2
   [Videos.s-KCwA27wjA]
     VideoId = "s-KCwA27wjA"
