@@ -8,7 +8,7 @@ Description = "Red/white striped head/hair"
 aliases = [
     "/workers/candycane_mom/",
     "/candy/",
-    "/cm"
+    "/w/cm"
 ]
 +++
 

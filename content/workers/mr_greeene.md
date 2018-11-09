@@ -6,7 +6,8 @@ Type = "workers"
 #Image = "https://b.robnugen.com/art/marble_track_3/workers/2018/mr_mcglue.jpg"
 Description = "Dr Sugar's green-headed helper"
 Aliases = [
-  "/mg"
+  "/mr-green",
+  "/w/mg"
 ]
 +++
 

@@ -11,15 +11,15 @@ Today before lunch I did
 [a livestream](https://www.youtube.com/watch?v=0tzMgVT_6oY) in which
 toothpicks moved themselves up toward the [Lower Zig Zag](/lzz), where
 they will be rails on the second level of the Zig Zag, while the two
-toothpicks which had been so fiddly before were cut by [G-Choppy](/gc)
+toothpicks which had been so fiddly before were cut by [G-Choppy](/w/gc)
 and glued into place (by me, not yet by [Mr McGlue](/mmg)).
 
 During this time, coming up from the camera point of view,
-[Candy Mama](/cm) is leading the brothers onto the set, with something
+[Candy Mama](/w/cm) is leading the brothers onto the set, with something
 which looks suspiciously like it might be the ramp to get onto the
 stage.  (Mainly because it is the ramp.)
 
-*And*, after ghosting through the triple splitter, [Mr Greene](/mg)
+*And*, after ghosting through the triple splitter, [Mr Greene](/w/mg)
 has picked up the chopstick carried onto the stage by
 [Squarehead](/square), who is currently being pulled around the stage
 with his hand caught in something, and will soon inadvertantly help
@@ -28,7 +28,7 @@ Squarehead stand upright again with the chopstick.
 All of that was before lunch!
 
 After lunch, I did a [second livestream](https://youtu.be/pOOpjwUYhqk) the same
-day, during which [Reversable Guy](/rg) added a guide to keep marbles
+day, during which [Reversable Guy](/w/rg) added a guide to keep marbles
 on the lower central track (which runs adjacent to the lowest track
 for large marbles).
 

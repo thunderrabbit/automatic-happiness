@@ -7,7 +7,7 @@ Image = "https://b.robnugen.com/art/marble_track_3/workers/2018/g_choppy.jpg"
 Description = "The one with the sword"
 Aliases = [
   "/g_choppy/",
-  "/gc"
+  "/w/gc"
 ]
 +++
 
