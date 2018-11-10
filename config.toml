@@ -30,9 +30,9 @@ paginate = "9"
     url = "workers"
 
 [[languages.en.Menu.Main]]
-    name = "Latest"
-    identifier = "040_latest"
-    url = "latest"
+    name = "Episodes"
+    identifier = "040_episode"
+    url = "episode"
 
 [[languages.en.Menu.Main]]
     name = "Track"
@@ -81,9 +81,9 @@ paginate = "9"
     url = "workers"
 
 [[languages.ja.Menu.Main]]
-    name = "Latest"
-    identifier = "040_latest"
-    url = "latest"
+    name = "Episode"
+    identifier = "040_episode"
+    url = "episode"
 
 [[languages.ja.Menu.Main]]
     name = "Track"
