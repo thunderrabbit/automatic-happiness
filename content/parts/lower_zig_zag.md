@@ -5,6 +5,10 @@ Thumbnail = "https://b.robnugen.com/art/marble_track_3/construction/2018/thumbs/
 Image = "https://b.robnugen.com/art/marble_track_3/construction/2018/2018_nov_08_lower_zig_zag_ready_to_test.jpg"
 Description = "For small marbles, next to Triple Splitter"
 weight = 900
+workers = [
+	"dr_sugar",
+	"mr_greene"
+]
 Aliases = [
   "/p/lzz",
   "/lzz"
