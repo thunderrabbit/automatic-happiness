@@ -5,6 +5,12 @@ Thumbnail = ""
 Image = ""
 Description = "Separates three sizes of marbles"
 weight = 0050
+workers = [
+	"reversible",
+	"candy_mama",
+	"squarehead",
+	"mr_greene"
+]
 Aliases = [
   "/p/ts"
 ]

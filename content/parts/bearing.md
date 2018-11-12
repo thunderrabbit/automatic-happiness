@@ -5,6 +5,9 @@ Thumbnail = ""
 Image = ""
 Description = "Allows the stage to turn"
 weight = 5900
+workers = [
+	"garinoppi"
+]
 Aliases = [
   "/p/bearing"
 ]

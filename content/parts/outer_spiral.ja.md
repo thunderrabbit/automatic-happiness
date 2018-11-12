@@ -5,6 +5,8 @@ Thumbnail = ""
 Image = ""
 Description = "まだつくていない"
 weight = 0020
+workers = [
+]
 Aliases = [
   "/ja/p/os"
 ]

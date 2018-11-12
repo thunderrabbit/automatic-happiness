@@ -7,7 +7,8 @@ Description = "For small marbles, next to Triple Splitter"
 weight = 900
 workers = [
 	"dr_sugar",
-	"mr_greene"
+	"mr_greene",
+	"autosticks"
 ]
 Aliases = [
   "/p/lzz",

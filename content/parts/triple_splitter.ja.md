@@ -5,6 +5,8 @@ Thumbnail = ""
 Image = ""
 Description = "Separates three sizes of marbles"
 weight = 0050
+workers = [
+]
 Aliases = [
   "/ja/p/ts"
 ]
