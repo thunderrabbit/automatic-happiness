@@ -2,6 +2,7 @@
 Title = "Pinky"
 date = "2017-10-01T09:12:39-05:00"
 Type = "workers"
+Weight = 0020
 Aliases = [
     "/w/pink/",
     "/pinky"
