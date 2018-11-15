@@ -11,7 +11,7 @@ workers = [
 	"lil_brother"
 ]
 Aliases = [
-  "/p/tfc"
+  "/p/tft"
 ]
 +++
 

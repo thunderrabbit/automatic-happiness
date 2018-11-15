@@ -13,4 +13,6 @@ Aliases = [
 ]
 +++
 
-This is a small curved track that pushes medium marbles to the left.
+This is a small curved track that pushes medium marbles to the left, away from the [First Snake-Installed Rail](/p/fsir).
+
+Along with the [Lower Curver off the Lowest Small-Medium Splitter](/p/lcotlsms), this guides medium marbles from the [Lowest Small-Medium Splitter](/p/lsms) to the [Front Left Medium Landing Zone](/p/flmlz).

@@ -14,4 +14,4 @@ Aliases = [
 ]
 +++
 
-This landing zone is fed by the Caret Splitter.
+This landing zone is fed by the [Caret Splitter](/p/cs/) and [Lowest Back Left Small Marble Curve](/p/lblsmc).
