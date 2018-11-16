@@ -15,34 +15,34 @@ paginate = "9"
     description = "Livestreams of the Stop Motion Animation of the [Construction of Marble Track 3](https://mt3s.marbletrack3.com)"
 
 [[languages.en.Menu.Main]]
-    name = "About"
-    identifier = "010_about"
-    url = "about"
-
-[[languages.en.Menu.Main]]
-    name = "FAQ"
-    identifier = "020_faq"
-    url = "faq"
+    name = "Track"
+    identifier = "005_parts"
+    url = "parts"
 
 [[languages.en.Menu.Main]]
     name = "Workers"
     identifier = "030_workers"
     url = "workers"
 
-[[languages.en.Menu.Main]]
-    name = "Episodes"
-    identifier = "040_episode"
-    url = "episode"
-
-[[languages.en.Menu.Main]]
-    name = "Track"
-    identifier = "050_parts"
-    url = "parts"
-
-[[languages.en.Menu.Main]]
-    name = "Future"
-    identifier = "060_future"
-    url = "future"
+#[[languages.en.Menu.Main]]
+#    name = "About"
+#    identifier = "010_about"
+#    url = "about"
+#
+#[[languages.en.Menu.Main]]
+#    name = "FAQ"
+#    identifier = "020_faq"
+#    url = "faq"
+#
+#[[languages.en.Menu.Main]]
+#    name = "Episodes"
+#    identifier = "040_episode"
+#    url = "episode"
+#
+#[[languages.en.Menu.Main]]
+#    name = "Future"
+#    identifier = "060_future"
+#    url = "future"
 
 [[languages.en.Menu.Main]]
     name = "Thanks"
@@ -66,34 +66,34 @@ paginate = "9"
         help = "Aide"
 
 [[languages.ja.Menu.Main]]
-   name = "概要"
-   identifier = "010_about"
-   url = "about"
-
-[[languages.ja.Menu.Main]]
-    name = "FAQ"
-    identifier = "020_faq"
-    url = "faq"
+    name = "Track"
+    identifier = "050_parts"
+    url = "parts"
 
 [[languages.ja.Menu.Main]]
     name = "社員"
     identifier = "030_workers"
     url = "workers"
 
-[[languages.ja.Menu.Main]]
-    name = "Episode"
-    identifier = "040_episode"
-    url = "episode"
-
-[[languages.ja.Menu.Main]]
-    name = "Track"
-    identifier = "050_parts"
-    url = "parts"
-
-[[languages.ja.Menu.Main]]
-    name = "後の予定"
-    identifier = "060_future"
-    url = "future"
+#[[languages.ja.Menu.Main]]
+#   name = "概要"
+#   identifier = "010_about"
+#   url = "about"
+#
+#[[languages.ja.Menu.Main]]
+#    name = "FAQ"
+#    identifier = "020_faq"
+#    url = "faq"
+#
+#[[languages.ja.Menu.Main]]
+#    name = "Episode"
+#    identifier = "040_episode"
+#    url = "episode"
+#
+#[[languages.ja.Menu.Main]]
+#    name = "後の予定"
+#    identifier = "060_future"
+#    url = "future"
 
 [[languages.ja.Menu.Main]]
     name = "Thanks"
