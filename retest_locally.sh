@@ -1,4 +1,4 @@
 #!/bin/bash
 
 echo "building"
-hugo server
+hugo server --cleanDestinationDir
