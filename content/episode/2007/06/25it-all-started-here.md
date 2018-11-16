@@ -20,3 +20,5 @@ with a simple answer.  "I glued sticks together."
 I decided I should answer with a bit more detail by showing the pipe cleaner characters
 making the track.  So this set of videos (which will eventually be one
 video) will answer the question about how to make the track.
+
+{{< vimeo 65498806 >}}

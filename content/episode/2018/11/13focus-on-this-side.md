@@ -19,5 +19,3 @@ In two hours I was able to take about 1 second worth of frames (I am guessing). 
 6) Squarehead headed off the set to get a popsicle stick (which will be used to extend the Caret Feeder)
 
 Here is the snippet.  The last 3 seconds are new {{< youtube sif4f6taHdo >}}
-
-{{< vimeo 65498806 >}}
