@@ -6,6 +6,8 @@ Image = "https://placekitten.com/200/200"
 Description = "Second Placed Outer Spiral Support"
 weight = 0520
 workers = [
+    "mr_mcglue",
+    "g_choppy",
     "reversible"
 ]
 Aliases = [

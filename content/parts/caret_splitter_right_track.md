@@ -6,6 +6,8 @@ Image = "https://b.robnugen.com/art/marble_track_3/construction/2018/2018_nov_08
 Description = "Caret Splitter Right Track"
 weight = 0420
 workers = [
+    "mr_mcglue",
+    "g_choppy",
     "candy_mama"
 ]
 Aliases = [

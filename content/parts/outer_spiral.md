@@ -6,6 +6,8 @@ Image = "https://b.robnugen.com/art/marble_track_3/track/parts/2018_sep_22_demo_
 Description = "Demo Spiral is complete"
 weight = 0020
 workers = [
+    "mr_mcglue",
+    "g_choppy",
     "reversible"
 ]
 Aliases = [

@@ -6,6 +6,8 @@ Image = "https://placekitten.com/200/200"
 Description = "Below Lower Zig Zag Track"
 weight = 0355
 workers = [
+    "mr_mcglue",
+    "g_choppy",
     "mr_greene"
 ]
 Aliases = [

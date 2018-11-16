@@ -6,6 +6,8 @@ Image = "https://placekitten.com/200/200"
 Description = "Lower Curver off the Lowest Small-Medium Splitter"
 weight = 0820
 workers = [
+    "mr_mcglue",
+    "g_choppy",
     "reversible"
 ]
 Aliases = [

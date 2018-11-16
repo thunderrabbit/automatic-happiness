@@ -6,6 +6,7 @@ Image = "https://placekitten.com/200/200"
 Description = "Lowest Largest Backtracking Popsicle Stick"
 weight = 0520
 workers = [
+    "mr_mcglue",
     "reversible"
 ]
 Aliases = [

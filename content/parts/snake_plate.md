@@ -6,6 +6,7 @@ Image = "https://placekitten.com/200/200"
 Description = "Snake Plate"
 weight = 0220
 workers = [
+    "mr_mcglue",
     "mr_greene"
 ]
 Aliases = [

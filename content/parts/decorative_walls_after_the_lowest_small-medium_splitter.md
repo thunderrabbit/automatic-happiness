@@ -6,6 +6,7 @@ Image = "https://placekitten.com/200/200"
 Description = "Decorative Walls after the Lowest Small-Medium Splitter"
 weight = 0820
 workers = [
+    "mr_mcglue",
     "pinky"
 ]
 Aliases = [

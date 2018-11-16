@@ -7,6 +7,8 @@ Image = "https://placekitten.com/200/200"
 Description = "Snake Plate U-Turn"
 weight = 0045
 workers = [
+    "mr_mcglue",
+    "g_choppy",
     "mr_greene",
     "candy_mama"
 ]

@@ -7,6 +7,7 @@ Image = "https://b.robnugen.com/art/marble_track_3/track/parts/2018_sep_20_large
 Description = "Made with a bent bamboo skewer"
 weight = 0020
 workers = [
+    "mr_mcglue",
     "squarehead",
     "reversible"
 ]

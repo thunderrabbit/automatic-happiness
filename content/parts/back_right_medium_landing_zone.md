@@ -6,6 +6,7 @@ Image = "https://placekitten.com/200/200"
 Description = "Back Right Medium Landing Zone"
 weight = 0055
 workers = [
+    "mr_mcglue",
     "squarehead"
 ]
 Aliases = [

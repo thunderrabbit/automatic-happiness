@@ -6,6 +6,7 @@ Image = "https://b.robnugen.com/art/marble_track_3/construction/2018/2018_nov_08
 Description = "For small marbles, next to Triple Splitter"
 weight = 900
 workers = [
+    "mr_mcglue",
 	"dr_sugar",
 	"mr_greene",
 	"autosticks"

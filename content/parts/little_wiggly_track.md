@@ -6,6 +6,8 @@ Image = "https://b.robnugen.com/art/marble_track_3/track/parts/2018_sep_21_littl
 Description = "Catches small marbles after the drop out of the Triple Splitter"
 weight = 4000
 workers = [
+    "mr_mcglue",
+    "g_choppy",
 	"squarehead"
 ]
 Aliases = [

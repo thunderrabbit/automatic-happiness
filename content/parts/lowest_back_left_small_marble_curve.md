@@ -6,6 +6,8 @@ Image = "https://placekitten.com/200/200"
 Description = "Lowest Back Left Small Marble Curve"
 weight = 0620
 workers = [
+    "mr_mcglue",
+    "g_choppy",
     "reversible",
     "candy_mama"
 ]

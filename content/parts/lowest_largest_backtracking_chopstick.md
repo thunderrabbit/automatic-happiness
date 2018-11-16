@@ -6,6 +6,7 @@ Image = "https://placekitten.com/200/200"
 Description = "Lowest Largest Backtracking Chopstick"
 weight = 0520
 workers = [
+    "mr_mcglue",
     "big_brother",
     "mr_greene"
 ]

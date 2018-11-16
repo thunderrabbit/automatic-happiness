@@ -6,6 +6,8 @@ Image = "https://placekitten.com/200/200"
 Description = "Right Side Small Landing Zone"
 weight = 0120
 workers = [
+    "mr_mcglue",
+    "g_choppy",
     "mr_greene",
     "squarehead"
 ]

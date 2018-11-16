@@ -6,6 +6,8 @@ Image = ""
 Description = "Separates three sizes of marbles"
 weight = 0050
 workers = [
+    "mr_mcglue",
+    "g_choppy"
 ]
 Aliases = [
   "/ja/p/ts"

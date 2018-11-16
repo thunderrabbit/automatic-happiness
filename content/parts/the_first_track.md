@@ -6,6 +6,7 @@ Image = "https://b.robnugen.com/art/marble_track_3/frames/2018/00010_002_07_X1_0
 Description = "The first track placed is the last track large marbles use"
 weight = 700
 workers = [
+    "mr_mcglue",
 	"brothers",
 	"big_brother",
 	"lil_brother",

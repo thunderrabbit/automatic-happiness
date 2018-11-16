@@ -6,8 +6,10 @@ Image = "https://placekitten.com/200/200"
 Description = "Left Side Small Landing Zone"
 weight = 0050
 workers = [
-   "mr_greene",
-   "squarehead"
+    "mr_mcglue",
+    "g_choppy",
+    "mr_greene",
+    "squarehead"
 ]
 Aliases = [
    "/p/lsslz"

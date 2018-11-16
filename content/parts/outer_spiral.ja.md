@@ -6,6 +6,9 @@ Image = ""
 Description = "まだつくていない"
 weight = 0020
 workers = [
+    "mr_mcglue",
+    "g_choppy",
+    "reversible"
 ]
 Aliases = [
   "/ja/p/os"

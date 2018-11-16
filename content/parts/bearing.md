@@ -6,6 +6,7 @@ Image = ""
 Description = "Allows the stage to turn"
 weight = 5900
 workers = [
+    "mr_mcglue",
 	"garinoppi"
 ]
 Aliases = [

@@ -6,6 +6,7 @@ Image = "https://placekitten.com/200/200"
 Description = "Upper Splitter off the Lowest Small-Medium Splitter"
 weight = 0725
 workers = [
+    "mr_mcglue",
     "reversible"
 ]
 Aliases = [

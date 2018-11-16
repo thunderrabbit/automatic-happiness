@@ -6,6 +6,7 @@ Image = "https://placekitten.com/200/200"
 Description = "the Triple Splitter Small Marble Catcher"
 weight = 0625
 workers = [
+    "mr_mcglue",
     "dr_sugar"
 ]
 Aliases = [

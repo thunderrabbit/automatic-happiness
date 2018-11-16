@@ -6,6 +6,8 @@ Image = ""
 Description = "Separates three sizes of marbles"
 weight = 0050
 workers = [
+    "g_choppy",
+    "mr_mcglue",
 	"reversible",
 	"candy_mama",
 	"squarehead",

@@ -6,7 +6,9 @@ Image = "https://placekitten.com/200/200"
 Description = "Snake Plate Chopstick"
 weight = 0725
 workers = [
-   "candy_mama"
+    "mr_mcglue",
+    "g_choppy",
+    "candy_mama"
 ]
 Aliases = [
    "/p/spc"

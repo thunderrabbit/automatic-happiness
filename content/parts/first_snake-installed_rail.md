@@ -6,6 +6,7 @@ Image = "https://placekitten.com/200/200"
 Description = "First Snake-Installed Rail"
 weight = 0045
 workers = [
+    "mr_mcglue",
     "pinky",
     "reversible",
     "the_snakes"
