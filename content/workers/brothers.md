@@ -3,6 +3,9 @@ Title = "The Brothers"
 date = "2017-08-01T09:12:39-05:00"
 Weight = 0040
 Type = "workers"
+Aliases = [
+    "/w/bros/"
+]
 Thumbnail = "https://b.robnugen.com/art/marble_track_3/workers/2018/thumbs/brothers.jpg"
 Image = "https://b.robnugen.com/art/marble_track_3/workers/2018/brothers.jpg"
 Description = "based on me and my brother"

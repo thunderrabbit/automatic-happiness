@@ -7,7 +7,7 @@ Thumbnail = "https://b.robnugen.com/art/marble_track_3/workers/2018/thumbs/shika
 Image = "https://b.robnugen.com/art/marble_track_3/workers/2018/shikatama.jpg"
 Description = "yellow body; squareish head"
 Aliases = [
-  "/square"
+  "/w/square"
 ]
 +++
 

@@ -9,10 +9,10 @@ date: 2018-11-07T10:06:31+09:00
 
 Today before lunch I did
 [a livestream](https://www.youtube.com/watch?v=0tzMgVT_6oY) in which
-toothpicks moved themselves up toward the [Lower Zig Zag](/lzz), where
+toothpicks moved themselves up toward the [Lower Zig Zag](/p/lzz), where
 they will be rails on the second level of the Zig Zag, while the two
 toothpicks which had been so fiddly before were cut by [G-Choppy](/w/gc)
-and glued into place (by me, not yet by [Mr McGlue](/mmg)).
+and glued into place (by me, not yet by [Mr McGlue](/w/mmg)).
 
 During this time, coming up from the camera point of view,
 [Candy Mama](/w/cm) is leading the brothers onto the set, with something
@@ -21,7 +21,7 @@ stage.  (Mainly because it is the ramp.)
 
 *And*, after ghosting through the triple splitter, [Mr Greene](/w/mg)
 has picked up the chopstick carried onto the stage by
-[Squarehead](/square), who is currently being pulled around the stage
+[Squarehead](/w/square), who is currently being pulled around the stage
 with his hand caught in something, and will soon inadvertantly help
 Squarehead stand upright again with the chopstick.
 

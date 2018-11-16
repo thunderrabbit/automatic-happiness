@@ -7,7 +7,7 @@ Thumbnail = "https://b.robnugen.com/art/marble_track_3/workers/2018/thumbs/mr_mc
 Image = "https://b.robnugen.com/art/marble_track_3/workers/2018/mr_mcglue.jpg"
 Description = "Yellow ∩ with one long green arm"
 Aliases = [
-  "/mmg"
+  "/w/mmg"
 ]
 +++
 
