@@ -571,9 +571,9 @@
     VideoType = 1
   [Videos.G-FkMFgVyN0]
     VideoId = "G-FkMFgVyN0"
-    Title = "Marble Track 3 construction Live Stream"
-    Published = 2018-11-08T01:30:01Z
-    Duration = 0
+    Title = "Marble Track 3 construction Live Stream: planning fourth placed support"
+    Published = 2018-11-10T04:21:56Z
+    Duration = 2206000000000
     VideoType = 1
   [Videos.GBVXWktNxxY]
     VideoId = "GBVXWktNxxY"
@@ -730,6 +730,12 @@
     Title = "Marble Track 3 construction Live Stream: bonus gluing sticks"
     Published = 2018-09-08T11:11:50Z
     Duration = 557000000000
+    VideoType = 1
+  [Videos.M0cyqajQGCQ]
+    VideoId = "M0cyqajQGCQ"
+    Title = "Marble Track 3 construction Live Stream: focus on this side"
+    Published = 2018-11-13T00:58:45Z
+    Duration = 7376000000000
     VideoType = 1
   [Videos.M2Mbu-6B_mY]
     VideoId = "M2Mbu-6B_mY"
@@ -1103,6 +1109,12 @@
     Published = 2017-09-05T01:17:08Z
     Duration = 7480000000000
     VideoType = 1
+  [Videos.WmN2ltNT51g]
+    VideoId = "WmN2ltNT51g"
+    Title = "Marble Track 3 construction Live Stream: almost placed fourth support"
+    Published = 2018-11-10T05:37:41Z
+    Duration = 2249000000000
+    VideoType = 1
   [Videos.WxV4Za-LnRM]
     VideoId = "WxV4Za-LnRM"
     Title = "Marble Track 3 construction Live Stream: finalize the third rib"
@@ -1139,6 +1151,12 @@
     Published = 2017-11-25T08:31:19Z
     Duration = 53000000000
     VideoType = 2
+  [Videos.ZUxgXmpp1RI]
+    VideoId = "ZUxgXmpp1RI"
+    Title = "Marble Track 3 construction Live Stream"
+    Published = 2018-11-13T00:18:00Z
+    Duration = 0
+    VideoType = 1
   [Videos._1q8CYWRXpA]
     VideoId = "_1q8CYWRXpA"
     Title = "Marble Track 3 construction Live Stream: ran out of battery while planning how to fix the stage"
@@ -1738,6 +1756,12 @@
     Title = "Marble Track 3: before releasing big marble"
     Published = 2017-12-05T04:07:42Z
     Duration = 62000000000
+    VideoType = 2
+  [Videos.sif4f6taHdo]
+    VideoId = "sif4f6taHdo"
+    Title = "Marble Track 3: focus on this side"
+    Published = 2018-11-13T00:23:12Z
+    Duration = 15000000000
     VideoType = 2
   [Videos.svSkyGvGry8]
     VideoId = "svSkyGvGry8"
