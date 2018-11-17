@@ -2,7 +2,10 @@
 Title = "Marble Track 3 Construction"
 +++
 
-### Who has time to waste making art?
+### Who has time to waste making marble tracks?
+
+{{< vimeo 301330761 >}}
+
 
 I wanted to make another Marble Track after I made [Marble Track 2](https://www.youtube.com/watch?v=mlUqu6QE7bw), but it would be a *waste of time*.  **The Internet told me so:**
 
@@ -62,7 +65,7 @@ Introducing.... **Marble Track 3 Construction Crew**...
 Back Row: [Candy Mama](/w/cm), [G Choppy](/w/gc), [Reversible Guy](/w/rg), [Squarehead](/w/square), [Mr McGlue](/w/mmg)<br/>
 Front Row: [Mr Greene](/w/mg), [Pinky](/w/pink), [Dr Sugar](/w/ds), [Big Brother](/w/bros), [Lil Brother](/w/bros), [Super Spoony](/w/spoon)
 
-These guys are great!  Just look at them go!
+These guys are great!  <!-- Just look at them go! -->
 
 Now I can sit back and watch while they show everyone how to build a marble track.  Plus, by the end, they will have finished Marble Track 3 for me!  Two problems solved at once!
 

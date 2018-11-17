@@ -1,8 +1,8 @@
 +++
 title = "Back Right Medium Landing Zone"
 type = "parts"
-Thumbnail = "https://placekitten.com/200/200"
-Image = "https://placekitten.com/200/200"
+Thumbnail = "https://b.robnugen.com/art/marble_track_3/track/parts/thumbs/2018_nov_17_back_right_medium_landing_zone_end.jpg"
+Image = "https://b.robnugen.com/art/marble_track_3/track/parts/2018_nov_17_back_right_medium_landing_zone_end.jpg"
 Description = "Back Right Medium Landing Zone"
 weight = 0055
 workers = [
@@ -18,3 +18,7 @@ This landing zone balances the Front Left Medium Landing Zone, and
 will eventually be fed by the Triple Splitter.  It has a toothpick
 placed at an angle to keep marbles from rolling back once they arrive
 at the end.
+
+[![2018 nov 17 back right medium landing zone side](//b.robnugen.com/art/marble_track_3/track/parts/thumbs/2018_nov_17_back_right_medium_landing_zone_side.jpg)](//b.robnugen.com/art/marble_track_3/track/parts/2018_nov_17_back_right_medium_landing_zone_side.jpg)
+[![2018 nov 17 blue marble on back right medium landing zone 1](//b.robnugen.com/art/marble_track_3/track/parts/thumbs/2018_nov_17_blue_marble_on_back_right_medium_landing_zone_1.jpg)](//b.robnugen.com/art/marble_track_3/track/parts/2018_nov_17_blue_marble_on_back_right_medium_landing_zone_1.jpg)
+[![2018 nov 17 blue marble on back right medium landing zone 2](//b.robnugen.com/art/marble_track_3/track/parts/thumbs/2018_nov_17_blue_marble_on_back_right_medium_landing_zone_2.jpg)](//b.robnugen.com/art/marble_track_3/track/parts/2018_nov_17_blue_marble_on_back_right_medium_landing_zone_2.jpg)

@@ -2,8 +2,8 @@
 title = "Snake Plate U Turn"
 url = "/parts/snake_plate_u_turn"
 type = "parts"
-Thumbnail = "https://placekitten.com/200/200"
-Image = "https://placekitten.com/200/200"
+Thumbnail = "https://b.robnugen.com/art/marble_track_3/track/parts/thumbs/2018_nov_17_snake_plate_u_turn.jpg"
+Image = "https://b.robnugen.com/art/marble_track_3/track/parts/2018_nov_17_snake_plate_u_turn.jpg"
 Description = "Snake Plate U-Turn"
 weight = 0045
 workers = [

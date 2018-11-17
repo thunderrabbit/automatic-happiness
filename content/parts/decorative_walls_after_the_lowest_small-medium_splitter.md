@@ -1,8 +1,8 @@
 +++
 title = "Decorative Walls after the Lowest Small-Medium Splitter"
 type = "parts"
-Thumbnail = "https://placekitten.com/200/200"
-Image = "https://placekitten.com/200/200"
+Thumbnail = "https://b.robnugen.com/art/marble_track_3/track/parts/thumbs/2018_nov_17_pinky_next_to_her_decorative_walls.jpg"
+Image = "https://b.robnugen.com/art/marble_track_3/track/parts/2018_nov_17_pinky_next_to_her_decorative_walls.jpg"
 Description = "Decorative Walls after the Lowest Small-Medium Splitter"
 weight = 0820
 workers = [
