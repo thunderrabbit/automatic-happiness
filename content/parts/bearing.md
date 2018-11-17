@@ -1,8 +1,8 @@
 +++
 title = "Bearing"
 type = "parts"
-Thumbnail = ""
-Image = ""
+Thumbnail = "https://b.robnugen.com/art/marble_track_3/frames/2018/thumbs/00010_002_05_X1_1190.jpg"
+Image = "https://b.robnugen.com/art/marble_track_3/frames/2018/00010_002_05_X1_1190.jpg"
 Description = "Allows the stage to turn"
 weight = 5900
 workers = [
@@ -18,6 +18,6 @@ The bearing is actually just a convenience for me, but has become a somewhat imp
 
 The first time I tried to create a stop motion animation of a marble track, I had no way to easily reach the back side of the track, which made it difficult to manipulate things without it being obvious that things had moved.
 
-With the bearing, it's not just obvious that things moved, it's usually required that the track moves each frame!
+With the bearing, it's not just obvious that things moved, it's usually required that the stage moves each frame!
 
 In the movie, the bearing is controlled by the radio transmitter, and acted as a helicopter when it was first introduced.
