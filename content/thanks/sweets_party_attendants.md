@@ -5,8 +5,8 @@ Type = "thanks"
 Aliases = [
     "spa/"
 ]
-Thumbnail = ""
-Image = ""
+Thumbnail = "https://b.robnugen.com/art/marble_track_3/creators/thumbs/2018_oct_16_sweets_attendants.jpg"
+Image = "https://b.robnugen.com/art/marble_track_3/creators/2018_oct_16_sweets_attendants.jpg"
 Description = "Provide sweets and translation!"
 +++
 
