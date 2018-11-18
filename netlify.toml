@@ -23,6 +23,9 @@ HUGO_VERSION = "0.51"
 [context.branch-deploy]
 command = "hugo -b $DEPLOY_PRIME_URL"
 
+[context.v2]
+command = "hugo -b https://v2.marbletrack3.com"
+
 [context.branch-deploy.environment]
 HUGO_VERSION = "0.51"
 
