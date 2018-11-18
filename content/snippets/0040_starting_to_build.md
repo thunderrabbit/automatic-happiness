@@ -15,13 +15,13 @@ Aliases: [
 
 Dr Sugar instructs Candy Mama to turn the Bearing on faster than ever before.  Faster.  Faster still.  It's still not fast enough, so Dr Sugar climbs up onto the lever and brings it into a ultra fast mode.  The bearing is spinning so quickly that it actually floats the entire stage.  They easily push the stage into place while it's floating on this cushion of air.
 
-Candy mama removes the long lever, as Dr Sugar leads François onto the set, bringing the second level stage in behind him.
+Candy Mama removes the long lever, as Dr Sugar leads François onto the set, bringing the second level stage in behind him.
 
 The brothers play and run around on the stage while Candy Mama and Dr Sugar untie the ropes from François.
 
 Candy Mama gets slightly tangled in the ropes as François walk walks around the stage, then kicks it into place.
 
-Once the stage is in place, candy mama turns on the switch.  Dr Sugar and the brothers play on the stage while it turns below them.
+Once the stage is in place, Candy Mama turns on the switch.  Dr Sugar and the brothers play on the stage while it turns below them.
 
 Candy Mama brings a marble onto the stage, which causes a Dr Sugar to slide backwards and fall off the stage when he tries to stand on it.
 
