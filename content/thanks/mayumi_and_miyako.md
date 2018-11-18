@@ -9,6 +9,7 @@ Aliases = [
 Thumbnail = ""
 Image = ""
 Description = "My original fans!"
+Draft = true
 +++
 
 Thanks to Mayumi and her sister Miyako for being the first fans of Marble Track 3 Construction!
