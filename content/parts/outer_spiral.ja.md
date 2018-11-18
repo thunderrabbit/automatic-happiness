@@ -1,8 +1,8 @@
 +++
 title = "円周螺旋"
 type = "parts"
-Thumbnail = ""
-Image = ""
+Thumbnail = "https://b.robnugen.com/art/marble_track_3/track/parts/thumbs/2018_sep_22_demo_outer_spiral.jpg"
+Image = "https://b.robnugen.com/art/marble_track_3/track/parts/2018_sep_22_demo_outer_spiral.jpg"
 Description = "まだつくていない"
 weight = 0020
 workers = [
