@@ -2,9 +2,9 @@
 Title = "Marble Track 3 Construction"
 +++
 
-### Who has time to waste making marble tracks?
-
 {{< vimeo 301330761 >}}
+
+### Who has time to waste making one of these?
 
 
 I wanted to make another Marble Track after I made [Marble Track 2](https://www.youtube.com/watch?v=mlUqu6QE7bw), but it would be a *waste of time*.  **The Internet told me so:**
