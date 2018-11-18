@@ -15,7 +15,7 @@ paginate = "9"
     description = "Livestreams of the Stop Motion Animation of the [Construction of Marble Track 3](https://mt3s.marbletrack3.com)"
 
 [[languages.en.Menu.Main]]
-    name = "How to build"
+    name = "Step by step"
     identifier = "010_snippets"
     url = "snippets"
 
@@ -72,7 +72,7 @@ paginate = "9"
 
 
 [[languages.ja.Menu.Main]]
-    name = "How to build"
+    name = "Step by step"
     identifier = "010_snippets"
     url = "snippets"
 
