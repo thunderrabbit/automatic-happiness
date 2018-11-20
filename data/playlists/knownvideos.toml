@@ -119,6 +119,12 @@
     Published = 2017-11-14T00:39:17Z
     Duration = 33000000000
     VideoType = 2
+  [Videos.2Q09l887Lm0]
+    VideoId = "2Q09l887Lm0"
+    Title = "Marble Track 3 construction Live Stream"
+    Published = 2018-11-20T01:05:59Z
+    Duration = 0
+    VideoType = 1
   [Videos.2bP7Irt5hHc]
     VideoId = "2bP7Irt5hHc"
     Title = "Marble Track 3: look at me"
@@ -238,6 +244,12 @@
     Title = "Marble Track 3: before gluing inner berm"
     Published = 2018-10-02T05:53:08Z
     Duration = 7000000000
+    VideoType = 2
+  [Videos.7-tj066ZZB4]
+    VideoId = "7-tj066ZZB4"
+    Title = "netlify DNS 404"
+    Published = 2018-11-18T11:26:27Z
+    Duration = 19000000000
     VideoType = 2
   [Videos.7GKqxHKb9Mc]
     VideoId = "7GKqxHKb9Mc"
@@ -1153,9 +1165,9 @@
     VideoType = 2
   [Videos.ZUxgXmpp1RI]
     VideoId = "ZUxgXmpp1RI"
-    Title = "Marble Track 3 construction Live Stream"
+    Title = "Marble Track 3 construction Live Stream: Glued Fourth Placed Outer Spiral Support"
     Published = 2018-11-13T00:18:00Z
-    Duration = 0
+    Duration = 2252000000000
     VideoType = 1
   [Videos._1q8CYWRXpA]
     VideoId = "_1q8CYWRXpA"
