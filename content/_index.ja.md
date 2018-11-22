@@ -68,15 +68,15 @@ Front Row: [Mr Greene](/w/mg), [Pinky](/w/pink), [Dr Sugar](/w/ds), [Big Brother
 
 These guys are great!  Just look at them go!
 
-<video width="320" height="240" controls autoplay loop>
+<video width="320" height="240" controls loop>
 <source src="https://b.robnugen.com/art/marble_track_3/workers/snippets/quick_look_francois_installs_stage.mp4" type="video/mp4">
 </video>
 
-<video width="320" height="240" controls autoplay loop>
+<video width="320" height="240" controls loop>
 <source src="https://b.robnugen.com/art/marble_track_3/workers/snippets/quick_look_g_choppy_cuts.mp4" type="video/mp4">
 </video>
 
-<video width="320" height="240" controls autoplay loop>
+<video width="320" height="240" controls loop>
 <source src="https://b.robnugen.com/art/marble_track_3/workers/snippets/quick_look_help_you_up.mp4" type="video/mp4">
 </video>
 
