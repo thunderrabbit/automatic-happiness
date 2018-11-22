@@ -1,5 +1,5 @@
 +++
-Title = "Latest video"
+Title = "Latest Title = "Marble Track 3 Construction"
 +++
 
 
@@ -66,7 +66,19 @@ Introducing.... **Marble Track 3 Construction Crew**...
 Back Row: [Candy Mama](/w/cm), [G Choppy](/w/gc), [Reversible Guy](/w/rg), [Squarehead](/w/square), [Mr McGlue](/w/mmg)<br/>
 Front Row: [Mr Greene](/w/mg), [Pinky](/w/pink), [Dr Sugar](/w/ds), [Big Brother](/w/bros), [Lil Brother](/w/bros), [Super Spoony](/w/spoon)
 
-These guys are great!  <!-- Just look at them go! -->
+These guys are great!  Just look at them go!
+
+<video width="320" height="240" controls autoplay loop>
+<source src="https://b.robnugen.com/art/marble_track_3/workers/snippets/quick_look_francois_installs_stage.mp4" type="video/mp4">
+</video>
+
+<video width="320" height="240" controls autoplay loop>
+<source src="https://b.robnugen.com/art/marble_track_3/workers/snippets/quick_look_g_choppy_cuts.mp4" type="video/mp4">
+</video>
+
+<video width="320" height="240" controls autoplay loop>
+<source src="https://b.robnugen.com/art/marble_track_3/workers/snippets/quick_look_help_you_up.mp4" type="video/mp4">
+</video>
 
 Now I can sit back and watch while they show everyone how to build a marble track.  Plus, by the end, they will have finished Marble Track 3 for me!  Two problems solved at once!
 
