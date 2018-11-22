@@ -1,5 +1,5 @@
 +++
-Title = "Latest Title = "Marble Track 3 Construction"
+Title = "Marble Track 3 Construction"
 +++
 
 
