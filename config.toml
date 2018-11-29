@@ -15,11 +15,6 @@ paginate = "9"
     description = "Livestreams of the Stop Motion Animation of the [Construction of Marble Track 3](https://mt3s.marbletrack3.com)"
 
 [[languages.en.Menu.Main]]
-    name = "Step by step"
-    identifier = "010_snippets"
-    url = "snippets"
-
-[[languages.en.Menu.Main]]
     name = "Workers"
     identifier = "030_workers"
     url = "workers"
@@ -28,6 +23,16 @@ paginate = "9"
     name = "Track"
     identifier = "050_parts"
     url = "parts"
+
+[[languages.en.Menu.Main]]
+    name = "Step by step"
+    identifier = "060_snippets"
+    url = "snippets"
+
+[[languages.ja.Menu.Main]]
+    name = "Step by step"
+    identifier = "060_snippets"
+    url = "snippets"
 
 [[languages.en.Menu.Main]]
     name = "Thanks"
@@ -51,11 +56,6 @@ paginate = "9"
 
 
 [[languages.ja.Menu.Main]]
-    name = "Step by step"
-    identifier = "010_snippets"
-    url = "snippets"
-
-[[languages.ja.Menu.Main]]
     name = "社員"
     identifier = "030_workers"
     url = "workers"
@@ -64,6 +64,16 @@ paginate = "9"
     name = "Track"
     identifier = "050_parts"
     url = "parts"
+
+[[languages.en.Menu.Main]]
+    name = "Step by step"
+    identifier = "060_snippets"
+    url = "snippets"
+
+[[languages.ja.Menu.Main]]
+    name = "Step by step"
+    identifier = "060_snippets"
+    url = "snippets"
 
 [[languages.ja.Menu.Main]]
     name = "Thanks"
