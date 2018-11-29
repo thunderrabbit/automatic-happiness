@@ -121,9 +121,9 @@
     VideoType = 2
   [Videos.2Q09l887Lm0]
     VideoId = "2Q09l887Lm0"
-    Title = "Marble Track 3 construction Live Stream"
+    Title = "Marble Track 3 construction Live Stream: After Gluing Fourth Placed Outer Spiral Support 1 of 2"
     Published = 2018-11-20T01:05:59Z
-    Duration = 0
+    Duration = 5948000000000
     VideoType = 1
   [Videos.2bP7Irt5hHc]
     VideoId = "2bP7Irt5hHc"
@@ -137,6 +137,12 @@
     Published = 2017-10-05T03:02:05Z
     Duration = 50000000000
     VideoType = 2
+  [Videos.2qrDynXdPnA]
+    VideoId = "2qrDynXdPnA"
+    Title = "Marble Track 3 construction Live Stream"
+    Published = 2018-11-29T01:04:23Z
+    Duration = 0
+    VideoType = 1
   [Videos.3QNEW8hqHyU]
     VideoId = "3QNEW8hqHyU"
     Title = "Marble Track 3: roll small marble"
@@ -1121,6 +1127,12 @@
     Published = 2017-09-05T01:17:08Z
     Duration = 7480000000000
     VideoType = 1
+  [Videos.WhGajsciiio]
+    VideoId = "WhGajsciiio"
+    Title = "Marble Track 3 construction Live Stream: Traffic Jam at Caret Splitter"
+    Published = 2018-11-29T01:42:03Z
+    Duration = 5331000000000
+    VideoType = 1
   [Videos.WmN2ltNT51g]
     VideoId = "WmN2ltNT51g"
     Title = "Marble Track 3 construction Live Stream: almost placed fourth support"
@@ -1396,6 +1408,12 @@
     Title = "Marble Track 3 construction Live Stream: add next rail on outer spiral"
     Published = 2018-08-03T05:23:11Z
     Duration = 447000000000
+    VideoType = 1
+  [Videos.glQKvWC75Z8]
+    VideoId = "glQKvWC75Z8"
+    Title = "Marble Track 3 construction Live Stream: After Gluing Fourth Placed Outer Spiral Support  2 of 2"
+    Published = 2018-11-27T03:24:54Z
+    Duration = 2072000000000
     VideoType = 1
   [Videos.gy0YS83ooms]
     VideoId = "gy0YS83ooms"
