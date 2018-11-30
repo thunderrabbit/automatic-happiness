@@ -1,12 +1,13 @@
 +++
 Title = "Mr McGlue"
 date = "2017-06-01T09:12:39-05:00"
+Weight = 0015
 Type = "workers"
 Thumbnail = "https://b.robnugen.com/art/marble_track_3/workers/2018/thumbs/mr_mcglue.jpg"
 Image = "https://b.robnugen.com/art/marble_track_3/workers/2018/mr_mcglue.jpg"
 Description = "Yellow ∩ with one long green arm"
 Aliases = [
-  "/mmg"
+  "/w/mmg"
 ]
 +++
 
@@ -19,6 +20,11 @@ more difficult to let him pass through most areas of the track.  I had considere
 shoes, but they are glued to his feet in a way that would damage his
 feet too much.  So on 29th of September 2018 [I made a copy of Mr McGlue](/episode/2018/september/three-mr-mcglues/) with short feet.
 
-Mr McGlue, meet Mr McGlue.
+* 29 Nov 2018: Mr McGlue after gluing [Fourth Place Outer Spiral Support](/p/5poss)
+
+[![2018 nov 29 mr mcglue after gluing 4poss](//b.robnugen.com/art/marble_track_3/workers/2018/thumbs/2018_nov_29_mr_mcglue_after_gluing_4poss.jpg)](//b.robnugen.com/art/marble_track_3/workers/2018/2018_nov_29_mr_mcglue_after_gluing_4poss.jpg)
+
+* 29 Sep 2018: Mr McGlue, meet Mr McGlue.
 
 [![2018 sep 29 mr mcglue watch mr mcglue meet mr mcglue](//b.robnugen.com/art/marble_track_3/set/2018/thumbs/2018_sep_29_mr_mcglue_watch_mr_mcglue_meet_mr_mcglue.jpg)](//b.robnugen.com/art/marble_track_3/set/2018/2018_sep_29_mr_mcglue_watch_mr_mcglue_meet_mr_mcglue.jpg)
+

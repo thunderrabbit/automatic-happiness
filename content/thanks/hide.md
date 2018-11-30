@@ -5,13 +5,11 @@ Type = "thanks"
 Aliases = [
     "/hide/"
 ]
-Thumbnail = ""
-Image = ""
+Thumbnail = "https://b.robnugen.com/art/marble_track_3/creators/thumbs/zip_ties_from_hide.jpg"
+Image = "https://b.robnugen.com/art/marble_track_3/creators/zip_ties_from_hide.jpg"
 Description = "Provided Zipties!"
 +++
 
 Thanks to Hide for providing zipties!
 
 These were most helpful for holding together pieces while the glue dried.
-
-[![zip ties from hide](//b.robnugen.com/art/marble_track_3/creators/thumbs/zip_ties_from_hide.jpg)](//b.robnugen.com/art/marble_track_3/creators/zip_ties_from_hide.jpg)

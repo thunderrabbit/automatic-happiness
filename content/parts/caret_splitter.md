@@ -5,8 +5,13 @@ Thumbnail = "https://b.robnugen.com/art/marble_track_3/construction/2018/thumbs/
 Image = "https://b.robnugen.com/art/marble_track_3/construction/2018/2018_nov_08_caret_splitter_outside_view.jpg"
 Description = "Will hopefully Separate two sizes of marbles"
 weight = 0050
+workers = [
+    "mr_mcglue",
+    "g_choppy",
+    "reversible"
+]
 Aliases = [
-  "/p/cs"
+    "/p/cs"
 ]
 +++
 

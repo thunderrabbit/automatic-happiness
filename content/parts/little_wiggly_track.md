@@ -5,8 +5,13 @@ Thumbnail = "https://b.robnugen.com/art/marble_track_3/track/parts/thumbs/2018_s
 Image = "https://b.robnugen.com/art/marble_track_3/track/parts/2018_sep_21_little_wiggly_track.jpg"
 Description = "Catches small marbles after the drop out of the Triple Splitter"
 weight = 4000
+workers = [
+    "mr_mcglue",
+    "g_choppy",
+	"squarehead"
+]
 Aliases = [
-  "/p/lwt"
+    "/p/lwt"
 ]
 +++
 

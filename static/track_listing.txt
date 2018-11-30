@@ -1,0 +1,31 @@
+1:10 "mr_greene", "squarehead" | Right Side Small Landing Zone
+1:23 "mr_greene", "squarehead" | Left Side Small Landing Zone
+1:28 "reversible", "squarehead" | Lowest Largest U-turn
+1:40 "reversible", "candy_mama" | Lowest Back Left Small Marble Curve
+1:43 "big_brother", "mr_greene" | Lowest Largest Backtracking Chopstick
+1:50 "reversible", "candy_mama" | Left Side Medium Landing Zone
+In the fifth video snippet:
+0:02 "reversible" | Lowest Largest Backtracking Popsicle Stick
+0:12 "mr_greene" | Snake Plate
+0:13 "mr_greene" | Below Lower Zig Zag Track
+0:18 "squarehead" | Back Right Medium Landing Zone
+0:19 "mr_greene", "candy_mama" | Snake Plate U-Turn
+0:25 "squarehead" | pieces of Little Wiggly Track
+0:30 "candy_mama" | Caret Splitter Right Track
+0:31 "squarehead" | Little Wiggly Track Sidewalls
+0:32 "candy_mama" | Snake Plate Chopstick
+0:49 "mr_greene", "candy_mama", "squarehead", "reversible" | Triple Splitter
+In the sixth video snippet:
+0:14 "candy_mama" | the Lowest Small-Medium Splitter
+0:56 "squarehead", "reversible" | Snake Plate U-turn Berm
+1:10 "dr_sugar" | the Triple Splitter Small Marble Catcher
+1:28 "pinky" | Decorative Walls after the Lowesst Small-Medium Splitter
+1:35 "pinky", "reversible", "the_snakes" | First Snake-Installed Rail
+1:40 "reversible" | Upper Splitter and Lower Curver off the Lowest Small-Medium Splitter
+1:54 "reversible" | Caret Splitter
+1:57 "busy_snake", "dr_sugar" | Triple Splitter
+2:?? "reversible" | First Placed Outer Spiral Support
+So far in the seventh video snippet:
+0:09 "dr_sugar", "mr_greene" | Lower Zig Zag along with the help of Autosticks
+0:09 "reversible" | Second Placed Outer Spiral Support
+ 

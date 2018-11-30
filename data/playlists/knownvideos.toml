@@ -119,6 +119,12 @@
     Published = 2017-11-14T00:39:17Z
     Duration = 33000000000
     VideoType = 2
+  [Videos.2Q09l887Lm0]
+    VideoId = "2Q09l887Lm0"
+    Title = "Marble Track 3 construction Live Stream: After Gluing Fourth Placed Outer Spiral Support 1 of 2"
+    Published = 2018-11-20T01:05:59Z
+    Duration = 5948000000000
+    VideoType = 1
   [Videos.2bP7Irt5hHc]
     VideoId = "2bP7Irt5hHc"
     Title = "Marble Track 3: look at me"
@@ -131,6 +137,12 @@
     Published = 2017-10-05T03:02:05Z
     Duration = 50000000000
     VideoType = 2
+  [Videos.2qrDynXdPnA]
+    VideoId = "2qrDynXdPnA"
+    Title = "Marble Track 3 construction Live Stream"
+    Published = 2018-11-29T01:04:23Z
+    Duration = 0
+    VideoType = 1
   [Videos.3QNEW8hqHyU]
     VideoId = "3QNEW8hqHyU"
     Title = "Marble Track 3: roll small marble"
@@ -238,6 +250,12 @@
     Title = "Marble Track 3: before gluing inner berm"
     Published = 2018-10-02T05:53:08Z
     Duration = 7000000000
+    VideoType = 2
+  [Videos.7-tj066ZZB4]
+    VideoId = "7-tj066ZZB4"
+    Title = "netlify DNS 404"
+    Published = 2018-11-18T11:26:27Z
+    Duration = 19000000000
     VideoType = 2
   [Videos.7GKqxHKb9Mc]
     VideoId = "7GKqxHKb9Mc"
@@ -571,9 +589,9 @@
     VideoType = 1
   [Videos.G-FkMFgVyN0]
     VideoId = "G-FkMFgVyN0"
-    Title = "Marble Track 3 construction Live Stream"
-    Published = 2018-11-08T01:30:01Z
-    Duration = 0
+    Title = "Marble Track 3 construction Live Stream: planning fourth placed support"
+    Published = 2018-11-10T04:21:56Z
+    Duration = 2206000000000
     VideoType = 1
   [Videos.GBVXWktNxxY]
     VideoId = "GBVXWktNxxY"
@@ -730,6 +748,12 @@
     Title = "Marble Track 3 construction Live Stream: bonus gluing sticks"
     Published = 2018-09-08T11:11:50Z
     Duration = 557000000000
+    VideoType = 1
+  [Videos.M0cyqajQGCQ]
+    VideoId = "M0cyqajQGCQ"
+    Title = "Marble Track 3 construction Live Stream: focus on this side"
+    Published = 2018-11-13T00:58:45Z
+    Duration = 7376000000000
     VideoType = 1
   [Videos.M2Mbu-6B_mY]
     VideoId = "M2Mbu-6B_mY"
@@ -1103,6 +1127,18 @@
     Published = 2017-09-05T01:17:08Z
     Duration = 7480000000000
     VideoType = 1
+  [Videos.WhGajsciiio]
+    VideoId = "WhGajsciiio"
+    Title = "Marble Track 3 construction Live Stream: Traffic Jam at Caret Splitter"
+    Published = 2018-11-29T01:42:03Z
+    Duration = 5331000000000
+    VideoType = 1
+  [Videos.WmN2ltNT51g]
+    VideoId = "WmN2ltNT51g"
+    Title = "Marble Track 3 construction Live Stream: almost placed fourth support"
+    Published = 2018-11-10T05:37:41Z
+    Duration = 2249000000000
+    VideoType = 1
   [Videos.WxV4Za-LnRM]
     VideoId = "WxV4Za-LnRM"
     Title = "Marble Track 3 construction Live Stream: finalize the third rib"
@@ -1139,6 +1175,12 @@
     Published = 2017-11-25T08:31:19Z
     Duration = 53000000000
     VideoType = 2
+  [Videos.ZUxgXmpp1RI]
+    VideoId = "ZUxgXmpp1RI"
+    Title = "Marble Track 3 construction Live Stream: Glued Fourth Placed Outer Spiral Support"
+    Published = 2018-11-13T00:18:00Z
+    Duration = 2252000000000
+    VideoType = 1
   [Videos._1q8CYWRXpA]
     VideoId = "_1q8CYWRXpA"
     Title = "Marble Track 3 construction Live Stream: ran out of battery while planning how to fix the stage"
@@ -1366,6 +1408,12 @@
     Title = "Marble Track 3 construction Live Stream: add next rail on outer spiral"
     Published = 2018-08-03T05:23:11Z
     Duration = 447000000000
+    VideoType = 1
+  [Videos.glQKvWC75Z8]
+    VideoId = "glQKvWC75Z8"
+    Title = "Marble Track 3 construction Live Stream: After Gluing Fourth Placed Outer Spiral Support  2 of 2"
+    Published = 2018-11-27T03:24:54Z
+    Duration = 2072000000000
     VideoType = 1
   [Videos.gy0YS83ooms]
     VideoId = "gy0YS83ooms"
@@ -1738,6 +1786,12 @@
     Title = "Marble Track 3: before releasing big marble"
     Published = 2017-12-05T04:07:42Z
     Duration = 62000000000
+    VideoType = 2
+  [Videos.sif4f6taHdo]
+    VideoId = "sif4f6taHdo"
+    Title = "Marble Track 3: focus on this side"
+    Published = 2018-11-13T00:23:12Z
+    Duration = 15000000000
     VideoType = 2
   [Videos.svSkyGvGry8]
     VideoId = "svSkyGvGry8"

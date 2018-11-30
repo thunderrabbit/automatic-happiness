@@ -1,4 +1,5 @@
 +++
+Draft = true
 Title = "真弓さん、みや子さん"
 date = "2018-09-21T22:58:39-05:00"
 Type = "thanks"

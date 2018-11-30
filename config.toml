@@ -12,17 +12,7 @@ paginate = "9"
     title = "Marble Track 3"
     weight = 1
     LanguageName = "English"
-    description = "Livestreams of the Stop Motion Animation of the [Construction of Marble Track 3](http://mt3s.robnugen.com)"
-
-[[languages.en.Menu.Main]]
-    name = "About"
-    identifier = "010_about"
-    url = "about"
-
-[[languages.en.Menu.Main]]
-    name = "FAQ"
-    identifier = "020_faq"
-    url = "faq"
+    description = "Livestreams of the Stop Motion Animation of the [Construction of Marble Track 3](https://mt3s.marbletrack3.com)"
 
 [[languages.en.Menu.Main]]
     name = "Workers"
@@ -30,25 +20,24 @@ paginate = "9"
     url = "workers"
 
 [[languages.en.Menu.Main]]
-    name = "Latest"
-    identifier = "040_latest"
-    url = "latest"
-
-[[languages.en.Menu.Main]]
     name = "Track"
     identifier = "050_parts"
     url = "parts"
 
 [[languages.en.Menu.Main]]
-    name = "Future"
-    identifier = "060_future"
-    url = "future"
+    name = "Step by step"
+    identifier = "060_snippets"
+    url = "snippets"
+
+[[languages.ja.Menu.Main]]
+    name = "Step by step"
+    identifier = "060_snippets"
+    url = "snippets"
 
 [[languages.en.Menu.Main]]
     name = "Thanks"
     identifier = "070_thanks"
     url = "thanks"
-
 
 [[languages.en.Menu.Main]]
     name = "Support"
@@ -59,21 +48,12 @@ paginate = "9"
     title = "ビー玉からくり第三弾"
     weight = 2
     LanguageName = "日本語"
-    description = "Livestreams of the Stop Motion Animation of the [Construction of ビー玉からくり第三弾](http://mt3s.robnugen.com)"
+    description = "Livestreams of the Stop Motion Animation of the [Construction of ビー玉からくり第三弾](https://mt3s.marbletrack3.com)"
 
     [languages.ja.params]
       [languages.ja.params.navigation]
         help = "Aide"
 
-[[languages.ja.Menu.Main]]
-   name = "概要"
-   identifier = "010_about"
-   url = "about"
-
-[[languages.ja.Menu.Main]]
-    name = "FAQ"
-    identifier = "020_faq"
-    url = "faq"
 
 [[languages.ja.Menu.Main]]
     name = "社員"
@@ -81,19 +61,19 @@ paginate = "9"
     url = "workers"
 
 [[languages.ja.Menu.Main]]
-    name = "Latest"
-    identifier = "040_latest"
-    url = "latest"
-
-[[languages.ja.Menu.Main]]
     name = "Track"
     identifier = "050_parts"
     url = "parts"
 
+[[languages.en.Menu.Main]]
+    name = "Step by step"
+    identifier = "060_snippets"
+    url = "snippets"
+
 [[languages.ja.Menu.Main]]
-    name = "後の予定"
-    identifier = "060_future"
-    url = "future"
+    name = "Step by step"
+    identifier = "060_snippets"
+    url = "snippets"
 
 [[languages.ja.Menu.Main]]
     name = "Thanks"
@@ -116,21 +96,45 @@ paginate = "9"
 # The menus are sorted based upon their identifier
 
 
-### [[Menu.Main]]
-###     name = "Resources"
-###     identifier = "resources"
-###     url = "#!"
-###
-### [[Menu.Main]]
-###     name = "Books"
-###     identifier = "books"
-###     url = "books"
-###     parent = "resources"
-### [[Menu.Main]]
-###     name = "Podcasts"
-###     identifier = "podcasts"
-###     url = "books"
-###     parent = "resources"
+#[[languages.en.Menu.Main]]
+#    name = "About"
+#    identifier = "010_about"
+#    url = "about"
+#
+#[[languages.en.Menu.Main]]
+#    name = "FAQ"
+#    identifier = "020_faq"
+#    url = "faq"
+#
+#[[languages.en.Menu.Main]]
+#    name = "Episodes"
+#    identifier = "040_episode"
+#    url = "episode"
+#
+#[[languages.en.Menu.Main]]
+#    name = "Future"
+#    identifier = "060_future"
+#    url = "future"
+#[[languages.ja.Menu.Main]]
+#   name = "概要"
+#   identifier = "010_about"
+#   url = "about"
+#
+#[[languages.ja.Menu.Main]]
+#    name = "FAQ"
+#    identifier = "020_faq"
+#    url = "faq"
+#
+#[[languages.ja.Menu.Main]]
+#    name = "Episode"
+#    identifier = "040_episode"
+#    url = "episode"
+#
+#[[languages.ja.Menu.Main]]
+#    name = "後の予定"
+#    identifier = "060_future"
+#    url = "future"
+
 
 [params]
 site_theme = "blue"

@@ -46,7 +46,7 @@ That's not really going to work, given how the tracks merge and split.  If the t
 
 *Is it finished?*
 
-It's going to be about as high as [http://mt2.robnugen.com](Marble Track 2), so no, not yet.
+It's going to be about as high as [Marble Track 2](http://mt2.robnugen.com), so no, not yet.
 
 *When will you finish?*
 

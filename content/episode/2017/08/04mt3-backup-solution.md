@@ -18,7 +18,7 @@ know where / how people can access them).  Oh, and I could not get
 duplicity to work.
 
 Similar to <a
-href="/journal/2013/05/18/using-duplicity-to-backup-marble-track-3/">using
+href="https://new.robnugen.com/journal/2013/05/18/using-duplicity-to-backup-marble-track-3/">using
 duplicity to backup MT3</a>
 
     pip install boto-rsync

@@ -12,8 +12,8 @@ vertical bar is cut, but I have not taken the photo for that cut.  The
 green guy has swiped his sword, and I cut the bar, but.. let's just
 say they are not poised for the shot.
 
-[![2017 nov 23 between takes after vertical bar cut](//b.robnugen.com/art/marble_track_3/construction/thumbs/2017_nov_23_between_takes_after_vertical_bar_cut.jpg)](//b.robnugen.com/art/marble_track_3/construction/2017_nov_23_between_takes_after_vertical_bar_cut.jpg)
-[![2017 nov 23 (above) between takes after vertical bar cut](//b.robnugen.com/art/marble_track_3/construction/thumbs/2017_nov_23_above_between_takes_after_vertical_bar_cut.jpg)](//b.robnugen.com/art/marble_track_3/construction/2017_nov_23_above_between_takes_after_vertical_bar_cut.jpg)
+[![2017 nov 23 between takes after vertical bar cut](//b.robnugen.com/art/marble_track_3/construction/thumbs/2017/2017_nov_23_between_takes_after_vertical_bar_cut.jpg)](//b.robnugen.com/art/marble_track_3/construction/2017/2017_nov_23_between_takes_after_vertical_bar_cut.jpg)
+[![2017 nov 23 (above) between takes after vertical bar cut](//b.robnugen.com/art/marble_track_3/construction/thumbs/2017/2017_nov_23_above_between_takes_after_vertical_bar_cut.jpg)](//b.robnugen.com/art/marble_track_3/construction/2017/2017_nov_23_above_between_takes_after_vertical_bar_cut.jpg)
 
 Since June 2017, I have
 spent

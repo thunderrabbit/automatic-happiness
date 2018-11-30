@@ -1,6 +1,7 @@
 +++
 Title = "G. Choppy, professional cutter"
 date = "2017-06-10T09:12:39-05:00"
+Weight = 0015
 Type = "workers"
 Thumbnail = "https://b.robnugen.com/art/marble_track_3/workers/2018/thumbs/g_choppy.jpg"
 Image = "https://b.robnugen.com/art/marble_track_3/workers/2018/g_choppy.jpg"
@@ -21,4 +22,4 @@ But cuts are essentially binary.  A piece is either cut or not cut, so it takes 
 
 G. Choppy, then known as "the green cutter", was in the first attempt at marble track 3 movie from back 6 years ago or so.
 
-As of this writing (Nov 2018) G Choppy is about to cut the third chopstick which will support the [Outer Spiral](/p/os).  It is quite close to the beginning of the outer spiral, listing at an angle near the [Lowest Largest U-turn](/p/llut).
+As of this writing (Nov 2018) G Choppy has just cut the fourth chopstick which will support the [Outer Spiral](/p/os).  It is quite close to the beginning of the outer spiral, listing at an angle near the [Lowest Largest U-turn](/p/llut).
