@@ -12,6 +12,7 @@ Description: "Candy Mama has to take a break after an accident sends the track s
 Aliases: [
   "/ja/snip/0060"
 ]
+draft: true
 ---
 
 0060_super_spin_cycle.md
