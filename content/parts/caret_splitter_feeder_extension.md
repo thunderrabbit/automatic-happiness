@@ -1,8 +1,8 @@
 +++
 title = "Caret Splitter Feeder Extension"
 type = "parts"
-Thumbnail = "https://b.robnugen.com/art/marble_track_3/construction/2018/thumbs/2018_nov_08_caret_splitter_top_view.jpg"
-Image = "https://b.robnugen.com/art/marble_track_3/construction/2018/2018_nov_08_caret_splitter_top_view.jpg"
+Thumbnail = "//b.robnugen.com/art/marble_track_3/construction/2018/thumbs/2018_nov_29_traffic_jam.jpg"
+Image = "//b.robnugen.com/art/marble_track_3/construction/2018/2018_nov_29_traffic_jam.jpg"
 Description = "Feeds medium and small marbles to Caret Splitter Feeder"
 weight = 0050
 workers = [
@@ -20,3 +20,5 @@ The Caret Splitter Feeder Extension will feed small and medium marbles to the [C
 History:
 
 * 2018 Nov: Squarehead brought it up the ramp
+
+[![2018 nov 29 traffic jam](//b.robnugen.com/art/marble_track_3/construction/2018/thumbs/2018_nov_29_traffic_jam.jpg)](//b.robnugen.com/art/marble_track_3/construction/2018/2018_nov_29_traffic_jam.jpg)
