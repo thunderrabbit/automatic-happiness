@@ -17,7 +17,7 @@ Aliases = [
 
 This piece is the first to not be placed at the full height it needs
 to be for the [Outer Spiral](/p/os), but will first hold the
-[Caret Splitter Extension](/p/cse) and then be extended vertically a
+[Caret Splitter Feeder](/p/csf) and then be extended vertically a
 bit to hold the Outer Spiral.
 
 The Fourth Placed Outer Spiral Support was glued into place near the
