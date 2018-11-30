@@ -27,9 +27,16 @@ Candy Mama brings a marble onto the stage, which causes a Dr Sugar to slide back
 
 Candy Mama brings in the first sticks which will be used for the Left and Right Small Landing Zones, respectively.  
 
-While Candy Mama helps Mr Greene, Dr Sugar, and Pinky bring in a large marble, Reversible Guy brings in two skewers which will be used for The First Track.  Dr Sugar has a small green marble on his foot, which Mr Greene puts up on the stage.
+While Candy Mama helps Mr Greene, Dr Sugar, and Pinky bring in a large marble, Reversible Guy brings in two skewers which will be used for The First Track.  Dr Sugar has a small marble on his foot, which Mr Greene puts up on the stage.
 
-Lil Brother is facinated by the large marble, and watches it while Big Brother puts the skewers in place for the First Track.  Candy Mama arranges some of the pieces, and then tosses two supports like hockey pucks under the First Track skewers.
+While Mr McGlue comes up to glue The First Track in place, the small marble is caught by the hook that has been embedded into the wall, but sticks out over the stage.
 
+Lil Brother is fascinated by the large marble, and watches it while Big Brother puts the skewers in place for the First Track.  Candy Mama arranges some of the pieces, and then tosses two supports like hockey pucks under the First Track skewers.
 
+Lil Brother excitedly spins around then pushes the large marble to the upper end of the First Track.  Dr Sugar turns off the stage rotation so the movie audience has a good view of The First Roll.  Meanwhile, all the workers come up to watch the first roll.
 
+Tensions are high.  On stage are Candy Mama, Big Brother, Mr McGlue, Dr Sugar, and Lil Brother (who will actually start The First Roll).  Reversible Guy stays safely offstage, watching from behind.  Squarehead is ready to catch the ball should it go past the end of the track.
+
+[Lil Brother pushes the large marble, sending it down the track](https://youtu.be/nLTq10c6FP8?t=56).  Once it reaches the bottom, everyone is incredulous.  Did it really work?  Suddenly everyone erupts with joyous celebration. We did it!
+
+After the celebration, Reversible Guy wants to try it again and again, then finally gives the large marble a pet on the head like a good dog.
