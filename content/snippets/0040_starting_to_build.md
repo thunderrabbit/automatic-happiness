@@ -27,7 +27,7 @@ Candy Mama brings a marble onto the stage, which causes a Dr Sugar to slide back
 
 Candy Mama brings in the first sticks which will be used for the Left and Right Small Landing Zones, respectively.  
 
-While Candy Mama helps Mr Greene, Dr Sugar, and Pinky bring in a large marble, Reversible Guy brings in two skewers which will be used for The First Track.
+While Candy Mama helps Mr Greene, Dr Sugar, and Pinky bring in a large marble, Reversible Guy brings in two skewers which will be used for The First Track.  Dr Sugar has a small green marble on his foot, which Mr Greene puts up on the stage.
 
 Lil Brother is facinated by the large marble, and watches it while Big Brother puts the skewers in place for the First Track.  Candy Mama arranges some of the pieces, and then tosses two supports like hockey pucks under the First Track skewers.
 
