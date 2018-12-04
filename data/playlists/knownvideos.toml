@@ -139,9 +139,9 @@
     VideoType = 2
   [Videos.2qrDynXdPnA]
     VideoId = "2qrDynXdPnA"
-    Title = "Marble Track 3 construction Live Stream"
+    Title = "Marble Track 3 construction Live Stream: before (and after) gluing 6th placed outer spiral support"
     Published = 2018-11-29T01:04:23Z
-    Duration = 0
+    Duration = 5165000000000
     VideoType = 1
   [Videos.3QNEW8hqHyU]
     VideoId = "3QNEW8hqHyU"
@@ -461,6 +461,12 @@
     Published = 2017-09-01T11:15:59Z
     Duration = 16000000000
     VideoType = 2
+  [Videos.BxD8w0_8iew]
+    VideoId = "BxD8w0_8iew"
+    Title = "Marble Track 3: before gluing sixth placed outer spiral support"
+    Published = 2018-12-04T02:35:53Z
+    Duration = 17000000000
+    VideoType = 2
   [Videos.C42QgmkaZTk]
     VideoId = "C42QgmkaZTk"
     Title = "Marble Track 3: progressing nicely"
@@ -658,6 +664,12 @@
     Title = "Marble Track 3 construction Live Stream"
     Published = 2018-05-13T09:29:31Z
     Duration = 2191000000000
+    VideoType = 1
+  [Videos.J0YzojcOIRo]
+    VideoId = "J0YzojcOIRo"
+    Title = "Marble Track 3 construction Live Stream"
+    Published = 2018-12-04T02:20:19Z
+    Duration = 0
     VideoType = 1
   [Videos.J6wzdFQO2II]
     VideoId = "J6wzdFQO2II"

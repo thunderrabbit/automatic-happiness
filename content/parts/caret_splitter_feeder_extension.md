@@ -19,6 +19,12 @@ The Caret Splitter Feeder Extension will feed small and medium marbles to the [C
 
 History:
 
+* 2018 Dec: Glued in place by Mr McGlue
+
+[![2018 dec 04 csfe 1](//b.robnugen.com/art/marble_track_3/track/parts/thumbs/2018_dec_04_csfe_1.jpg)](//b.robnugen.com/art/marble_track_3/track/parts/2018_dec_04_csfe_1.jpg)
+[![2018 dec 04 csfe 2](//b.robnugen.com/art/marble_track_3/track/parts/thumbs/2018_dec_04_csfe_2.jpg)](//b.robnugen.com/art/marble_track_3/track/parts/2018_dec_04_csfe_2.jpg)
+[![2018 dec 04 csfe 3](//b.robnugen.com/art/marble_track_3/track/parts/thumbs/2018_dec_04_csfe_3.jpg)](//b.robnugen.com/art/marble_track_3/track/parts/2018_dec_04_csfe_3.jpg)
+
 * 2018 Nov: Squarehead brought it up the ramp
 
 [![2018 nov 29 traffic jam](//b.robnugen.com/art/marble_track_3/construction/2018/thumbs/2018_nov_29_traffic_jam.jpg)](//b.robnugen.com/art/marble_track_3/construction/2018/2018_nov_29_traffic_jam.jpg)
