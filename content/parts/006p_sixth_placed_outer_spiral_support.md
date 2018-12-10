@@ -15,10 +15,8 @@ Aliases = [
 ]
 +++
 
-Glued, but not yet filmed.
+DNE.  The image above is actually the 5th Placed Outer Spiral Support.
 
 History:
 
-* 04 Dec 2018: The piece is glued in place, but has not yet been cut by G-Choppy on film.
-
-[![2018 Dec 04 Sixth](//b.robnugen.com/art/marble_track_3/track/parts/thumbs/2018_dec_04_sixth_placed_outer_spiral_support.jpg)](//b.robnugen.com/art/marble_track_3/track/parts/2018_dec_04_sixth_placed_outer_spiral_support.jpg)
+* 04 Dec 2018: miscounted the [5th placed outer spiral support](/p/5poss) as this one
