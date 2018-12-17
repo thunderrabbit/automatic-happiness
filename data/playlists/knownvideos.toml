@@ -969,7 +969,7 @@
     VideoId = "RJbP6no_5Gg"
     Title = "Marble Track 3 construction Live Stream"
     Published = 2018-12-10T02:41:42Z
-    Duration = 0
+    Duration = 6618000000000
     VideoType = 1
   [Videos.SSdJn5l0fLY]
     VideoId = "SSdJn5l0fLY"
@@ -1973,6 +1973,12 @@
     Published = 2017-10-21T01:54:15Z
     Duration = 88000000000
     VideoType = 2
+  [Videos.z3HK_DwtI0E]
+    VideoId = "z3HK_DwtI0E"
+    Title = "Marble Track 3 construction Live Stream"
+    Published = 2018-12-17T03:56:12Z
+    Duration = 0
+    VideoType = 1
   [Videos.zCqvXIN_G1k]
     VideoId = "zCqvXIN_G1k"
     Title = "Marble Track 3 construction Live Stream:"

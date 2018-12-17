@@ -19,4 +19,5 @@ DNE.  The image above is actually the 5th Placed Outer Spiral Support.
 
 History:
 
+* 17 Dec 2018: decided to put it just inside the [Left Side Small Landing Zone](/p/lsslz)
 * 04 Dec 2018: miscounted the [5th placed outer spiral support](/p/5poss) as this one
