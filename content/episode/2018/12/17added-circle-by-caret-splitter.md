@@ -27,3 +27,9 @@ stage just inside the [Left Side Small Landing Zone](/p/lsslz).
 [![00010 002 10 X1 0255](//b.robnugen.com/art/marble_track_3/frames/2018/thumbs/00010_002_10_X1_0255.jpg)](//b.robnugen.com/art/marble_track_3/frames/2018/00010_002_10_X1_0255.jpg)
 [![00010 002 10 X1 0256](//b.robnugen.com/art/marble_track_3/frames/2018/thumbs/00010_002_10_X1_0256.jpg)](//b.robnugen.com/art/marble_track_3/frames/2018/00010_002_10_X1_0256.jpg)
 [![00010 002 10 X1 0257](//b.robnugen.com/art/marble_track_3/frames/2018/thumbs/00010_002_10_X1_0257.jpg)](//b.robnugen.com/art/marble_track_3/frames/2018/00010_002_10_X1_0257.jpg)
+
+In other news, I finished a page of plans, reminders of what is
+supposed to happen "next" on the track, for various definitions of
+next.
+
+[![2018 Nov 27 Dec 17 plans](//b.robnugen.com/art/marble_track_3/storyboard/thumbs/2018_Nov_27_Dec_17_plans.jpg)](//b.robnugen.com/art/marble_track_3/storyboard/2018_Nov_27_Dec_17_plans.jpg)
