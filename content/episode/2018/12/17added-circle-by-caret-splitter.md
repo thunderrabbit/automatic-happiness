@@ -3,7 +3,7 @@ title: "Added Circle by Caret Splitter"
 tags: [ "mt3", "livestream" ]
 author: Rob Nugen
 youtube: RJbP6no_5Gg
-episode_image: https://b.robnugen.com/art/marble_track_3/track/parts/2018_Dec_27_circle_by_caret_splitter.jpg
+episode_image: https://b.robnugen.com/art/marble_track_3/track/parts/2018_Dec_17_circle_by_caret_splitter.jpg
 date: 2018-12-17T13:14:17+09:00
 ---
 

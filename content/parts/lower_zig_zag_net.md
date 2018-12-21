@@ -19,7 +19,7 @@ History
 
 * 17 Dec 2018: Glued third rib onto Lower Zig Zag Net
 
-[![2018 Dec 27 lower zig zag net](//b.robnugen.com/art/marble_track_3/track/parts/thumbs/2018_Dec_27_lower_zig_zag_net.jpg)](//b.robnugen.com/art/marble_track_3/track/parts/2018_Dec_27_lower_zig_zag_net.jpg)
+[![2018 Dec 17 lower zig zag net](//b.robnugen.com/art/marble_track_3/track/parts/thumbs/2018_Dec_17_lower_zig_zag_net.jpg)](//b.robnugen.com/art/marble_track_3/track/parts/2018_Dec_17_lower_zig_zag_net.jpg)
 
 * 04 Dec 2018: Glued the first rib of the net onto Lower Zig Zag
 
