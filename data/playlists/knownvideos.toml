@@ -557,6 +557,12 @@
     Published = 2017-09-30T07:53:42Z
     Duration = 3021000000000
     VideoType = 1
+  [Videos.EqmBxhDiaU8]
+    VideoId = "EqmBxhDiaU8"
+    Title = "Marble Track 3 construction Live Stream"
+    Published = 2018-12-20T01:22:41Z
+    Duration = 0
+    VideoType = 1
   [Videos.F85FNLFNzeM]
     VideoId = "F85FNLFNzeM"
     Title = "Marble Track 3 construction Live Stream: added two segments to outer spiral"
@@ -961,14 +967,14 @@
     VideoType = 1
   [Videos.R-sVbXsN3j8]
     VideoId = "R-sVbXsN3j8"
-    Title = "Marble Track 3 construction Live Stream"
+    Title = "Marble Track 3 construction Live Stream: Helpful Snakes"
     Published = 2018-05-15T06:10:58Z
     Duration = 5236000000000
     VideoType = 1
   [Videos.RJbP6no_5Gg]
     VideoId = "RJbP6no_5Gg"
-    Title = "Marble Track 3 construction Live Stream"
-    Published = 2018-12-10T02:41:42Z
+    Title = "Marble Track 3 construction Live Stream: Added Circle by Caret Splitter"
+    Published = 2018-12-17T04:37:16Z
     Duration = 6618000000000
     VideoType = 1
   [Videos.SSdJn5l0fLY]
@@ -1975,9 +1981,9 @@
     VideoType = 2
   [Videos.z3HK_DwtI0E]
     VideoId = "z3HK_DwtI0E"
-    Title = "Marble Track 3 construction Live Stream"
+    Title = "Marble Track 3 construction Live Stream: Glued Sixth Placed Outer Spiral Support"
     Published = 2018-12-17T03:56:12Z
-    Duration = 0
+    Duration = 6553000000000
     VideoType = 1
   [Videos.zCqvXIN_G1k]
     VideoId = "zCqvXIN_G1k"
