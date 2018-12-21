@@ -1,5 +1,5 @@
 ---
-title: "Before Gluing Sixth Placed Outer Spiral Support"
+title: "Before Gluing Fifth Placed Outer Spiral Support"
 tags: [ "mt3", "snippet", "livestream", "6poss" ]
 author: Rob Nugen
 youtube: 2qrDynXdPnA
@@ -11,7 +11,7 @@ Today I got the traffic jam sorted by the Caret Splitter, and actually
 got three (3) pieces glued:
 
 * the [Caret Splitter Feeder Extension](/p/csfe)
-* the [Sixth Placed Outer Spiral Support](/p/6poss)
+* the [Fifth Placed Outer Spiral Support](/p/5poss)
 * one piece from the [Lower Zig Zag Net](/p/lzzn)
 
 Here is the most recent snippet {{< youtube BxD8w0_8iew >}}

@@ -1,8 +1,8 @@
 +++
 title = "Fifth Placed Outer Spiral Support"
 type = "parts"
-Thumbnail = "https://b.robnugen.com/art/marble_track_3/construction/2018/thumbs/2018_Dec_10_fifth_placed_oss_17.jpg"
-Image = "https://b.robnugen.com/art/marble_track_3/construction/2018/2018_Dec_10_fifth_placed_oss_17.jpg"
+Thumbnail = "https://b.robnugen.com/art/marble_track_3/track/parts/thumbs/2018_Dec_10_fifth_placed_oss_17.jpg"
+Image = "https://b.robnugen.com/art/marble_track_3/track/parts/2018_Dec_10_fifth_placed_oss_17.jpg"
 Description = "Fifth Placed Outer Spiral Support"
 weight = 0520
 workers = [
