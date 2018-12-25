@@ -13,8 +13,10 @@ Aliases = [
 ]
 +++
 
+Will hold the [Bar Below Circle by Caret Splitter](/p/bbcbcs/) to keep small marbles from falling onto [The First Track](/p/tft)
 
 History:
 
-* 17 Dec 2018 Candy Mama put it in place, but it has not been glued yet by Mr McGlue
+* 25 Dec 2018: Mr McGlue glued it in place.  Big Brother attached [Bar Below Circle by Caret Splitter](/p/bbcbcs/)
+* 17 Dec 2018: Candy Mama put it in place, but it has not been glued yet by Mr McGlue
 

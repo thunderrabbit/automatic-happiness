@@ -559,9 +559,9 @@
     VideoType = 1
   [Videos.EqmBxhDiaU8]
     VideoId = "EqmBxhDiaU8"
-    Title = "Marble Track 3 construction Live Stream"
+    Title = "Marble Track 3 construction Live Stream: glued 6p outer spiral support 1"
     Published = 2018-12-20T01:22:41Z
-    Duration = 0
+    Duration = 3877000000000
     VideoType = 1
   [Videos.F85FNLFNzeM]
     VideoId = "F85FNLFNzeM"
@@ -586,6 +586,12 @@
     Title = "Marble Track 3 construction Live Stream: first rails and marbles on stage"
     Published = 2017-09-28T06:43:39Z
     Duration = 6991000000000
+    VideoType = 1
+  [Videos.FeCtR2u2sCU]
+    VideoId = "FeCtR2u2sCU"
+    Title = "Marble Track 3 construction Live Stream"
+    Published = 2018-12-25T02:57:50Z
+    Duration = 0
     VideoType = 1
   [Videos.FmAfS6xwEHs]
     VideoId = "FmAfS6xwEHs"
@@ -1193,6 +1199,12 @@
     Published = 2018-09-15T23:25:06Z
     Duration = 539000000000
     VideoType = 1
+  [Videos.Y62tEhYz0LU]
+    VideoId = "Y62tEhYz0LU"
+    Title = "Marble Track 3 construction Live Stream: glued 6p outer spiral support 2"
+    Published = 2018-12-25T03:33:41Z
+    Duration = 4141000000000
+    VideoType = 1
   [Videos.Yn5x7M6uZ_A]
     VideoId = "Yn5x7M6uZ_A"
     Title = "Marble Track 3 blooper: featuring Catzilla (Jennie)"
@@ -1427,6 +1439,12 @@
     Published = 2017-11-28T04:06:42Z
     Duration = 3871000000000
     VideoType = 1
+  [Videos.gJ-zilVNpHI]
+    VideoId = "gJ-zilVNpHI"
+    Title = "Marble Track 3: glued 6p outer spiral support"
+    Published = 2018-12-25T03:48:29Z
+    Duration = 20000000000
+    VideoType = 2
   [Videos.gdWZ6HDW_2M]
     VideoId = "gdWZ6HDW_2M"
     Title = "Marble Track 3 construction Live Stream: add next rail on outer spiral"
