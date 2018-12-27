@@ -14,7 +14,7 @@ One-time support can be given via [paypal.me/marbletrack3](https://www.paypal.me
 
 Via bank transfer in Japan:
 
-    三菱東京UFJ銀行
-    恵比寿支店
-    普通1538391
-    ヌジエン ジュニア ロバート デール
+    Mitsubishi Tokyo UFJ Bank
+    Ebisu branch
+    Regular account 1538391
+    Nugen Jr Robert Dale
