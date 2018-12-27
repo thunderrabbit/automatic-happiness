@@ -17,7 +17,7 @@ date = 2018-12-20T17:49:46+09:00
 +++
 
 
-https://b.robnugen.com/art/marble_track_3/construction/2018/2018_Dec_20_medium_catcher_below_triple_splitter_overview.jpg
+[![2018 Dec 20 medium catcher below triple splitter overview](//b.robnugen.com/art/marble_track_3/construction/2018/thumbs/2018_Dec_20_medium_catcher_below_triple_splitter_overview.jpg)](//b.robnugen.com/art/marble_track_3/construction/2018/2018_Dec_20_medium_catcher_below_triple_splitter_overview.jpg)
 
 The Medium Catcher Below [Triple Splitter](/p/ts) is an oval which
 guides medium marbles toward the
@@ -29,8 +29,9 @@ in the movie.
 
 History:
 
+* 27 Dec 2018: Squarehead has picked up the [Two Ends Chopped Off Triple Splitter](/p/tecots) and is bringing them to be used on the Medium Catcher Below Triple Splitter.
 * 20 Dec 2018: [Little Brother](/w/lil) is holding the piece until Mr McGlue can glue it in place.
 
 Here he is practicing said support.
 
-https://b.robnugen.com/art/marble_track_3/construction/2018/2018_Dec_20_lil_brother_practicing_holding_mcbts.jpg
+[![2018 Dec 20 lil brother practicing holding mcbts](//b.robnugen.com/art/marble_track_3/construction/2018/thumbs/2018_Dec_20_lil_brother_practicing_holding_mcbts.jpg)](//b.robnugen.com/art/marble_track_3/construction/2018/2018_Dec_20_lil_brother_practicing_holding_mcbts.jpg)
