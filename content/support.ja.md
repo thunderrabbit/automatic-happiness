@@ -6,7 +6,7 @@ Thumbnail = ""
 Image = ""
 +++
 
-You can support Marble Track 3 Construction in a variety of ways.  Once Marble Track 3 Construction is finished, the person or entity who has donated the most money will receive the actual Marble Track 3 track itself.
+You can support Marble Track 3 Construction in a variety of ways.  Once Marble Track 3 Construction is finished, the person or entity who has given the most support will receive the actual Marble Track 3 track itself.
 
 Monthly support can be given [Marble Track 3 on Patreon](https://www.patreon.com/marbletrack3).  Patrons get to see snippets before the rest of the world, and can get access to *all* the frames of MT3 Construction.
 
