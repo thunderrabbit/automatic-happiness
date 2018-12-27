@@ -269,6 +269,12 @@
     Published = 2017-10-21T02:51:48Z
     Duration = 7050000000000
     VideoType = 1
+  [Videos.7X_asu666Zc]
+    VideoId = "7X_asu666Zc"
+    Title = "Marble Track 3 construction Live Stream"
+    Published = 2018-12-27T01:29:24Z
+    Duration = 0
+    VideoType = 1
   [Videos.7cTvh9k311U]
     VideoId = "7cTvh9k311U"
     Title = "Marble Track 3 construction Live Stream: pre delivered marbles"
@@ -589,9 +595,9 @@
     VideoType = 1
   [Videos.FeCtR2u2sCU]
     VideoId = "FeCtR2u2sCU"
-    Title = "Marble Track 3 construction Live Stream"
+    Title = "Marble Track 3 construction Live Stream: Finished Gluing Bar Below Circle by Caret Splitter"
     Published = 2018-12-25T02:57:50Z
-    Duration = 0
+    Duration = 5515000000000
     VideoType = 1
   [Videos.FmAfS6xwEHs]
     VideoId = "FmAfS6xwEHs"
