@@ -13,6 +13,7 @@ workers = [
 Aliases = [
     "/p/6poss"
 ]
+date = 2018-12-04T16:51:39+09:00
 +++
 
 This piece stands at an angle from just inside the [Left Side Small Landing Zone](/p/lsslz)

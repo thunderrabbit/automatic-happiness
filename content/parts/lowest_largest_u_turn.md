@@ -14,6 +14,7 @@ workers = [
 Aliases = [
   "/p/llut",
 ]
+date = 2018-11-15T14:06:52+09:00
 +++
 
 This image shows the Lowest Largest U-Turn being installed, 22 October 2017.

@@ -12,6 +12,7 @@ workers = [
 Aliases = [
     "/p/dwatlsms"
 ]
+date = 2018-11-15T14:06:52+09:00
 +++
 
 Pinky placed these soon after the First Snake-Installed Rail.  They are shaped somewhat like flowers or ice cream cones (albeit on their sides).

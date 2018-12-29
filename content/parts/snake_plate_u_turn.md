@@ -15,6 +15,7 @@ workers = [
 Aliases = [
     "/p/sput"
 ]
+date = 2018-11-15T10:23:59+09:00
 +++
 
 This U-turn sends large marbles back along their way after coming down the [Triple Splitter](/p/ts).  The U-turn is too tight for large marbles to stay on it without help from the [Snake Plate U-Turn Berm](/p/sputb)

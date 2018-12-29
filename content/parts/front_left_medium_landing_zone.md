@@ -13,6 +13,7 @@ workers = [
 Aliases = [
     "/p/flmlz"
 ]
+date = 2018-11-15T10:23:59+09:00
 +++
 
 This landing zone balances the Back Right Medium Landing Zone, and will soon be fed by the Caret Splitter.

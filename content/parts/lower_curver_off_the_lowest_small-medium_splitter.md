@@ -13,6 +13,7 @@ workers = [
 Aliases = [
     "/p/lcotlsms"
 ]
+date = 2018-11-15T14:06:52+09:00
 +++
 
 This is just a bit of track essentially parallel to the [Left Side Small Landing Zone](/p/lsslz).

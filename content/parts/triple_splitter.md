@@ -16,6 +16,7 @@ workers = [
 Aliases = [
   "/p/ts"
 ]
+date = 2018-09-21T17:38:54+09:00
 +++
 
 The (top of the) Triple Splitter sits opposite the [Caret Splitter](/p/cs).  The Triple Splitter is a section of track with non-parallel rails.  The large marbles make it all the way down the Triple Splitter, but the small marbles and medium marbles fall in the beginning and at the middle of the track, respectively.

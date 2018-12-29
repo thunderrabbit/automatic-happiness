@@ -12,6 +12,7 @@ workers = [
 Aliases = [
     "/p/usotlsms"
 ]
+date = 2018-11-15T10:23:59+09:00
 +++
 
 This is a small curved track that pushes medium marbles to the left, away from the [First Snake-Installed Rail](/p/fsir).

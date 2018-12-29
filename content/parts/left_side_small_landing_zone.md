@@ -14,6 +14,7 @@ workers = [
 Aliases = [
    "/p/lsslz"
 ]
+date = 2018-11-15T10:23:59+09:00
 +++
 
 This landing zone is fed by the [Caret Splitter](/p/cs/) and [Lowest Back Left Small Marble Curve](/p/lblsmc).

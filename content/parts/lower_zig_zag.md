@@ -15,6 +15,7 @@ Aliases = [
   "/p/lzz",
   "/lzz"
 ]
+date = 2018-09-21T17:38:54+09:00
 +++
 
 The Lower Zig Zag currently has a zig and a zag.  I had planned to make it have 3 or 4 zigs and zags, but there simply was not room to have that many back and forth tracks in the vertical space.

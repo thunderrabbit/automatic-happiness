@@ -13,6 +13,7 @@ workers = [
 Aliases = [
     "/p/1poss"
 ]
+date = 2018-11-20T14:19:45+09:00
 +++
 
 This is not the first support for the Outer Spiral in terms of size or distance from either end of the Outer Spiral.  It is the first support that was installed to support the Outer Spiral.

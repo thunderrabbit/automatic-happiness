@@ -12,6 +12,7 @@ workers = [
 Aliases = [
     "/p/llbps"
 ]
+date = 2018-11-15T14:06:52+09:00
 +++
 
 This is a single rail which guides the Largest Marble down from the [Snake Plate U-Turn](/p/sput) to the [Lowest Largest U-Turn](/p/llut).

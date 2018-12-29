@@ -13,6 +13,7 @@ workers = [
 Aliases = [
   "/p/os"
 ]
+date = 2018-09-21T17:38:54+09:00
 +++
 
 The outer spiral hasn't fully been created. I have created the demo Outer Spiral, shown in the image.  The plan is for the real outer spiral to pass large and medium marbles onto the triple splitter, without affecting any of the track below.

@@ -13,6 +13,7 @@ workers = [
 Aliases = [
     "/p/blzzt"
 ]
+date = 2018-11-15T10:23:59+09:00
 +++
 
 This is a short segment of track that runs under the [Snake Plate U-Turn](/p/sput).  It guides marbles from the [Lower Zig Zag](/p/lzz) to the [Right Side Small Landing Zone](/p/rsslz).

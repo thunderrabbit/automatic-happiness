@@ -13,6 +13,7 @@ workers = [
 Aliases = [
     "/p/5poss"
 ]
+date = 2018-11-29T14:46:29+09:00
 +++
 
 The Fifth Placed Outer Spiral Support is on the outer edge of the stage, right at the bottom of the Caret Splitter Right Hand Ramp.  As of 10 December 2018, it has not yet glued by Mr McGlue, but has been cut by G Choppy.

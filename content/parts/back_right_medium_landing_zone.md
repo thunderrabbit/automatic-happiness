@@ -12,6 +12,7 @@ workers = [
 Aliases = [
     "/p/brmlz"
 ]
+date = 2018-11-15T14:06:52+09:00
 +++
 
 This landing zone balances the Front Left Medium Landing Zone, and

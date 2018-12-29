@@ -13,6 +13,7 @@ workers = [
 Aliases = [
     "/p/tlsms"
 ]
+date = 2018-11-15T10:23:59+09:00
 +++
 
 This is a long track next to The First Track, but for small and medium marbles after they come down the left side of the [Caret Splitter](/p/cs/).

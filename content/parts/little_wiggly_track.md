@@ -13,6 +13,7 @@ workers = [
 Aliases = [
     "/p/lwt"
 ]
+date = 2018-09-21T17:38:54+09:00
 +++
 
 The Little Wiggly Track will catch small marbles that come out of the Triple Splitter.   Above shows a side view.

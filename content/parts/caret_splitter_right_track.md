@@ -13,6 +13,7 @@ workers = [
 Aliases = [
     "/p/csrt"
 ]
+date = 2018-11-15T14:06:52+09:00
 +++
 
 This track is only for the small marbles, leading them quick quickly from the [Caret Splitter Entrance](/p/cs) to the [Left Side Small Landing Zone](/p/lsslz).

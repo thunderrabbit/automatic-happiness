@@ -13,6 +13,7 @@ workers = [
 Aliases = [
     "/p/csf"
 ]
+date = 2018-11-17T15:33:21+09:00
 +++
 
 The Caret Splitter Feeder sends small and medium marbles to the [Caret Splitter](/p/cs).

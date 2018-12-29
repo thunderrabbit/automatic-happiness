@@ -16,6 +16,7 @@ workers = [
 Aliases = [
   "/ja/p/ts"
 ]
+date = 2018-09-21T17:38:54+09:00
 +++
 
 The Triple Splitter is a section of track with non-parallel rails.  The large marbles make it all the way down the track, but the medium marbles and small marbles fall in the middle and at the beginning of the track, respectively.

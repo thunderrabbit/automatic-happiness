@@ -13,6 +13,7 @@ workers = [
 Aliases = [
     "/p/csfe"
 ]
+date = 2018-11-30T09:09:07+09:00
 +++
 
 The Caret Splitter Feeder Extension will feed small and medium marbles to the [Caret Splitter Feeder](/p/csf).

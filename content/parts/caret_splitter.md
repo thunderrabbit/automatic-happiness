@@ -13,6 +13,7 @@ workers = [
 Aliases = [
     "/p/cs"
 ]
+date = 2018-11-09T21:37:34+09:00
 +++
 
 The Caret Splitter sits opposite the (top of the) [Triple Splitter](/p/ts).  It is the small section of track which spans the end of the medium marble resting point which does *not* involve the [Triple Splitter](/p/ts).  I named it Caret Splitter because it is shaped like vaguely like a caret ^.  It is actually shaped more like the Japanese character へ, when viewed from the direction the marbles will reach it.

@@ -16,6 +16,7 @@ Aliases = [
    "/p/lmb",
    "/parts/large_marble_berm"
 ]
+date = 2018-11-15T09:52:29+09:00
 +++
 
 The Snake Plate U-turn Berm keeps marbles on the [Snake Plate U-Turn](/p/sput).

@@ -13,6 +13,7 @@ workers = [
 Aliases = [
     "/p/3poss"
 ]
+date = 2018-11-20T14:19:45+09:00
 +++
 
 This piece stands at an angle near the

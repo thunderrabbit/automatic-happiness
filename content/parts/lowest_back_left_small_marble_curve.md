@@ -14,6 +14,7 @@ workers = [
 Aliases = [
     "/p/lblsmc"
 ]
+date = 2018-11-15T14:06:52+09:00
 +++
 
 This curve comes after the [Decorative Walls](/p/dwatlsms) that Pinky put in place.  It feeds into the [Left Side Small Landing Zone](/p/lsslz)
