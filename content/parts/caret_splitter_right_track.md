@@ -4,7 +4,6 @@ type = "parts"
 Thumbnail = "https://b.robnugen.com/art/marble_track_3/construction/2018/thumbs/2018_nov_08_caret_splitter_stuck_on_right.jpg"
 Image = "https://b.robnugen.com/art/marble_track_3/construction/2018/2018_nov_08_caret_splitter_stuck_on_right.jpg"
 Description = "Caret Splitter Right Track"
-weight = 0420
 workers = [
     "mr_mcglue",
     "g_choppy",

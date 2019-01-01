@@ -4,7 +4,6 @@ type = "parts"
 Thumbnail = "https://b.robnugen.com/art/marble_track_3/track/parts/thumbs/2018_nov_17_triple_splitter.jpg"
 Image = "https://b.robnugen.com/art/marble_track_3/track/parts/2018_nov_17_triple_splitter.jpg"
 Description = "Separates three sizes of marbles"
-weight = 0050
 workers = [
 	"g_choppy",
 	"mr_mcglue",

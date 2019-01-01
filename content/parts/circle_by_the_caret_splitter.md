@@ -4,7 +4,6 @@ type = "parts"
 Thumbnail = "https://b.robnugen.com/art/marble_track_3/track/parts/thumbs/2018_Dec_17_circle_by_caret_splitter.jpg"
 Image = "https://b.robnugen.com/art/marble_track_3/track/parts/2018_Dec_17_circle_by_caret_splitter.jpg"
 Description = "Will hopefully Separate two sizes of marbles"
-weight = 0050
 workers = [
     "candy_mama"
 ]

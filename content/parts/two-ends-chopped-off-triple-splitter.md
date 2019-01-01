@@ -5,7 +5,6 @@ tags = [ "short", "parts" ]
 image = "https://b.robnugen.com/art/marble_track_3/frames/2018/00010_002_08_X1_0635.jpg"
 thumbnail = "https://b.robnugen.com/art/marble_track_3/frames/2018/thumbs/00010_002_08_X1_0635.jpg"
 description = "Two Ends Chopped Off Triple Splitter"
-weight = 0620
 workers = [
     "g_choppy",
     "squarehead"

@@ -4,7 +4,6 @@ type = "parts"
 Thumbnail = "https://b.robnugen.com/art/marble_track_3/track/parts/thumbs/2018_sep_22_demo_outer_spiral.jpg"
 Image = "https://b.robnugen.com/art/marble_track_3/track/parts/2018_sep_22_demo_outer_spiral.jpg"
 Description = "Demo Spiral is complete"
-weight = 0020
 workers = [
     "mr_mcglue",
     "g_choppy",

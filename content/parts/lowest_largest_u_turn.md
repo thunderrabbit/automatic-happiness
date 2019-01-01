@@ -4,7 +4,6 @@ type = "parts"
 Thumbnail = "https://b.robnugen.com/art/marble_track_3/frames/2017/thumbs/00010_002_07_X1_1080.jpg"
 Image = "https://b.robnugen.com/art/marble_track_3/frames/2017/00010_002_07_X1_1080.jpg"
 Description = "For large marbles, next to Triple Splitter"
-weight = 900
 workers = [
     "mr_mcglue",
     "g_choppy",

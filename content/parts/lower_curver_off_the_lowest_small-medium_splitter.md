@@ -4,7 +4,6 @@ type = "parts"
 Thumbnail = "https://b.robnugen.com/art/marble_track_3/track/parts/thumbs/2018_nov_17_lower_curver_off_the_small_medium_splitter.jpg"
 Image = "https://b.robnugen.com/art/marble_track_3/track/parts/2018_nov_17_lower_curver_off_the_small_medium_splitter.jpg"
 Description = "Lower Curver off the Lowest Small-Medium Splitter"
-weight = 0820
 workers = [
     "mr_mcglue",
     "g_choppy",

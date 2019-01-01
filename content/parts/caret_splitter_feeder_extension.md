@@ -4,7 +4,6 @@ type = "parts"
 Thumbnail = "//b.robnugen.com/art/marble_track_3/construction/2018/thumbs/2018_nov_29_traffic_jam.jpg"
 Image = "//b.robnugen.com/art/marble_track_3/construction/2018/2018_nov_29_traffic_jam.jpg"
 Description = "Feeds medium and small marbles to Caret Splitter Feeder"
-weight = 0050
 workers = [
     "mr_mcglue",
     "g_choppy",

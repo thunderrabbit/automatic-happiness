@@ -4,7 +4,6 @@ type = "parts"
 Thumbnail = "https://b.robnugen.com/art/marble_track_3/track/parts/thumbs/2018_nov_17_first_placed_outer_spiral_support.jpg"
 Image = "https://b.robnugen.com/art/marble_track_3/track/parts/2018_nov_17_first_placed_outer_spiral_support.jpg"
 Description = "First Placed Outer Spiral Support"
-weight = 0155
 workers = [
     "mr_mcglue",
     "g_choppy",

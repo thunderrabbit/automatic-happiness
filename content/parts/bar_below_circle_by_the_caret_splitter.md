@@ -4,7 +4,6 @@ type = "parts"
 Thumbnail = "https://b.robnugen.com/art/marble_track_3/track/parts/thumbs/2018_Dec_25_bar_below_circle_by_caret_splitter.jpg"
 Image = "https://b.robnugen.com/art/marble_track_3/track/parts/2018_Dec_25_bar_below_circle_by_caret_splitter.jpg"
 Description = "Keeps small marbles from falling onto The First Track"
-weight = 0450
 workers = [
     "big_brother",
     "candy_mama",

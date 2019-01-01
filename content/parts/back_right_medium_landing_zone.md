@@ -4,7 +4,6 @@ type = "parts"
 Thumbnail = "https://b.robnugen.com/art/marble_track_3/track/parts/thumbs/2018_nov_17_back_right_medium_landing_zone_end.jpg"
 Image = "https://b.robnugen.com/art/marble_track_3/track/parts/2018_nov_17_back_right_medium_landing_zone_end.jpg"
 Description = "Back Right Medium Landing Zone"
-weight = 0055
 workers = [
     "mr_mcglue",
     "squarehead"

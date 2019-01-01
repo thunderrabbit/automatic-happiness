@@ -4,7 +4,6 @@ type = "parts"
 Thumbnail = "https://b.robnugen.com/art/marble_track_3/track/parts/thumbs/2018_nov_17_snake_plate_chopstick.jpg"
 Image = "https://b.robnugen.com/art/marble_track_3/track/parts/2018_nov_17_snake_plate_chopstick.jpg"
 Description = "Snake Plate Chopstick"
-weight = 0725
 workers = [
     "mr_mcglue",
     "g_choppy",

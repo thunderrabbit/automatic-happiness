@@ -5,7 +5,6 @@ tags = [ "oval", "medium" ]
 thumbnail = "https://b.robnugen.com/art/marble_track_3/construction/2018/thumbs/2018_Dec_20_medium_catcher_below_triple_splitter.jpg"
 image = "https://b.robnugen.com/art/marble_track_3/construction/2018/2018_Dec_20_medium_catcher_below_triple_splitter.jpg"
 description = "Medium Catcher Below Triple Splitter"
-weight = 0520
 workers = [
     "mr_mcglue",
     "lil_brother"

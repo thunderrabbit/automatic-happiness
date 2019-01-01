@@ -5,7 +5,6 @@ tags = [ "vertical", "support", "part" ]
 image = "https://b.robnugen.com/art/marble_track_3/construction/2018/2018_Dec_27_future_7th_placed_oss.jpg"
 thumbnail = "https://b.robnugen.com/art/marble_track_3/construction/2018/thumbs/2018_Dec_27_future_7th_placed_oss.jpg"
 description = "Seventh Placed Outer Spiral Support"
-weight = 0520
 workers = [
     "pinky"
 ]

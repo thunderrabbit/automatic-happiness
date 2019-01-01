@@ -5,7 +5,6 @@ tags = [ "short", "low", "rail" ]
 image = "https://b.robnugen.com/art/marble_track_3/construction/2019/2019_Jan_01_after_glue_2ecots2.jpg"
 thumbnail = "https://b.robnugen.com/art/marble_track_3/construction/2019/thumbs/2019_Jan_01_after_glue_2ecots2.jpg"
 description = "Guides into Back Right Medium Landing Zone"
-weight = 0520
 workers = [
     "squarehead",
     "mr_mcglue",

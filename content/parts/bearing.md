@@ -4,7 +4,6 @@ type = "parts"
 Thumbnail = "https://b.robnugen.com/art/marble_track_3/frames/2018/thumbs/00010_002_05_X1_1190.jpg"
 Image = "https://b.robnugen.com/art/marble_track_3/frames/2018/00010_002_05_X1_1190.jpg"
 Description = "Allows the stage to turn"
-weight = 5900
 workers = [
     "mr_mcglue",
 	"garinoppi"
