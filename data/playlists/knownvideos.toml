@@ -113,6 +113,12 @@
     Published = 2017-08-15T02:58:55Z
     Duration = 9578000000000
     VideoType = 1
+  [Videos.2-o5PIPV5O4]
+    VideoId = "2-o5PIPV5O4"
+    Title = "Marble Track 3 construction Live Stream: GiBRMLZ (fixed lower small-medium splitter) 3 of 3"
+    Published = 2019-01-01T01:22:09Z
+    Duration = 1854000000000
+    VideoType = 1
   [Videos.27dBriFpi_M]
     VideoId = "27dBriFpi_M"
     Title = "Marble Track 3: first small side wall"
@@ -271,9 +277,9 @@
     VideoType = 1
   [Videos.7X_asu666Zc]
     VideoId = "7X_asu666Zc"
-    Title = "Marble Track 3 construction Live Stream"
+    Title = "Marble Track 3 construction Live Stream: Introduced Backpack Jack"
     Published = 2018-12-27T01:29:24Z
-    Duration = 0
+    Duration = 7747000000000
     VideoType = 1
   [Videos.7cTvh9k311U]
     VideoId = "7cTvh9k311U"
@@ -1193,6 +1199,12 @@
     Published = 2017-08-01T01:12:08Z
     Duration = 228000000000
     VideoType = 1
+  [Videos.X_bCbcVJRaY]
+    VideoId = "X_bCbcVJRaY"
+    Title = "Marble Track 3 construction Live Stream: Guardrails into Back Right Medium Landing Zone 1 of 3"
+    Published = 2018-12-31T22:56:47Z
+    Duration = 1702000000000
+    VideoType = 1
   [Videos.XmZ_tijtir8]
     VideoId = "XmZ_tijtir8"
     Title = "Marble Track 3: started other small tracks"
@@ -1360,6 +1372,12 @@
     Title = "Marble Track 3 construction Live Stream: dual chopsticks arriving"
     Published = 2017-11-21T04:23:26Z
     Duration = 5054000000000
+    VideoType = 1
+  [Videos.cbbXuNWLp6A]
+    VideoId = "cbbXuNWLp6A"
+    Title = "Marble Track 3 construction Live Stream: Guardrails into Back Right Medium Landing Zone 2 of 3"
+    Published = 2019-01-01T00:20:30Z
+    Duration = 4005000000000
     VideoType = 1
   [Videos.dFszY3BsP4c]
     VideoId = "dFszY3BsP4c"
@@ -1811,6 +1829,12 @@
     Published = 2018-02-09T05:03:34Z
     Duration = 103000000000
     VideoType = 2
+  [Videos.sH6YdvTf7N8]
+    VideoId = "sH6YdvTf7N8"
+    Title = "Marble Track 3 construction Live Stream"
+    Published = 2019-01-01T00:44:09Z
+    Duration = 0
+    VideoType = 1
   [Videos.sHOqiZu3x9Y]
     VideoId = "sHOqiZu3x9Y"
     Title = "Marble Track 3: Glued second support for outer spiral"
