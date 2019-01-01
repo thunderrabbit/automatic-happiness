@@ -8,8 +8,7 @@ description = "Two Ends Chopped Off Triple Splitter"
 weight = 0620
 workers = [
     "g_choppy",
-    "squarehead",
-    "mr_mcgluek"
+    "squarehead"
 ]
 aliases = [
     "/p/tecots"
@@ -23,9 +22,13 @@ was no specific plan to use them.
 
 Over a year later in realtime, and about 10 minutes later in
 movie-time, they were picked up by Squarehead to act as supports /
-guides on the [Medium Catcher Below Triple Splitter](/p/mcbts).
+[guides](/p/gibrmlz) on the [Medium Catcher Below Triple Splitter](/p/mcbts).
 
 History:
+
+* 2019 Jan 01: These became [Guides into Back Right Medium Landing Zone](/p/gibrmlz)
+
+[![2019 Jan 01 after glue 2ecots2](//b.robnugen.com/art/marble_track_3/construction/2019/thumbs/2019_Jan_01_after_glue_2ecots2.jpg)](//b.robnugen.com/art/marble_track_3/construction/2019/2019_Jan_01_after_glue_2ecots2.jpg)
 
 * 2018 Dec 27: Squarehead brought ends to [Medium Catcher Below Triple Splitter](/p/mcbts)
 

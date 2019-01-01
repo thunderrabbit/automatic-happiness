@@ -26,4 +26,6 @@ at the end.
 
 #### Construction history
 
-As of Nov 2018, this landing zone is not yet connected to the Triple Spliter.  That's somewhat of a problem because the [Lower Zig Zag](/p/lzz) makes it hard to put anything under the Triple Splitter, much less a medium track.  Good thing it only needs to be short and straight.
+* 01 Jan 2019: [Dr Sugar](/w/ds) has placed the first (of two?) [Guides into Back Right Medium Landing Zone](/p/gibrmlz).
+* 20 Dec 2018: [Little Brother](/w/lil) is holding [Medium Catcher Below Triple Splitter](/p/mcbts) until Mr McGlue can glue it in place.
+* 15 Nov 2018: this landing zone is not yet connected to the Triple Spliter.  That's somewhat of a problem because the [Lower Zig Zag](/p/lzz) makes it hard to put anything under the Triple Splitter, much less a medium track.  Good thing it only needs to be short and straight.
