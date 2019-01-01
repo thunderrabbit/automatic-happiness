@@ -6,7 +6,9 @@ image = "https://b.robnugen.com/art/marble_track_3/construction/2018/2018_Dec_27
 thumbnail = "https://b.robnugen.com/art/marble_track_3/construction/2018/thumbs/2018_Dec_27_future_7th_placed_oss.jpg"
 description = "Seventh Placed Outer Spiral Support"
 workers = [
-    "pinky"
+    "pinky",
+    "reversible",
+    "mr_greene"
 ]
 aliases = [
     "/p/7poss"
