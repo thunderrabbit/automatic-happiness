@@ -5,9 +5,10 @@ tags = [ "small", "horizontal", "part" ]
 image = "https://b.robnugen.com/art/marble_track_3/workers/2019/2019_jan_01_backpack_jack_awaits.jpg"
 thumbnail = "https://b.robnugen.com/art/marble_track_3/workers/2019/thumbs/2019_jan_01_backpack_jack_awaits.jpg"
 description = "Triple Splitter Small Feeder"
-madaworkers = [
-    "mr_mcglue",
-    "g_choppy"
+workers = [
+	"backpack_jack",
+    "mr_mcglues",
+    "g_choppys"
 ]
 aliases = [
     "/p/tssf"

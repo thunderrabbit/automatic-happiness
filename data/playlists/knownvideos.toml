@@ -901,9 +901,9 @@
     VideoType = 2
   [Videos.P-waSsHJqT4]
     VideoId = "P-waSsHJqT4"
-    Title = "Marble Track 3 construction Live Stream"
+    Title = "Marble Track 3 construction Live Stream: almost glued seventh placed outer spiral support"
     Published = 2019-01-02T04:48:54Z
-    Duration = 0
+    Duration = 2508000000000
     VideoType = 1
   [Videos.P-zcUDDdGQc]
     VideoId = "P-zcUDDdGQc"
@@ -1493,6 +1493,12 @@
     Published = 2018-11-27T03:24:54Z
     Duration = 2072000000000
     VideoType = 1
+  [Videos.gmYQUc9hZdg]
+    VideoId = "gmYQUc9hZdg"
+    Title = "Marble Track 3 construction Live Stream"
+    Published = 2019-01-02T12:38:28Z
+    Duration = 0
+    VideoType = 1
   [Videos.gy0YS83ooms]
     VideoId = "gy0YS83ooms"
     Title = "Marble Track 3 construction Live Stream: twenty questions and reinforced outer spiral"
@@ -1775,6 +1781,12 @@
     Published = 2018-09-15T23:00:14Z
     Duration = 317000000000
     VideoType = 2
+  [Videos.pZBOZjoqNIA]
+    VideoId = "pZBOZjoqNIA"
+    Title = "Marble Track 3 construction Live Stream: glued seventh placed outer spiral support"
+    Published = 2019-01-02T13:15:46Z
+    Duration = 5272000000000
+    VideoType = 1
   [Videos.pa_aVE_oPDY]
     VideoId = "pa_aVE_oPDY"
     Title = "Marble Track 3 construction Live Stream: repaired large marble berm"
