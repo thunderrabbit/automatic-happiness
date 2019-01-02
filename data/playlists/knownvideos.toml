@@ -899,6 +899,12 @@
     Published = 2018-09-13T00:36:49Z
     Duration = 134000000000
     VideoType = 2
+  [Videos.P-waSsHJqT4]
+    VideoId = "P-waSsHJqT4"
+    Title = "Marble Track 3 construction Live Stream"
+    Published = 2019-01-02T04:48:54Z
+    Duration = 0
+    VideoType = 1
   [Videos.P-zcUDDdGQc]
     VideoId = "P-zcUDDdGQc"
     Title = "Marble Track 3 construction Live Stream: testing rolling marbles"
@@ -1091,6 +1097,12 @@
     Published = 2018-07-31T04:07:11Z
     Duration = 119000000000
     VideoType = 2
+  [Videos.Ur8z9FkeVgo]
+    VideoId = "Ur8z9FkeVgo"
+    Title = "Marble Track 3 construction Live Stream: slow progress day 2 of 2"
+    Published = 2019-01-02T02:45:03Z
+    Duration = 2145000000000
+    VideoType = 1
   [Videos.Uw6OXqRv_ko]
     VideoId = "Uw6OXqRv_ko"
     Title = "Marble Track 3 construction Live Stream: nearly ready for vertical support"
@@ -1831,9 +1843,9 @@
     VideoType = 2
   [Videos.sH6YdvTf7N8]
     VideoId = "sH6YdvTf7N8"
-    Title = "Marble Track 3 construction Live Stream"
+    Title = "Marble Track 3 construction Live Stream: slow progress day 1 of 2"
     Published = 2019-01-01T00:44:09Z
-    Duration = 0
+    Duration = 1335000000000
     VideoType = 1
   [Videos.sHOqiZu3x9Y]
     VideoId = "sHOqiZu3x9Y"

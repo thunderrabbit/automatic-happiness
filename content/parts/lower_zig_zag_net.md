@@ -17,6 +17,10 @@ date = 2018-11-29T14:46:29+09:00
 
 History
 
+* 02 Jan 2019: [Glued sixth rib onto Lower Zig Zag Net](/episode/2019/january/slow-progress-day/)
+
+[![2019 jan 02 waiting for lzzn 6 to dry](//b.robnugen.com/art/marble_track_3/construction/2019/thumbs/2019_jan_02_waiting_for_lzzn_6_to_dry.jpg)](//b.robnugen.com/art/marble_track_3/construction/2019/2019_jan_02_waiting_for_lzzn_6_to_dry.jpg)
+
 * 17 Dec 2018: Glued third rib onto Lower Zig Zag Net
 
 [![2018 Dec 17 lower zig zag net](//b.robnugen.com/art/marble_track_3/track/parts/thumbs/2018_Dec_17_lower_zig_zag_net.jpg)](//b.robnugen.com/art/marble_track_3/track/parts/2018_Dec_17_lower_zig_zag_net.jpg)
