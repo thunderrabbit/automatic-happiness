@@ -12,7 +12,7 @@ workers = [
 Aliases = [
     "/p/2poss"
 ]
-date = 2018-11-20T14:19:45+09:00
+date = 2018-11-10T14:19:45+09:00
 +++
 
 This piece stands outside the [Snake Plate U-Turn Berm](/p/sputb).  It was placed by [Reversible Guy](/w/rg) who caught the upper end which [G Choppy](/w/gc) cut off.  That upper end became the [Third Placed Outer Spiral Support](/p/3poss), on the opposite side of the stage, near the [Decorative Walls after the Lowest Small-Medium Splitter](/p/dwatlsms)
