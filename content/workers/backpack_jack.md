@@ -5,9 +5,11 @@ Type = "workers"
 Aliases = [
     "/w/bpj/"
 ]
-image = "/img/guest/default-guest.png"
-thumbnail = "/img/guest/thumbs/default-guest.png"
+image = "https://b.robnugen.com/art/marble_track_3/workers/2019/2019_jan_03_backpack_jack.jpg"
+thumbnail = "https://b.robnugen.com/art/marble_track_3/workers/2019/thumbs/2019_jan_03_backpack_jack.jpg"
 Description = "yellow with green backpack"
 +++
 
-Was one of the original characters from 2011 or so.
+Backpack Jack was one of the original characters from 2011 or so.
+
+I found him in my room during end of year cleaning as we entered 2019.
