@@ -551,6 +551,12 @@
     Published = 2018-07-14T03:36:58Z
     Duration = 6471000000000
     VideoType = 1
+  [Videos.EUpgisUZrac]
+    VideoId = "EUpgisUZrac"
+    Title = "Marble Track 3 construction Live Stream"
+    Published = 2019-01-03T06:42:53Z
+    Duration = 0
+    VideoType = 1
   [Videos.EVaJG5R56b0]
     VideoId = "EVaJG5R56b0"
     Title = "Marble Track 3: test crop blue background"
@@ -1495,9 +1501,9 @@
     VideoType = 1
   [Videos.gmYQUc9hZdg]
     VideoId = "gmYQUc9hZdg"
-    Title = "Marble Track 3 construction Live Stream"
+    Title = "Marble Track 3 construction Live Stream: Cut and Glued 7th Placed Outer Spiral Support"
     Published = 2019-01-02T12:38:28Z
-    Duration = 0
+    Duration = 5770000000000
     VideoType = 1
   [Videos.gy0YS83ooms]
     VideoId = "gy0YS83ooms"
