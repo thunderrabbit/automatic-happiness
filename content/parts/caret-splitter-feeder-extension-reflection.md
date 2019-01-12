@@ -5,7 +5,6 @@ tags = [ "caret", "horizontal", "small", "medium", "track" ]
 image = "https://b.robnugen.com/art/marble_track_3/track/parts/2019/2019_jan_02_caret_splitter_feeder_extension_reflection_stand-in.jpg"
 thumbnail = "https://b.robnugen.com/art/marble_track_3/track/parts/2019/thumbs/2019_jan_02_caret_splitter_feeder_extension_reflection_stand-in.jpg"
 description = "Caret Splitter Feeder Extension Reflection"
-weight = 0520
 workers = [
 	"squarehead",
     "mr_mcglues",
@@ -20,6 +19,8 @@ date = 2019-01-02T22:34:20+09:00
 This piece will essentially roll small and medium marbles from the
 middle of the track to bounce off the outer spiral and then into the
 [Caret Splitter](/p/cs) via its [Feeder](/p/csf) and [Extension](/p/csfe).
+
+Will be supported by the [Caret Splitter Feeder Extension Reflection Stanchion](/p/csfers).
 
 History:
 

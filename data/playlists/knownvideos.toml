@@ -449,6 +449,12 @@
     Published = 2017-11-25T09:00:33Z
     Duration = 5999000000000
     VideoType = 1
+  [Videos.BUf5a1oZacE]
+    VideoId = "BUf5a1oZacE"
+    Title = "Marble Track 3 construction Live Stream: almost placed 8poss"
+    Published = 2019-01-12T02:36:30Z
+    Duration = 2240000000000
+    VideoType = 1
   [Videos.BjtpiRxoxvU]
     VideoId = "BjtpiRxoxvU"
     Title = "Marble Track 3 construction Live Stream: just before the first roll"
@@ -553,9 +559,9 @@
     VideoType = 1
   [Videos.EUpgisUZrac]
     VideoId = "EUpgisUZrac"
-    Title = "Marble Track 3 construction Live Stream"
+    Title = "Marble Track 3 construction Live Stream: almost tested medium marble"
     Published = 2019-01-03T06:42:53Z
-    Duration = 0
+    Duration = 7273000000000
     VideoType = 1
   [Videos.EVaJG5R56b0]
     VideoId = "EVaJG5R56b0"
@@ -893,6 +899,12 @@
     Published = 2018-03-31T12:20:10Z
     Duration = 2305000000000
     VideoType = 1
+  [Videos.OHCg01--Zsc]
+    VideoId = "OHCg01--Zsc"
+    Title = "Marble Track 3: cut and glued 7th outer spiral support"
+    Published = 2019-01-03T09:33:43Z
+    Duration = 23000000000
+    VideoType = 2
   [Videos.OKXS1a8A3RI]
     VideoId = "OKXS1a8A3RI"
     Title = "Marble Track 3 construction Live Stream: started starting to put together skeleton"
@@ -1000,6 +1012,12 @@
     Title = "Marble Track 3 construction Live Stream: Helpful Snakes"
     Published = 2018-05-15T06:10:58Z
     Duration = 5236000000000
+    VideoType = 1
+  [Videos.RIIhbfqS6KQ]
+    VideoId = "RIIhbfqS6KQ"
+    Title = "Marble Track 3 construction Live Stream"
+    Published = 2019-01-12T01:58:33Z
+    Duration = 0
     VideoType = 1
   [Videos.RJbP6no_5Gg]
     VideoId = "RJbP6no_5Gg"
@@ -1781,6 +1799,12 @@
     Published = 2018-11-06T06:01:14Z
     Duration = 2804000000000
     VideoType = 1
+  [Videos.pOUJcgSccEA]
+    VideoId = "pOUJcgSccEA"
+    Title = "Marble Track 3 construction Live Stream: tested medium marble"
+    Published = 2019-01-12T01:28:37Z
+    Duration = 4478000000000
+    VideoType = 1
   [Videos.pZ3stsy97ck]
     VideoId = "pZ3stsy97ck"
     Title = "Marble Track 3 Patreon take 1"
@@ -1847,6 +1871,12 @@
     Published = 2018-03-06T07:35:59Z
     Duration = 9000000000
     VideoType = 2
+  [Videos.rvsJBulcd7Y]
+    VideoId = "rvsJBulcd7Y"
+    Title = "Marble Track 3 construction Live Stream"
+    Published = 2019-01-12T01:58:33Z
+    Duration = 0
+    VideoType = 1
   [Videos.ryMwPICAhC4]
     VideoId = "ryMwPICAhC4"
     Title = "Marble Track 3: Mr Greene ghosts"
