@@ -299,6 +299,12 @@
     Published = 2018-02-06T04:32:55Z
     Duration = 4464000000000
     VideoType = 1
+  [Videos.7saWrdxbpD8]
+    VideoId = "7saWrdxbpD8"
+    Title = "Marble Track 3 construction Live Stream"
+    Published = 2019-01-14T02:55:33Z
+    Duration = 0
+    VideoType = 1
   [Videos.89QgTyyntqA]
     VideoId = "89QgTyyntqA"
     Title = "Marble Track 3 construction Live Stream: glued dual track rail"
@@ -1015,9 +1021,9 @@
     VideoType = 1
   [Videos.RIIhbfqS6KQ]
     VideoId = "RIIhbfqS6KQ"
-    Title = "Marble Track 3 construction Live Stream"
+    Title = "Marble Track 3 construction Live Stream: placing decorative wall"
     Published = 2019-01-12T01:58:33Z
-    Duration = 0
+    Duration = 4802000000000
     VideoType = 1
   [Videos.RJbP6no_5Gg]
     VideoId = "RJbP6no_5Gg"
@@ -1313,6 +1319,12 @@
     Published = 2017-07-25T03:52:51Z
     Duration = 1647000000000
     VideoType = 1
+  [Videos._mbZojXZtiY]
+    VideoId = "_mbZojXZtiY"
+    Title = "Marble Track 3: placing decorative wall"
+    Published = 2019-01-14T14:32:31Z
+    Duration = 26000000000
+    VideoType = 2
   [Videos._nWqfacctjA]
     VideoId = "_nWqfacctjA"
     Title = "Marble Track 3 construction Live Stream: uh oh tripod"
