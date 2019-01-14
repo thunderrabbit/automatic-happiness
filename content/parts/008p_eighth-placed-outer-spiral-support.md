@@ -2,8 +2,8 @@
 title = "Eighth Placed Outer Spiral Support"
 type = "parts"
 tags = [ "mt3", "vertical" ]
-image = "https://b.robnugen.com/art/marble_track_3/construction/2019/2019_jan_12_8poss.jpg"
-thumbnail = "https://b.robnugen.com/art/marble_track_3/construction/2019/thumbs/2019_jan_12_8poss.jpg"
+image = "https://b.robnugen.com/art/marble_track_3/track/parts/2019/2019_jan_14_i_glued_8poss.jpg"
+thumbnail = "https://b.robnugen.com/art/marble_track_3/track/parts/2019/thumbs/2019_jan_14_i_glued_8poss.jpg"
 description = "Eight Placed Outer Spiral Support"
 workers = [
     "mr_mcglue",
@@ -19,4 +19,5 @@ This piece will support the [Triple Splitter Small Feeder](/p/tssf).
 
 History:
 
+* 2019 Jan 14: cut by G Choppy
 * 2019 Jan 13: almost placed by Reversible Guy
