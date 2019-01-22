@@ -301,9 +301,9 @@
     VideoType = 1
   [Videos.7saWrdxbpD8]
     VideoId = "7saWrdxbpD8"
-    Title = "Marble Track 3 construction Live Stream"
+    Title = "Marble Track 3 construction Live Stream: placed one more decorative wall piece"
     Published = 2019-01-14T02:55:33Z
-    Duration = 0
+    Duration = 7938000000000
     VideoType = 1
   [Videos.89QgTyyntqA]
     VideoId = "89QgTyyntqA"
@@ -862,6 +862,12 @@
     Title = "Marble Track 3 construction Live Stream:"
     Published = 2017-08-21T23:43:59Z
     Duration = 4542000000000
+    VideoType = 1
+  [Videos.NGnBBk1z-ew]
+    VideoId = "NGnBBk1z-ew"
+    Title = "Marble Track 3 construction Live Stream"
+    Published = 2019-01-22T04:16:24Z
+    Duration = 0
     VideoType = 1
   [Videos.NL2qTbPkyZI]
     VideoId = "NL2qTbPkyZI"
@@ -1997,6 +2003,12 @@
     Published = 2018-10-04T02:18:23Z
     Duration = 8000000000
     VideoType = 2
+  [Videos.vDskHEsARII]
+    VideoId = "vDskHEsARII"
+    Title = "Marble Track 3 construction Live Stream: Wire Work for G Choppy"
+    Published = 2019-01-19T07:45:33Z
+    Duration = 3208000000000
+    VideoType = 1
   [Videos.vcZYH25RMO8]
     VideoId = "vcZYH25RMO8"
     Title = "Marble Track 3 construction Live Stream: making skeleton escape"
