@@ -1,0 +1,122 @@
+{{ define "main" }}
+  <!-- /.Breadcrum Start -->
+  <div class="page-header">
+    <div class="container">
+      <div class="row">
+        <div class="col-12 page-title-inner">
+          <h1 class="page-title">
+            {{ .Title }}
+          </h1>
+          <div class="page-bradcrumb">
+            <nav class="navigation pagination w-100 text-center">
+              <div class="nav-links">
+                {{ if .NextInSection }}
+                  <a class="prev page-numbers" href="{{.NextInSection.Permalink}}"><i class="fas fa-angle-double-left"></i> Prev</a>
+                {{ else }}
+                  <a class="prev page-numbers disabled" href="#"><i class="fas fa-angle-double-left"></i> Prev</a>
+      
+                {{ end }}
+                {{ if .PrevInSection }}
+                  <a class="next page-numbers" href="{{.PrevInSection.Permalink}}">Next <i class="fas fa-angle-double-right"></i></a>
+                  
+                {{ else }}
+                  <a class="next page-numbers disabled" href="#">Next <i class="fas fa-angle-double-right"></i></a>
+                  
+                {{ end }}
+              </div>
+            </nav>
+          </div>
+        </div>
+        <!-- /.col-12 -->
+      </div>
+        <!-- /.row -->
+    </div>
+    <!-- /.container -->
+    <div class="line-bg"></div>
+  </div>
+  <!-- /.Breadcrum End-->
+
+  <div class="pb-5 pt-5 contentArea">
+    <div class = "container">
+      <div class = "row">
+        <div class="col-sm-8">
+          <div class="tracksRightSection">
+            {{- if and (isset .Params "thumbnail") (ne .Params.image "") -}}
+              {{- if (eq (slicestr .Params.image 0 4) "http") -}}
+                <a href="{{ .Params.image }}" target=_blank><img alt="{{ .Title }}" src="{{ .Params.thumbnail }}" class="img-fluid episode_image" /></a>
+                {{- else -}}
+                <a href="{{ .Params.image }}" target=_blank><img alt="{{ .Title }}" src="{{ .Params.thumbnail | absURL}}" class="img-fluid episode_image" /></a>
+              {{- end -}}
+              {{- else -}}
+              <img alt="{{ .Title }}" src="{{ "img/guest/default-guest.png" | absURL }}" class="img-fluid episode_image"/>
+            {{- end -}}
+            <div class="markdownContent">
+               <h4> {{ .Title }} </h4>
+              {{ .Content | markdownify }}
+              <div class = "col guest_social_icons">
+                {{ if .Params.YouTube }}
+                  <a href="https://youtu.be/{{ .Params.YouTube}}">
+                    <i class="fab fa-youtube-square fa-2x"></i>
+                  </a>
+                {{ end }}
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-sm-4">
+          <section class="widget trackMadeBy">
+            <h5 class="widget-title">{{ .Title }} made by: </h5>
+            <ul class="">
+              {{ $.Scratch.Set "who-made-this" .Params.workers }}
+              {{ range $page := where $.Site.Pages "Type" "workers" }}
+                {{ if in ($.Scratch.Get "who-made-this") $page.File.TranslationBaseName }}
+                  <li >
+                    <a href = "{{.RelPermalink}}">
+                      <span class="workerImg">
+                        {{- if and (isset .Params "thumbnail") (ne .Params.thumbnail "") -}}
+                          {{- if (eq (slicestr .Params.thumbnail 0 4) "http") -}}
+                            <img alt="{{ .Title }}" src="{{ .Params.thumbnail }}" class="img-fluid" />
+                          {{- else -}}
+                            <img alt="{{ .Title }}" src="{{ .Params.thumbnail | absURL}}" class="img-fluid" />
+                          {{- end -}}
+                        {{- else -}}
+                          <img alt="{{ .Title }}" src="{{ "img/workers/default-workers.png" | absURL }}" class="img-fluid" />
+                        {{- end -}}
+                      </span>
+                      <span class="workerName">
+                          <p>{{.Title}}</p>
+                      </span>
+                    </a>
+                  </li>
+                {{ end }}
+              {{ end }}
+            </ul>
+          </section>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- pager begin -->
+  <div class="w-100 pt-3 pb-3 d-flex justify-content-center">
+      <nav class="navigation pagination w-100 text-center">
+          <div class="nav-links">
+          {{ if .NextInSection }}
+            <a class="prev page-numbers" href="{{.NextInSection.Permalink}}"><i class="fas fa-angle-double-left"></i> Prev</a>
+          {{ else }}
+            <a class="prev page-numbers disabled" href="#"><i class="fas fa-angle-double-left"></i> Prev</a>
+  
+          {{ end }}
+          {{ if .PrevInSection }}
+            <a class="next page-numbers" href="{{.PrevInSection.Permalink}}">Next <i class="fas fa-angle-double-right"></i></a>
+            
+          {{ else }}
+            <a class="next page-numbers disabled" href="#">Next <i class="fas fa-angle-double-right"></i></a>
+            
+          {{ end }}
+          </div>
+      </nav>
+    </div>
+    <!-- pager end -->
+
+{{ end }}

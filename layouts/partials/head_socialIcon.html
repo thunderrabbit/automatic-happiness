@@ -1,0 +1,65 @@
+<ul class="ml-2 socialIconTop">
+        {{ if (isset .Site.Params.social "facebook" ) }}
+          <li>
+            <a class="open-search" href="https://facebook.com/{{ .Site.Params.social.facebook }}" target="_blank">
+              <i class="fab fa-facebook"></i>
+            </a>
+          </li>
+        {{ end }}
+        {{ if (isset .Site.Params.social "twitter" ) }} 
+          <li>
+              <a class="open-search" href="https://twitter.com/{{ .Site.Params.social.twitter }}" target="_blank">
+                  <i class="fab fa-twitter"></i>
+              </a>
+          </li>
+        {{ end }}
+        {{ if (isset .Site.Params.social "youtube" ) }}
+          <li>
+              <a class="open-search" href="https://youtube.com/{{ .Site.Params.social.youtube }}" target="_blank">
+                  <i class="fab fa-youtube"></i>
+              </a>
+          </li>
+        {{ end }}
+        {{ if (isset .Site.Params.social "googleplus" ) }}
+          <li>
+            <a class ="open-search" href="https://plus.google.com/+{{ .Site.Params.social.googleplus }}" target="_blank">
+              <i class="fab fa-google-plus"></i>
+            </a>
+          </li>
+        {{ end }}
+        {{ if (isset .Site.Params.social "pinterest" ) }}
+          <li>
+            <a class ="open-search"  href="https://www.pinterest.com/{{ .Site.Params.social.pinterest }}" target="_blank">
+              <i class="fab fa-pinterest"></i>
+            </a>
+          </li>
+        {{ end }}
+        {{ if (isset .Site.Params.social "instagram" ) }}
+          <li>
+            <a class ="open-search"  href="https://www.instagram.com/{{ .Site.Params.social.instagram }}" target="_blank">
+              <i class="fab fa-instagram"></i>
+            </a>
+          </li>
+        {{ end }}
+        {{ if (isset .Site.Params.social "linkedin" ) }}
+          <li>
+            <a class ="open-search" href="https://www.linkedin.com/in{{ .Site.Params.social.linkedin }}" target="_blank">
+              <i class="fab fa-linkedin"></i>
+            </a>
+          </li>
+        {{ end }}
+        {{ if (isset .Site.Params.social "github" ) }}
+          <li>
+            <a class ="open-search" href="https://github.com/{{ .Site.Params.social.github }}" target="_blank">
+              <i class="fab fa-github"></i>
+            </a>
+          </li>
+        {{ end }}
+        {{ if (isset .Site.Params.social "gitlab" ) }}
+          <li>
+            <a class ="open-search" href="https://gitlab.com/{{ .Site.Params.social.gitlab }}">
+              <i class="fab fa-gitlab"></i>
+            </a>
+          </li>
+        {{ end }}
+      </ul>

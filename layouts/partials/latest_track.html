@@ -1,0 +1,66 @@
+{{ if isset .Site.Params "latest_track" }}
+{{ if .Site.Params.latest_track.enable }}
+
+<section class="schedule-one background-overlay" data-bg-image="img/bg1.jpg">
+    <div class="container">
+        <div class="row">
+            <div class="col-xl-12">
+                <div class="section-title-boxed-left">
+                    <h2> {{ .Site.Params.latest_track.title }} <br>{{ .Site.Params.latest_track.subtitle | markdownify }}</h2>
+                </div>
+                <div class="schedule-one-inner">
+                    <div class="schedule-content">
+                            {{ $pages := (where (where .Site.Pages "Type" "parts") "IsPage" true) }}
+                            {{ range first 4 $pages }}                            
+                        <div class="single-schedule-content">
+                            <div class="schedule-image">
+                                    {{- if and (isset .Params "thumbnail") (ne .Params.image "") -}}
+                                    {{- if (eq (slicestr .Params.image 0 4) "http") -}}
+                                      <a href="{{ .Params.image }}"><img alt="{{ .Title }}" src="{{ .Params.thumbnail }}" class="img-fluid" /></a>
+                                      {{- else -}}
+                                      <a href="{{ .Params.image }}"><img alt="{{ .Title }}" src="{{ .Params.thumbnail | absURL}}" class="img-fluid" /></a>
+                                    {{- end -}}
+                                    {{- else -}}
+                                    <img alt="{{ .Title }}" src="{{ "img/guest/default-guest.png" | absURL }}" />
+                                  {{- end -}}
+                            </div>
+                            <div class="schedule-info ">
+                                <div class="schedule-btn">
+                                    <i class="fas fa-angle-down"></i>
+                                </div>
+                                <h6 class="active"> <a href="{{ .Permalink }}">{{ .Title }} </a> </h6>
+                                <div class="schedule-details">
+                                    <p>{{ .Description | markdownify }}</p>
+                                </div>
+                                <div class="time-schedule-box flex-wrap">
+                                    <div class="start-end-time">
+                                        Made by:
+                                    </div>
+                                    <div class="level">
+                                        
+                                            {{ $.Scratch.Set "who-made-this" .Params.workers }}
+                                            {{ range $page := where $.Site.Pages "Type" "workers" }}
+                                                {{ if in ($.Scratch.Get "who-made-this") $page.File.TranslationBaseName }}
+                                                <b> <a href = "{{.RelPermalink}}">{{.Title}}</a> </b>
+                                                {{ end }}
+                                            {{ end }}
+                                        
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- /.single-schedule-content -->
+                        {{ end }}
+                       
+                    </div>
+                </div>
+                <a href="/parts" class="button-default float-right">View All <i class="fas fa-arrow-right"></i></a>
+            </div>
+        </div>
+    </div>
+</section>
+
+{{ end }}
+{{ end }}
+
+

@@ -1,0 +1,72 @@
+{{ define "main" }}
+  <!-- /.Breadcrum Start -->
+  <div class="page-header">
+    <div class="container">
+      <div class="row">
+        <div class="col-12 page-title-inner">
+          <h1 class="page-title">
+            {{ .Title }}
+          </h1>
+          <div class="page-bradcrumb">
+            <nav class="navigation pagination w-100 text-center">
+              <div class="nav-links">
+              {{ if .NextInSection }}
+                <a class="prev page-numbers" href="{{.NextInSection.Permalink}}" target="_blank"><i class="fas fa-angle-double-left"></i> Prev</a>
+              {{ else }}
+                <a class="prev page-numbers disabled" href="#"><i class="fas fa-angle-double-left"></i> Prev</a>
+              {{ end }}
+              {{ if .PrevInSection }}
+                <a class="next page-numbers" href="{{.PrevInSection.Permalink}}" target="_blank">Next <i class="fas fa-angle-double-right"></i></a>
+                
+              {{ else }}
+                <a class="next page-numbers disabled" href="#">Next <i class="fas fa-angle-double-right"></i></a>
+              {{ end }}
+              </div>
+            </nav>
+          </div>
+        </div>
+        <!-- /.col-12 -->
+      </div>
+      <!-- /.row -->
+    </div>
+    <!-- /.container -->
+    <div class="line-bg"></div>
+  </div>
+  <!-- /.Breadcrum End-->
+
+  <div class="pb-5 pt-5 contentArea">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12">
+          {{ if .Params.Image }}
+            <a href="{{ .Params.Image }}"><img src="{{ .Params.Thumbnail }}" /></a>
+          {{ end }}
+          {{ .Content }}
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- pager begin -->
+  <div class="w-100 pt-3 pb-3 d-flex justify-content-center">
+      <nav class="navigation pagination w-100 text-center">
+          <div class="nav-links">
+          {{ if .NextInSection }}
+            <a class="prev page-numbers" href="{{.NextInSection.Permalink}}"><i class="fas fa-angle-double-left"></i> Prev</a>
+          {{ else }}
+            <a class="prev page-numbers disabled" href="#"><i class="fas fa-angle-double-left"></i> Prev</a>
+
+          {{ end }}
+          {{ if .PrevInSection }}
+            <a class="next page-numbers" href="{{.PrevInSection.Permalink}}">Next <i class="fas fa-angle-double-right"></i></a>
+            
+          {{ else }}
+            <a class="next page-numbers disabled" href="#">Next <i class="fas fa-angle-double-right"></i></a>
+            
+          {{ end }}
+          </div>
+      </nav>
+    </div>
+    <!-- pager end -->
+
+{{ end }}

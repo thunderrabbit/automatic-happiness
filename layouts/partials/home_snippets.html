@@ -1,0 +1,50 @@
+{{ if isset .Site.Params "snippets" }}
+{{ if .Site.Params.snippets.enable }}
+
+<section class="previlege-one padding-1-1">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12 col-lg-5">
+                <div class="section-title mt-50">
+                    <h2><span>{{ .Site.Params.snippets.title | markdownify }} </span></h2>
+                    <p>{{ .Site.Params.snippets.subtitle | markdownify }} </p>
+                </div>
+            </div>
+            <!-- /.col-md-5 -->
+            <div class="col-md-12 col-lg-7">
+                <div class="previlege-slider">
+                    {{ $pages := (where (where .Site.Pages "Type" "snippets") "IsPage" true) }}
+                    {{ range $pages }}
+                    <div class="single-previlege-slider">
+                        <a href="{{(printf "%s" .RelPermalink) | absURL }}">
+                            <div class="previlage-image">
+                                {{- if and (isset .Params "thumbnail") (ne .Params.thumbnail "") -}}
+                                {{- if (eq (slicestr .Params.thumbnail 0 4) "http") -}}
+                                    <img alt="{{ .Title }}" src="{{ .Params.thumbnail }}" class="img-fluid" />
+                                    {{- else -}}
+                                    <img alt="{{ .Title }}" src="{{ .Params.thumbnail | absURL}}" class="img-fluid" />
+                                {{- end -}}
+                                {{- else -}}
+                                <img alt="{{ .Title }}" src="{{ "img/workers/default-workers.png" | absURL }}" class="img-fluid" />
+                                {{- end -}}
+                            </div>
+                            <!-- /.previlage-image -->
+                            <div class="single-prev-content">
+                                <h5>{{ .Title }}</h5>
+                                <p >{{ .Description }}</p>
+                            </div>
+                        </a>
+                    </div>
+                    <!-- /.single-previlege-slider -->
+                    {{ end }}
+                </div>
+                <!-- /.previlege-slider -->
+            </div>
+            <!-- /.col-md-7 -->
+         </div>
+         <!-- /.row -->
+    </div>
+    <!-- /.container -->
+</section>
+{{ end }}
+{{ end }}

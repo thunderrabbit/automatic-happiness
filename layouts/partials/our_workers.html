@@ -1,0 +1,56 @@
+{{ if isset .Site.Params "our_workers" }}
+{{ if .Site.Params.our_workers.enable }}
+
+<section class="staff-carousel-section mb-5 pt-4 pb-4">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="section-title pb-4 text-center">
+                    <h2>{{ .Site.Params.our_workers.title | markdownify }}</h2>
+                </div>
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="staff-carousel mb-5">
+                            {{ $pages := (where (where .Site.Pages "Type" "workers") "IsPage" true) }}
+                            {{ range $pages }}
+                               <div class="single-staff">
+                                    <a href="{{(printf "%s" .RelPermalink) | absURL }}">
+                                        <div class="speaker-image">
+                                                {{- if and (isset .Params "thumbnail") (ne .Params.thumbnail "") -}}
+                                                {{- if (eq (slicestr .Params.thumbnail 0 4) "http") -}}
+                                                <img alt="{{ .Title }}" src="{{ .Params.thumbnail }}" class="img-fluid" />
+                                                  {{- else -}}
+                                                  <img alt="{{ .Title }}" src="{{ .Params.thumbnail | absURL}}" class="img-fluid" />
+                                                {{- end -}}
+                                                {{- else -}}
+                                                <img alt="{{ .Title }}" src="{{ "img/workers/default-workers.png" | absURL }}" class="img-fluid" />
+                                              {{- end -}}
+                                            <div class="speakers-info">
+                                                <svg class="speaker-bg" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 119">
+                                                    <path  data-name="Shape 7 copy 3"  d="M360,55 L169,55 C58,55 108,10 24,10 H0 V119 H360 V75 Z"/>
+                                                </svg>
+                                                <div class="info-left">
+                                                    <h6>{{ .Title }}</h6>
+                                                </div>
+                                            </div>
+                                            <!-- /.speakers-info -->
+                                        </div>
+                                    </a> 
+                                </div>
+                            {{end}}
+                        </div>
+                        <!-- /.staff-carousel -->   
+                    </div>
+                    <!-- /.col-md-12 -->
+                </div>
+                <!-- /.row -->
+            </div>
+            <!-- /.col-md-12 -->
+        </div>
+        <!-- /.row -->
+    </div>
+    <!-- /.container -->
+</section>
+<!-- /.staff-carousel-section -->
+{{ end }}
+{{ end }}
