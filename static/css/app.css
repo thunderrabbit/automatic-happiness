@@ -1830,7 +1830,7 @@ textarea {
   bottom: 0;
   width: 60%;
   height: 100%;
-  background: url(../../media/images/base/bc1.png);
+  /* background: url(../../media/images/base/bc1.png); */
   z-index: -1;
   background-repeat: no-repeat;
 }
@@ -1904,7 +1904,7 @@ textarea {
   position: absolute;
   top: 0;
   right: 0;
-  background: url(../../media/images/base/line_half.png);
+  /* background: url(../../media/images/base/line_half.png); */
   background-repeat: no-repeat;
   background-position: right bottom;
   z-index: -1;
@@ -2585,7 +2585,7 @@ button {
 .banner-two {
   overflow: hidden;
   position: relative;
-  background: url(../../media/images/banner/banner-two-bg.jpg);
+  /* background: url(../../media/images/banner/banner-two-bg.jpg); */
   height: 850px;
   z-index: 1;
 }
@@ -3788,7 +3788,7 @@ button {
 
 .audio-bottom-bg {
   height: 90px;
-  background: url(../../media/images/blog/audio-bg.jpg) no-repeat;
+  /* background: url(../../media/images/blog/audio-bg.jpg) no-repeat; */
   background-position: calc(100% - 10px);
   margin-top: 10px;
   position: relative;
@@ -4323,7 +4323,7 @@ button {
 .widget.widget_subscribe .widget_subscribe_detail {
   padding: 29px 25px;
   text-align: center;
-  background: url(../../media/images/blog/subscribe-bg.jpg) no-repeat scroll 0 0/cover;
+  /* background: url(../../media/images/blog/subscribe-bg.jpg) no-repeat scroll 0 0/cover; */
   position: relative;
   z-index: 1;
 }
@@ -6834,7 +6834,7 @@ button {
   margin: 0 1px;
   height: 25px;
   background: #fff;
-  background-image: url(../../media/images/icon/scroll_bg.png);
+  /* background-image: url(../../media/images/icon/scroll_bg.png); */
   border-radius: 0;
   background-size: 29px;
   background-repeat: no-repeat;
@@ -10503,7 +10503,7 @@ input[type=date] {
 }
 
 .section-title.with-bg {
-  background: url(../../media/images/background/people.png);
+  /* background: url(../../media/images/background/people.png); */
   height: 329px;
   padding-top: 185px;
   margin-top: 90px;
@@ -10816,7 +10816,7 @@ input[type=date] {
   top: 64px;
   height: 330px;
   width: 393px;
-  background-image: url(../../media/images/base/hexline-green.gif);
+  /* background-image: url(../../media/images/base/hexline-green.gif); */
   z-index: -1;
   background-repeat: no-repeat;
 }
@@ -11859,7 +11859,7 @@ input[type=date] {
 }
 
 .map-location {
-  background-image: url(../../media/images/background/hexbg3.png);
+  /* background-image: url(../../media/images/background/hexbg3.png); */
   background-size: 100%;
   background-repeat: no-repeat;
   height: 400px;
@@ -13277,7 +13277,7 @@ input[type=date] {
   position: relative;
   min-height: 135px;
   padding-bottom: 0;
-  background: url(../../media/images/icon/hex_bg.png);
+  /* background: url(../../media/images/icon/hex_bg.png); */
   background-repeat: repeat;
   background-size: auto auto;
   background-size: 100%;
@@ -13829,7 +13829,7 @@ input[type=date] {
   background: red;
   text-align: center;
   padding: 70px 0 80px;
-  background: url(../../media/images/background/cta.jpg);
+  /* background: url(../../media/images/background/cta.jpg); */
   position: relative;
   z-index: 1;
   background-size: cover;
@@ -14035,6 +14035,7 @@ input[type=date] {
   overflow: hidden;
   /* margin-bottom: 50px; */
   position: relative;
+  margin-bottom: 30px;
 }
 
 .single-speaker .speaker-image {
@@ -14836,7 +14837,7 @@ input[type=date] {
 }
 
 .single-testimonial .testimonial-image {
-  background: url(../../media/images/icon/5hex.png);
+  /* background: url(../../media/images/icon/5hex.png); */
   background-repeat: no-repeat;
   background-size: auto;
   height: 146px;
@@ -15060,7 +15061,7 @@ input[type=date] {
   top: 0;
   width: 144px;
   height: 400px;
-  background: url(../../media/images/icon/download_arrow.png);
+  /* background: url(../../media/images/icon/download_arrow.png); */
   background-repeat: no-repeat;
   background-size: 100%;
   background-position: center;
@@ -17291,7 +17292,7 @@ input[type=date] {
 	--------------------------------------------------------------*/
 .preloader {
   background-color: #ffffff;
-  background-image: url("../../media/images/icon/pre.gif");
+  /* background-image: url("../../media/images/icon/pre.gif"); */
   background-position: center center;
   background-repeat: no-repeat;
   height: 100%;
@@ -17355,7 +17356,7 @@ input[type=date] {
   .banner-two {
     overflow: hidden;
     position: relative;
-    background: url(../../media/images/banner/banner-two-bg.jpg);
+    /* background: url(../../media/images/banner/banner-two-bg.jpg); */
     height: 100vh;
     z-index: 1;
   }

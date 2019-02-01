@@ -9,8 +9,7 @@
 <script src={{ "js/jquery-simple-mobilemenu.min.js" | relURL}}></script>
 <!-- Site Scripts -->
 <script src={{ "js/app.js" | relURL}}></script>
-
-<script>
+<!-- <script>
     $("#share").jsSocials({
         shares: [
       {
@@ -18,11 +17,11 @@
         logo: "fab fa-facebook",
       },
       {
-        share: "twitter",           // name of share
-        label: "Tweet",             // share button text (optional)
+        share: "twitter",           
+        label: "Tweet",            
         logo: "fab fa-twitter",
         {{ if (isset .Site.Params.social "twitter" )}}
-          via: "{{ .Site.Params.social.twitter }}",       // custom twitter sharing param 'via' (optional)
+          via: "{{ .Site.Params.social.twitter }}",       
         {{ end }}
         url: "{{ .Params.permalink }}",
         text: "{{ title .Title }}"
@@ -39,12 +38,12 @@
     });
 </script>
 <script>
-audiojs.events.ready(function() {
-   var as = audiojs.createAll({
+  audiojs.events.ready(function() {
+    var as = audiojs.createAll({
     imageLocation: '{{"img/player-graphics.gif" | relURL}}',
     retinaImageLocation: '{{"img/player-graphics@2x.gif" | relURL}}',
     swfLocation: '{{"swf/audiojs.swf" | relURL}}'
-   });
+    });
  });
-</script>
+</script> -->
 {{ template "_internal/google_analytics_async.html" . }}
