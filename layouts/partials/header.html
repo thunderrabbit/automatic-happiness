@@ -1,0 +1,94 @@
+
+<header class="header_default">
+  <div class="container-fluid">
+    <div class="row">
+      <!--- Mobile Naavigation Start-->
+      <div class="col-3 col-sm-4 mobile-wrapper">
+        <div id="dl-menu" class="dl-menuwrapper">
+          <button class="dl-trigger"><i class="fas fa-align-left"></i><i class="fas fa-times"></i></button>
+          <ul class="dl-menu">
+            {{ $currentNode := . }}
+            {{ range sort .Site.Menus.main "Identifier"}}
+            {{ if .HasChildren }}
+              <li>
+                <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">
+                  {{ .Name }}
+                </a>
+                <div class="dropdown-menu">
+                {{ range sort .Children  "Identifier"}}
+                  <a class="dropdown-item{{ if $currentNode.IsMenuCurrent "Main" . }} active {{ end }}" href="{{ .URL | absLangURL }}">{{ .Name }}</a>
+                {{ end }}
+                </div>
+              </li>
+            {{ else }}
+              <li class="{{ if or ($currentNode.IsMenuCurrent "Main" .) ($currentNode.HasMenuCurrent "Main" .) }} active {{ end }}">
+                <a href="{{ .URL | absLangURL }}">
+                  {{ .Pre }}
+                  {{ .Name }}
+                </a>
+              </li>
+            {{ end }}
+            {{ end }}
+            <li class="">
+              {{ partial "head_socialIcon.html" . }}
+            </li>
+            <li class="languageMobile">
+              {{ partial "allLanguages.html" . }}
+            </li>
+          </ul>
+        </div>
+        <!-- /dl-menuwrapper -->
+      </div>
+      <!--- Mobile Naavigation End-->
+      <!-- /.col-md-4 -->
+      <div class="col-6 col-sm-4 col-md-4 col-lg-2 col-xl-2">
+        <div class="logo">
+          <a href="{{ .Site.BaseURL }}">
+            <img src="{{ .Site.BaseURL }}{{ .Site.Params.logo }}" alt="{{ .Title }} logo" />
+          </a>
+        </div>
+        <!-- /.logo -->
+      </div>
+      <!-- /.col-xl-3 -->
+      <div class="col-3 col-sm-4 col-md-4 col-lg-10 col-xl-10 position-inherit">
+        <div class="header-right">
+          <nav class="main-menu">
+            <ul>
+              {{ $currentNode := . }}
+              {{ range sort .Site.Menus.main "Identifier"}}
+              {{ if .HasChildren }}
+                <li>
+                  <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">
+                    {{ .Name }}
+                  </a>
+                  <div class="dropdown-menu">
+                  {{ range sort .Children  "Identifier"}}
+                    <a class="dropdown-item{{ if $currentNode.IsMenuCurrent "Main" . }} active {{ end }}" href="{{ .URL | absLangURL }}">{{ .Name }}</a>
+                  {{ end }}
+                  </div>
+                </li>
+              {{ else }}
+                <li class="{{ if or ($currentNode.IsMenuCurrent "Main" .) ($currentNode.HasMenuCurrent "Main" .) }} active {{ end }}">
+                  <a href="{{ .URL | absLangURL }}">
+                    {{ .Pre }}
+                    {{ .Name }}
+                  </a>
+                </li>
+              {{ end }}
+              {{ end }}
+            </ul>
+          </nav>
+          <div class="icon-menu">
+            {{ partial "allLanguages.html" . }}
+            {{ partial "head_socialIcon.html" . }}
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- /.row -->
+  </div>
+  <!-- /.container_fluid -->
+</header>
+<!-- /.header_default -->
+
+      

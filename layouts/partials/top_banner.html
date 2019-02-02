@@ -1,0 +1,27 @@
+<section class="slider-wrapper-video">
+    <div class="slider-wrapper-video-inner">
+        <div class="slider-text">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="slider-text-inner">
+                            <div class="slider-heading-video">
+                                <h1>{{ .Site.Params.top_banner.title }}</h1>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /.col-md-12 -->
+                </div>
+                <!-- /.row -->
+            </div>
+            <!-- /.container -->
+        </div>
+        <!-- /.slider-text -->
+        <video autoplay muted loop id="myVideo">
+          <source src="{{ .Site.Params.top_banner.video }}" type="video/mp4">
+        </video>
+    </div>
+    <div class="marbleNote">
+      <p> {{ .Site.Params.top_banner.description }}  </p>
+    </div>
+</section>

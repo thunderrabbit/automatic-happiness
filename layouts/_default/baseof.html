@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html itemscope lang="{{ .Site.LanguageCode }}">
+<head>
+{{ partial "head.html" . }}
+</head>
+
+<body lang="{{ .Site.Params.Lang }}">
+
+{{ partial "header.html" . }}
+
+  {{ block "main" . }}
+
+      <!-- The part of the page that begins to differ between templates -->
+  {{ end }}
+
+{{ partial "footer.html" . }}

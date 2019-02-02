@@ -23,4 +23,4 @@ These guys are great!  Just look at them go!
 <source src="https://b.robnugen.com/art/marble_track_3/workers/snippets/quick_look_help_you_up.mp4" type="video/mp4">
 </video>
 
-This website follows their progress, tracking who made what, and how all the parts fit together.
+
