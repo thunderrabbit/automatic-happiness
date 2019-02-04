@@ -191,15 +191,6 @@ var MARBLE = MARBLE || {};
       }
 
       /* Back to top */
-
-      /*=================================*/
-      /*=    Footer animation trigger          =*/
-      /*=================================*/
-
-      if ($(window).scrollTop() + $(window).height() > ($(document).height() - 300)) {
-        //you are at bottom
-        $(".hexagon-box-footer").addClass("open");
-      }
     },
   };
 
