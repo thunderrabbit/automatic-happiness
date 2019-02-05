@@ -7,6 +7,7 @@ thumbnail = "https://b.robnugen.com/art/marble_track_3/track/parts/2019/thumbs/2
 description = "Eight Placed Outer Spiral Support"
 workers = [
     "mr_mcglue",
+    "reversible",
     "g_choppy"
 ]
 aliases = [

@@ -7,8 +7,7 @@ thumbnail = "https://b.robnugen.com/art/marble_track_3/track/parts/2019/thumbs/2
 description = "Caret Splitter Feeder Extension Reflection"
 workers = [
 	"squarehead",
-    "mr_mcglues",
-    "g_choppys"
+    "mr_mcglues"
 ]
 aliases = [
     "/p/csfer"
@@ -17,12 +16,16 @@ date = 2019-01-02T22:34:20+09:00
 +++
 
 This piece will essentially roll small and medium marbles from the
-middle of the track to bounce off the outer spiral and then into the
-[Caret Splitter](/p/cs) via its [Feeder](/p/csf) and [Extension](/p/csfe).
+middle of the track to bounce off the [outer spiral](/p/os) and then into the
+[Caret Splitter](/p/cs) via its [Extension](/p/csfe) and [Feeder](/p/csf).
 
 Will be supported by the [Caret Splitter Feeder Extension Reflection Stanchion](/p/csfers).
 
 History:
+
+* 2019 Feb 05: Nearly put in place by [Squarehead](/w/square).
+
+[![2019 feb 05 csfer](//b.robnugen.com/art/marble_track_3/construction/2019/thumbs/2019_feb_05_csfer.jpg)](//b.robnugen.com/art/marble_track_3/construction/2019/2019_feb_05_csfer.jpg)
 
 * 2019 Jan 02: Planned to be brought onto the set by [Squarehead](/w/square).
 
