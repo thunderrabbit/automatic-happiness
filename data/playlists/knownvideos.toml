@@ -5,6 +5,12 @@
     Published = 2018-07-07T23:21:00Z
     Duration = 106000000000
     VideoType = 2
+  [Videos.-GgW0kLxpwQ]
+    VideoId = "-GgW0kLxpwQ"
+    Title = "Marble Track 3 construction Live Stream: headached"
+    Published = 2019-02-09T06:34:59Z
+    Duration = 2422000000000
+    VideoType = 1
   [Videos.-KjsYc4Mb5g]
     VideoId = "-KjsYc4Mb5g"
     Title = "Marble Track 3: skeleton arrives"
@@ -557,6 +563,12 @@
     Published = 2017-11-17T01:46:18Z
     Duration = 35000000000
     VideoType = 2
+  [Videos.E89ua8-W7ts]
+    VideoId = "E89ua8-W7ts"
+    Title = "Marble Track 3 construction Live Stream: glued 9th placed outer spiral support"
+    Published = 2019-02-05T03:47:37Z
+    Duration = 7701000000000
+    VideoType = 1
   [Videos.ETLYb0Zggcg]
     VideoId = "ETLYb0Zggcg"
     Title = "Marble Track 3 construction Live Stream"
@@ -865,9 +877,9 @@
     VideoType = 1
   [Videos.NGnBBk1z-ew]
     VideoId = "NGnBBk1z-ew"
-    Title = "Marble Track 3 construction Live Stream"
+    Title = "Marble Track 3 construction Live Stream: glued へSFERS"
     Published = 2019-01-22T04:16:24Z
-    Duration = 0
+    Duration = 6548000000000
     VideoType = 1
   [Videos.NL2qTbPkyZI]
     VideoId = "NL2qTbPkyZI"
@@ -1097,6 +1109,12 @@
     Published = 2017-10-22T12:20:12Z
     Duration = 95000000000
     VideoType = 2
+  [Videos.U-vwMEF_zhE]
+    VideoId = "U-vwMEF_zhE"
+    Title = "Marble Track 3 construction Live Stream"
+    Published = 2019-02-09T05:58:57Z
+    Duration = 0
+    VideoType = 1
   [Videos.U4dpnSCDzfc]
     VideoId = "U4dpnSCDzfc"
     Title = "Marble Track 3 construction Live Stream:glue U turn"
