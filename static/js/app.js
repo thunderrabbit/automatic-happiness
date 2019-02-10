@@ -30,8 +30,7 @@ var MARBLE = MARBLE || {};
       });
       //back to top
       var backtotop = $(".backtotop");
-      var windo = $(window),
-        HtmlBody = $('html, body');
+      var HtmlBody = $('html, body');
       backtotop.on('click', function() {
         HtmlBody.animate({
           scrollTop: 0
