@@ -4,10 +4,10 @@ type = "parts"
 tags = [ "csr", "splitter" ]
 image = "https://b.robnugen.com/art/marble_track_3/track/parts/2019/2019_feb_10_csrhis_future_home.jpg"
 thumbnail = "https://b.robnugen.com/art/marble_track_3/track/parts/2019/thumbs/2019_feb_10_csrhis_future_home.jpg"
-description = "Caret Splitter Rudder"
+description = "Caret Splitter Rudder DNE yet"
 workers = [
-    "mr_mcglue",
-    "g_choppy"
+    "mr_mcgluer",
+    "g_choppyr"
 ]
 aliases = [
     "/p/csr"
