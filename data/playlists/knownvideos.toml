@@ -1049,6 +1049,12 @@
     Published = 2018-12-17T04:37:16Z
     Duration = 6618000000000
     VideoType = 1
+  [Videos.RnmZZHEyJA0]
+    VideoId = "RnmZZHEyJA0"
+    Title = "Marble Track 3 Getting Started"
+    Published = 2019-02-10T12:27:29Z
+    Duration = 1451000000000
+    VideoType = 2
   [Videos.SSdJn5l0fLY]
     VideoId = "SSdJn5l0fLY"
     Title = "Marble Track 3: snake ready to spiral"
@@ -1111,9 +1117,9 @@
     VideoType = 2
   [Videos.U-vwMEF_zhE]
     VideoId = "U-vwMEF_zhE"
-    Title = "Marble Track 3 construction Live Stream"
+    Title = "Marble Track 3 construction Live Stream: Glued Caret Splitter Feeder Extension Reflection"
     Published = 2019-02-09T05:58:57Z
-    Duration = 0
+    Duration = 5146000000000
     VideoType = 1
   [Videos.U4dpnSCDzfc]
     VideoId = "U4dpnSCDzfc"
@@ -1907,6 +1913,12 @@
     Published = 2018-03-06T07:35:59Z
     Duration = 9000000000
     VideoType = 2
+  [Videos.rdSk7uUl80g]
+    VideoId = "rdSk7uUl80g"
+    Title = "Marble Track 3 construction Live Stream"
+    Published = 2019-02-10T09:34:33Z
+    Duration = 0
+    VideoType = 1
   [Videos.rvsJBulcd7Y]
     VideoId = "rvsJBulcd7Y"
     Title = "Marble Track 3 construction Live Stream"

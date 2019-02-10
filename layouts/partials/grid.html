@@ -13,7 +13,7 @@
   {{ $Duration_hours        := div $Duration_minutes 60.0 }}
   {{ $Duration_days         := div $Duration_hours   24.0 }}
   <div class = "col episode-list-header">
-    <h2 class = "episode-list-header">All Episodes ({{ printf "%.3v" $Duration_days }} days)</h2>
+    <h2 class = "episode-list-header">All Episodes ({{ printf "%.3v" $Duration_hours }} hours)</h2>
   </div>
 
   <div class = "row">

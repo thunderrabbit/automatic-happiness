@@ -19,6 +19,7 @@ The Caret Splitter sits opposite the (top of the) [Triple Splitter](/p/ts).  It 
 
 #### Construction History
 
+* February? 2019: Will be augmented with [Caret Splitter Right Hand Inner Side](/p/csrhis).
 * 25 December 2018: Added [Bar Below Circle by Caret Splitter](/p/bbcbcs) which will keep small marbles on track.
 * 17 December 2018: Added [Circle by Caret Splitter](/parts/circle_by_the_caret_splitter/) which will hold a bar to keep small marbles on track.
 * November 2018: The medium marbles work perfectly (~100% of the time), but [the small marbles work 0% of the time](/episode/2018/november/glued-two-more-toothpicks-on-lower-zig-zag/).  If the small marbles hit the left side, they fall willy nilly.  If they hit the right side, they get stuck.
