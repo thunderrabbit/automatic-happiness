@@ -779,6 +779,12 @@
     Published = 2017-10-14T03:59:15Z
     Duration = 69000000000
     VideoType = 2
+  [Videos.L05cBxseEyI]
+    VideoId = "L05cBxseEyI"
+    Title = "Marble Track 3 construction Live Stream"
+    Published = 2019-02-19T03:00:00Z
+    Duration = 0
+    VideoType = 1
   [Videos.LCPFtlDrWkM]
     VideoId = "LCPFtlDrWkM"
     Title = "Marble Track 3 construction Live Stream: began assembling the characters"
@@ -1409,6 +1415,12 @@
     Published = 2018-01-28T11:41:42Z
     Duration = 94000000000
     VideoType = 2
+  [Videos.ag0aGj0W-t0]
+    VideoId = "ag0aGj0W-t0"
+    Title = "Marble Track 3: testing marbles again"
+    Published = 2019-02-19T03:48:12Z
+    Duration = 31000000000
+    VideoType = 2
   [Videos.auZPolbiTWI]
     VideoId = "auZPolbiTWI"
     Title = "Marble Track 3 construction Live Stream: triple splitting small marble"
@@ -1457,6 +1469,12 @@
     Published = 2019-01-01T00:20:30Z
     Duration = 4005000000000
     VideoType = 1
+  [Videos.cwd2676BURE]
+    VideoId = "cwd2676BURE"
+    Title = "Marble Track 3: placing several pieces"
+    Published = 2019-02-19T03:48:00Z
+    Duration = 29000000000
+    VideoType = 2
   [Videos.dFszY3BsP4c]
     VideoId = "dFszY3BsP4c"
     Title = "Marble Track 3: guess who!"
@@ -1835,6 +1853,12 @@
     Published = 2018-09-08T10:40:18Z
     Duration = 7647000000000
     VideoType = 1
+  [Videos.pGuSiGOIIMk]
+    VideoId = "pGuSiGOIIMk"
+    Title = "Marble Track 3 construction Live Stream: testing marbles again"
+    Published = 2019-02-19T03:36:27Z
+    Duration = 7259000000000
+    VideoType = 1
   [Videos.pOOpjwUYhqk]
     VideoId = "pOOpjwUYhqk"
     Title = "Marble Track 3 construction Live Stream: toothpicks for lower zig zag 2 of 2"
@@ -1917,7 +1941,7 @@
     VideoId = "rdSk7uUl80g"
     Title = "Marble Track 3 construction Live Stream"
     Published = 2019-02-10T09:34:33Z
-    Duration = 0
+    Duration = 2502000000000
     VideoType = 1
   [Videos.rvsJBulcd7Y]
     VideoId = "rvsJBulcd7Y"
