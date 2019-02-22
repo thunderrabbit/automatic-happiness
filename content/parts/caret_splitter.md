@@ -20,9 +20,14 @@ The Caret Splitter sits opposite the (top of the) [Triple Splitter](/p/ts).  It 
 #### Construction History
 
 * February? 2019: Will be augmented with [Caret Splitter Right Hand Inner Side](/p/csrhis).
-* 25 December 2018: Added [Bar Below Circle by Caret Splitter](/p/bbcbcs) which will keep small marbles on track.
-* 17 December 2018: Added [Circle by Caret Splitter](/parts/circle_by_the_caret_splitter/) which will hold a bar to keep small marbles on track.
-* November 2018: The medium marbles work perfectly (~100% of the time), but [the small marbles work 0% of the time](/episode/2018/november/glued-two-more-toothpicks-on-lower-zig-zag/).  If the small marbles hit the left side, they fall willy nilly.  If they hit the right side, they get stuck.
+
+* 22 Feb 2019 [Reversible Guy](/w/rg) brought [Caret Splitter Right Hand Inner Side](/p/csrhis) to Caret Splitter Right Track
+
+[![2019 feb 22 rg brings csrhis 21](//b.robnugen.com/art/marble_track_3/track/parts/2019/thumbs/2019_feb_22_rg_brings_csrhis_21.jpg)](//b.robnugen.com/art/marble_track_3/track/parts/2019/2019_feb_22_rg_brings_csrhis_21.jpg)
+
+* 25 Dec 2018: Added [Bar Below Circle by Caret Splitter](/p/bbcbcs) which will keep small marbles on track.
+* 17 Dec 2018: Added [Circle by Caret Splitter](/parts/circle_by_the_caret_splitter/) which will hold a bar to keep small marbles on track.
+* Nov 2018: The medium marbles work perfectly (~100% of the time), but [the small marbles work 0% of the time](/episode/2018/november/glued-two-more-toothpicks-on-lower-zig-zag/).  If the small marbles hit the left side, they fall willy nilly.  If they hit the right side, they get stuck.
 
 [![2018 nov 08 caret splitter outside view](//b.robnugen.com/art/marble_track_3/construction/2018/thumbs/2018_nov_08_caret_splitter_top_view.jpg)](//b.robnugen.com/art/marble_track_3/construction/2018/2018_nov_08_caret_splitter_top_view.jpg)
 
