@@ -238,5 +238,5 @@ media_prefix = "https://media.blubrry.com/"
 
 [params.contact_form]
     enable = true
-    title = "ANYTHING TO SAY?"
-    subtitle = "Feel free to send us a note with your queries or specific information you need."
+    title = "Questions or comments?"
+    subtitle = "Ideas, questions, comments are all welcome."
