@@ -1,17 +1,18 @@
 +++
-title = "1st Triple Splitter Small Feeder Bar"
+title = "Triple Splitter Small Feeder Inner Bar"
 type = "parts"
 tags = [ "small", "horizontal", "part" ]
 image = "https://b.robnugen.com/art/marble_track_3/workers/2019/2019_jan_01_backpack_jack_awaits.jpg"
 thumbnail = "https://b.robnugen.com/art/marble_track_3/workers/2019/thumbs/2019_jan_01_backpack_jack_awaits.jpg"
-description = "Triple Splitter Small Feeder"
+description = "Inner rail of the Triple Splitter Small Feeder"
 workers = [
 	"backpack_jack",
     "mr_mcglues",
     "g_choppys"
 ]
 aliases = [
-    "/p/1tssfb"
+    "/p/1tssfb",
+    "/parts/1st-triple-splitter-small-feeder-bar/"
 ]
 date = 2018-12-27T19:14:58+09:00
 +++
@@ -21,7 +22,12 @@ This piece is the first of two bars to make up the
 
 History:
 
-* 2019 Jan 01: Backpack Jack carried skewer to be the 1st Triple Splitter Small Feeder Bar
+* 2019 Feb 26: Candy Mama began to put the bar in place while Pinky brought its [lower support](/p/tssfinls)
+
+[![2019 feb 26 candy mama holding triple splitter small feeder bars](//b.robnugen.com/art/marble_track_3/track/parts/2019/thumbs/2019_feb_26_candy_mama_holding_triple_splitter_small_feeder_bars.jpg)](//b.robnugen.com/art/marble_track_3/track/parts/2019/2019_feb_26_candy_mama_holding_triple_splitter_small_feeder_bars.jpg)
+[![2019 feb 26 pinky carrying triple splitter small feeder inner bar lower support](//b.robnugen.com/art/marble_track_3/track/parts/2019/thumbs/2019_feb_26_pinky_carrying_triple_splitter_small_feeder_inner_bar_lower_support.jpg)](//b.robnugen.com/art/marble_track_3/track/parts/2019/2019_feb_26_pinky_carrying_triple_splitter_small_feeder_inner_bar_lower_support.jpg)
+
+* 2019 Jan 01: Backpack Jack carried skewer to be the Triple Splitter Small Feeder Inner Bar
 
 [![2019 jan 01 backpack jack awaits](//b.robnugen.com/art/marble_track_3/workers/2019/thumbs/2019_jan_01_backpack_jack_awaits.jpg)](//b.robnugen.com/art/marble_track_3/workers/2019/2019_jan_01_backpack_jack_awaits.jpg)
 

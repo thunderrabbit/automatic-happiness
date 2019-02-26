@@ -2,8 +2,8 @@
 title = "Caret Splitter Right Hand Inner Side"
 type = "parts"
 tags = [ "csrhis", "berm" ]
-image = "https://b.robnugen.com/art/marble_track_3/track/parts/2019/2019_feb_22_rg_brings_csrhis_21.jpg"
-thumbnail = "https://b.robnugen.com/art/marble_track_3/track/parts/2019/thumbs/2019_feb_22_rg_brings_csrhis_21.jpg"
+image = "https://b.robnugen.com/art/marble_track_3/track/parts/2019/2019_feb_26_caret_splitter_right_hand_inner_side.jpg"
+thumbnail = "https://b.robnugen.com/art/marble_track_3/track/parts/2019/thumbs/2019_feb_26_caret_splitter_right_hand_inner_side.jpg"
 description = "Caret Splitter Right Hand Inner Side"
 workers = [
     "mr_mcglued",
@@ -25,6 +25,10 @@ rudder is pushed toward the right, to send them down toward the left.
 
 
 History:
+
+* 2019 Feb 26: Reversible Guy put the bar in place.
+
+[![2019 feb 26 caret splitter with right hand inner side](//b.robnugen.com/art/marble_track_3/track/parts/2019/thumbs/2019_feb_26_caret_splitter_with_right_hand_inner_side.jpg)](//b.robnugen.com/art/marble_track_3/track/parts/2019/2019_feb_26_caret_splitter_with_right_hand_inner_side.jpg)
 
 * 2019 Feb 22: [Reversible Guy](/w/rg) brought Caret Splitter Right Hand Inner Side to [Caret Splitter Right Track](/p/csrt)
 

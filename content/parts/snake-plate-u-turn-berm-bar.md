@@ -22,7 +22,10 @@ Big Brother has just discovered this problem, and is inspecting now.
 
 History:
 
-* 2019 Feb??: Mr McGlue will glue it into place.
+* 2019 Feb 26: Mr McGlue glued it into place.
+
+[![2019 feb 26 glued u-turn berm bar](//b.robnugen.com/art/marble_track_3/track/parts/2019/thumbs/2019_feb_26_glued_u-turn_berm_bar.jpg)](//b.robnugen.com/art/marble_track_3/track/parts/2019/2019_feb_26_glued_u-turn_berm_bar.jpg)
+
 * 2019 Jan 30: Big Brother realizes it needs to be glued
 
 [![snake plate u turn berm bar dropped the ball 2019 jan](//b.robnugen.com/art/marble_track_3/track/parts/2019/thumbs/snake_plate_u_turn_berm_bar_dropped_the_ball_2019_jan.jpg)](//b.robnugen.com/art/marble_track_3/track/parts/2019/snake_plate_u_turn_berm_bar_dropped_the_ball_2019_jan.jpg)

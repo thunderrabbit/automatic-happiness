@@ -783,7 +783,7 @@
     VideoId = "L05cBxseEyI"
     Title = "Marble Track 3 construction Live Stream"
     Published = 2019-02-19T03:00:00Z
-    Duration = 0
+    Duration = 4704000000000
     VideoType = 1
   [Videos.LCPFtlDrWkM]
     VideoId = "LCPFtlDrWkM"
@@ -1307,6 +1307,12 @@
     Published = 2017-11-25T08:31:19Z
     Duration = 53000000000
     VideoType = 2
+  [Videos.Z4wIrrLBPkk]
+    VideoId = "Z4wIrrLBPkk"
+    Title = "Marble Track 3 construction Live Stream"
+    Published = 2019-02-26T02:20:41Z
+    Duration = 0
+    VideoType = 1
   [Videos.ZUxgXmpp1RI]
     VideoId = "ZUxgXmpp1RI"
     Title = "Marble Track 3 construction Live Stream: Glued Fourth Placed Outer Spiral Support"
@@ -1733,6 +1739,12 @@
     Published = 2017-06-20T02:52:27Z
     Duration = 69000000000
     VideoType = 2
+  [Videos.koc-LshCIMU]
+    VideoId = "koc-LshCIMU"
+    Title = "Marble Track 3 construction Live Stream: glued caret splitter right hand inner side"
+    Published = 2019-02-26T03:19:25Z
+    Duration = 11538000000000
+    VideoType = 1
   [Videos.lK5Ki1lkHtY]
     VideoId = "lK5Ki1lkHtY"
     Title = "Marble Track 3 construction Live Stream: what's on the ramp?"
@@ -1792,6 +1804,12 @@
     Title = "Marble Track 3: big curve ball"
     Published = 2017-11-03T06:11:20Z
     Duration = 123000000000
+    VideoType = 2
+  [Videos.nN5QtFGp4RU]
+    VideoId = "nN5QtFGp4RU"
+    Title = "Marble Track 3: glued caret splitter right hand inner side"
+    Published = 2019-02-26T04:36:36Z
+    Duration = 32000000000
     VideoType = 2
   [Videos.nNzoOekbSUM]
     VideoId = "nNzoOekbSUM"
