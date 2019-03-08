@@ -17,8 +17,8 @@ date = 2018-12-27T19:14:58+09:00
 +++
 
 To be composed of the
-[1st Triple Splitter Small Feeder Bar](/p/1tssfb) and the
-[2nd Triple Splitter Small Feeder Bar](/p/2tssfb), this track will
+[Triple Splitter Small Feeder Inner Bar](/p/tssfib) and the
+[Triple Splitter Small Feeder Outer Bar](/p/tssfob), this track will
 guide small marbles from an as-yet-unnamed splitter which will deliver
 small marbles to both the [Lower Zig Zag](/p/lzz) and this track.
 
