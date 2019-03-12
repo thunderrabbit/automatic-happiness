@@ -25,6 +25,7 @@ collections:
       - {label: "Rating (scale of 1-5)", name: "rating", widget: "number"}
       - {label: "Body", name: "body", widget: "markdown"}
   - label: "Borg in English"
+    create: true # Allow users to create new documents in this collection
     name: "english_posts"
     folder: "_posts"
     filter: {field: "language", value: "en"}
@@ -33,6 +34,7 @@ collections:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Content", name: "body", widget: "markdown"}
   - label: "Borg en Español"
+    create: true # Allow users to create new documents in this collection
     name: "spanish_posts"
     folder: "_posts"
     filter: {field: "language", value: "es"}
