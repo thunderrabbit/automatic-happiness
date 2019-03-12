@@ -1,9 +1,9 @@
 title: About the about page
 intro: This is the intro
 team:
-  - name: Candy Mama
-    photo: /images/uploads/candy_mama.jpg
-    position: Manager
   - name: Dr Sugar
     photo: /images/uploads/dr_sugar.jpg
+    position: Manager
+  - name: Candy Mama
+    photo: /images/uploads/candy_mama.jpg
     position: Manager
