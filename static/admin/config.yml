@@ -2,7 +2,7 @@
 
 backend:
   name: git-gateway
-  branch: cms
+  branch: master
 
 # This line should *not* be indented
 publish_mode: editorial_workflow
