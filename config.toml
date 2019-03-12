@@ -1,7 +1,6 @@
 baseURL = "https://marbletrack3.com/"
 languageCode = "en-us"
 DefaultContentLanguage = "en"
-theme = "castanet"    # git@github.com:thunderrabbit/castanet.git
 
 #googleAnalytics = "UA-100789009-1"
 #disqusShortname = "arresteddevops"
