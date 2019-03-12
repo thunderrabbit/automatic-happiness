@@ -60,14 +60,14 @@ collections:
               - {label: Name, name: name, widget: string}
               - {label: Position, name: position, widget: string}
               - {label: Photo, name: photo, widget: image}
-      - label: "Locations Page"
-        name: "locations"
-        file: "content/locations.yml"
+      - label: "Support Page"
+        name: "Support"
+        file: "content/support.md"
         fields:
           - {label: Title, name: title, widget: string}
           - {label: Intro, name: intro, widget: markdown}
-          - label: Locations
-            name: locations
+          - label: Support
+            name: support
             widget: list
             fields:
               - {label: Name, name: name, widget: string}
